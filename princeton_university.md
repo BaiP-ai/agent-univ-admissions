@@ -15,36 +15,36 @@
 
 #### Admissions Requirements
 
-- Academic Preparation: Princeton recommends taking challenging courses in English, mathematics, foreign languages, laboratory sciences, and history.
-- GPA: No minimum GPA is required, but a strong academic record is highly valued.
-- Standardized Testing: Princeton accepts the SAT or ACT, with or without writing components.
-- SAT Scores: Middle 50% of admitted students typically score between 700-800 (Evidence-Based Reading and Math) and 700-800 (optional).
-- ACT Scores: Middle 50% of admitted students typically score between 32-35.
-- English Language Proficiency: International students must demonstrate proficiency in English through language proficiency tests such as TOEFL, IELTS, or Cambridge English.
-- Application Checklist: Complete and submit the Coalition Application or the Common App, including all required materials and information.
-- Application Essay: Submit a personal essay or statement as part of the application.
-- Letters of Recommendation: Submit 2-3 letters from teachers, mentors, or supervisors who know you well.
-- Graded Written Paper: Submit a graded written paper or research paper that demonstrates your academic abilities.
-- Optional Arts Supplement: If you have exceptional talent in the arts, submit an optional arts supplement, such as music recordings, artwork, or writing samples.
-- Princeton-specific Questions: Answer Princeton-specific questions as part of the application.
-- Transfer Essay Questions: If applying as a transfer student, answer transfer-specific essay questions.
-- Application Fee: Pay the non-refundable fee of $65 (or request a fee waiver if applicable).
-- Application Deadlines: Submit your application by the Early Decision deadline (mid-November) or Regular Decision deadline (early January).
-- Transfer Application Deadlines: Submit your transfer application by the spring or fall deadline (typically in March or October).
-- Financial Aid: Complete the Free Application for Federal Student Aid (FAFSA) and the College Scholarship Service (CSS) to determine your eligibility for need-based aid.
-- Financial Aid Deadlines: Submit financial aid applications by the priority deadline (typically in February) to ensure timely consideration.
+- Academic Preparation: Princeton recommends taking challenging courses in English, mathematics, science, and social sciences.
+- GPA: There is no minimum GPA requirement, but a strong academic record is expected.
+- Standardized Testing Requirements: Princeton accepts SAT or ACT scores, and the writing test is optional.
+- SAT Scores: The middle 50% of admitted students typically score between 700-800 on each section.
+- ACT Scores: The middle 50% of admitted students typically score between 32-35.
+- English Language Proficiency: International students must demonstrate English proficiency through TOEFL, IELTS, or Cambridge English scores.
+- Application Materials:
+- Application Form: Complete and submit the Common App or Coalition App.
+- Application Fee: A non-refundable fee of $65, or a fee waiver for eligible students.
+- Recommendations: Submit two letters from teachers who know you well.
+- Personal Statement: Write a 500-750 word essay as part of the Common App or Coalition App.
+- Princeton-specific Questions: Answer short-answer questions specific to Princeton.
+- Optional Arts Supplement: Submit an artistic portfolio or writing samples if applicable.
+- Bridge Application: Complete the QuestBridge application if you're a match finalist.
+- Graded Written Paper: Submit a graded paper in a subject area of your choice.
+- Transfer Application: Complete the transfer application, including a transfer essay and course evaluations.
+- Financial Aid Application: Complete the FAFSA and CSS Profile to apply for need-based aid.
+- Income Documentation: Submit tax returns and other financial documents to verify income and household status.
 
 #### Application Deadlines
 
-**Early Action:** {'deadline': 'November 1, 2022', 'additional_info': 'Single-Choice Early Action is a non-binding process. If admitted, you have until May 1 to notify us about your decision to matriculate.', 'notification_date': 'Mid-December'}
+**Early Action:** {'deadline': 'November 1, 2022', 'notification': 'Mid-December', 'additional_info': 'Single-Choice Early Action is a non-binding process. If admitted, you have until May 1 to notify us about your decision to matriculate. If you apply Single-Choice Early Action on Nov. 1, you may not apply to an early program at any other private college or university within the United States.'}
 
-**Regular Decision:** {'deadline': 'January 1, 2023', 'additional_info': 'Regular Decision is a non-binding process. If admitted, you have until May 1 to notify us about your decision to matriculate.', 'notification_date': 'Late March'}
+**Regular Decision:** {'deadline': 'January 1, 2023', 'notification': 'Late March', 'additional_info': 'As with students who are admitted through Single-Choice Early Action, students admitted through Regular Decision have until May 1 to notify us about their decision to matriculate.'}
 
-**Arts Supplement:** {'early_action': 'November 6, 2022', 'regular_decision': 'January 8, 2023'}
+**Financial Aid:** {'early_action': {'deadline': 'November 9, 2022'}, 'regular_decision': {'deadline': 'February 1, 2023'}}
 
-**Princeton Financial Aid Application:** {'early_action': 'November 9, 2022', 'regular_decision': 'February 1, 2023'}
+**Arts Supplement:** {'early_action': {'deadline': 'November 6, 2022'}, 'regular_decision': {'deadline': 'January 8, 2023'}}
 
-**Candidates Reply Date:** May 1, 2023
+**Candidate Reply Date:** {'deadline': 'May 1, 2023'}
 
 ---
 

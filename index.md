@@ -32,7 +32,7 @@ The reports are generated using the [University Admissions Data Generator](https
 - [Uc Berkeley](uc_berkeley.md)
 - [Imperial College London](imperial_college_london.md)
 - [Harvard University](harvard_university.md)
-- [University Data 20250514 125938.Markdown](university_data_20250514_125938.markdown)
+- [University Data 20250601 010441.Markdown](university_data_20250601_010441.markdown)
 
 ## How Reports are Generated
 
@@ -55,6 +55,6 @@ If you'd like to generate a custom report for specific universities, you can:
 
 ---
 
-*Last updated: 2025-05-14 12:59:52*
+*Last updated: 2025-06-01 01:04:55*
 
 *Note: This information is auto-generated and may not be complete or up-to-date. Always verify information with the official university websites.*

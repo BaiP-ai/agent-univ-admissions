@@ -15,19 +15,28 @@
 
 #### Admissions Requirements
 
-- Academic requirements: A-levels, International Baccalaureate Diploma, or equivalent qualifications accepted (check specific course requirements)
-- Typical GPA: 3.2 or higher (varies by course and department)
-- English language requirements: IELTS 6.0, TOEFL 92, or Cambridge Advanced English (varies by course and department)
-- Standardized test scores: not required, but recommended for some courses (e.g., Medicine)
-- Personal statement: 1-2 pages, highlighting academic achievements, interests, and career goals
-- Application fee: £50-100 (waivers available for low-income students)
-- Application reference: 1-2 academic references, submitted through UCAS or directly to Imperial College London
-- Selection process: academic performance, personal statement, and references evaluated; some courses require interviews or admissions tests
-- Deadlines: vary by course and department (check specific course deadlines)
-- Application materials: submit through UCAS or directly to Imperial College London (check specific course requirements)
-- Postgraduate taught and doctoral programs: additional requirements, including research proposals, CVs, and language proficiency tests
-- International students: additional requirements, including English language proficiency, visa applications, and financial guarantees
-- Visiting students: additional requirements, including language proficiency, academic transcripts, and course approvals
+- Undergraduate: A-levels, International Baccalaureate (IB), or equivalent qualifications
+- Postgraduate Taught: Bachelor's degree with a minimum of Upper Second Class Honours (2:1) or a GPA of 3.2/4.0 or equivalent
+- Postgraduate Doctoral: Master's degree with a GPA of 3.2/4.0 or equivalent, or a Bachelor's degree with a minimum of Upper First Class Honours (1st) or a GPA of 3.5/4.0 or equivalent
+- IELTS: 7.0 overall, with a minimum of 6.5 in each section
+- TOEFL: 100 overall, with a minimum of 22 in each section
+- Cambridge English: Advanced (CAE) or Cambridge English: Proficiency (CPE): 185 overall, with a minimum of 176 in each section
+- English language requirements may be waived for certain nationalities or qualifications; check the Imperial College London website for exemptions
+- Personal statement (approx. 500-750 words) outlining academic achievements, research experience, and motivation
+- Academic transcripts and degree certificates
+- Two academic references (for postgraduate applications)
+- English language test results (if applicable)
+- CV (for certain programs, e.g., MBA)
+- Online application form
+- Submission of required documents (e.g., transcripts, references)
+- Payment of application fee (£50-£100, depending on the program)
+- Potential interview or assessment (depending on the program)
+- Undergraduate: UCAS deadlines apply (typically January 15th for equal consideration)
+- Postgraduate: Program-specific deadlines, usually between November and March
+- Tuition fees vary by program and student nationality
+- Scholarships, bursaries, and grants available; check the Imperial College London website for details
+- Loan options for UK, US, and Canadian students
+- International students require a Tier 4 visa; check the Imperial College London website for requirements and guidance
 
 #### Application Deadlines
 

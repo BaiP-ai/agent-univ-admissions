@@ -15,17 +15,16 @@
 
 #### Admissions Requirements
 
-- Meet the minimum GPA requirement: typically a minimum GPA of 3.5 or higher (weighted or unweighted)
-- Take challenging courses: complete a minimum of 4 years of English, 3 years of mathematics, 2 years of laboratory science, 2 years of history, and 2 years of language other than English
-- Take standardized tests: submit scores from either the SAT or the ACT (writing test not required)
-- Take SAT Subject Tests: optional, but recommended for certain majors (e.g., Engineering or Computer Science)
-- Submit letters of recommendation: typically 2 letters from academic teachers and 1 letter from a school counselor or advisor
-- Write and submit essays and short answers: as part of the Common App or Coalition App
-- Complete and submit the Common App or Coalition App: including all required sections and submissions
-- Pay the application fee: $90 (or request a fee waiver if applicable)
-- Submit transcripts and diplomas: from all previous academic institutions
-- International students: submit additional documents, such as TOEFL or IELTS scores, if applicable
-- Check and meet deadlines: Early Decision (ED) deadline is typically November 1, and Regular Decision deadline is typically January 1
+- Meet the minimum high school graduation requirement: completion of a minimum of 12 academic units in the following subjects: English, mathematics, science, social science, and foreign language.
+- Maintain a strong academic record: Stanford is highly selective, and a strong academic performance is expected, although no minimum GPA is specified.
+- Take challenging course load: Stanford recommends taking Advanced Placement (AP) or International Baccalaureate (IB) classes in subjects relevant to your intended major, if available.
+- Take standardized tests: Submit scores from either the SAT or the ACT, with or without writing. Stanford is test-optional for the 2022-2023 application cycle.
+- Submit letters of recommendation: Two letters from academic teachers who know you well, typically from your junior or senior year, are required.
+- Write and submit essays: The Common App essay (650 words) and Stanford Questions (250-300 words each) are required.
+- Complete and submit the Common App: The online application platform, which includes personal information, academic history, and activities.
+- Pay the application fee: A non-refundable fee of $90, or request a fee waiver if you meet certain eligibility criteria.
+- Submit optional arts or athletic supplements: If you're an artist, musician, or athlete, you may submit additional materials to showcase your talent.
+- Meet the applicable deadlines: Restrictive Early Action (REA) is November 1, and Regular Decision is January 5.
 
 #### Application Deadlines
 

@@ -15,17 +15,16 @@
 
 #### Admissions Requirements
 
-- Meet the minimum academic requirements: AAA at A-level, or 38-40 points in the International Baccalaureate, or other equivalent qualifications.
-- Take and submit scores for required standardized tests, such as GCSEs, A-levels, or equivalent qualifications.
-- Achieve a minimum GPA of 3.7 or higher (typical for universities like University of Oxford) in previous academic studies.
-- Provide certified translations of academic transcripts and certificates, if not in English.
-- Submit a UCAS (Universities and Colleges Admissions Service) application, including a personal statement and academic reference.
-- Pay the UCAS application fee (£13 for 2022 entry).
-- Complete and submit any additional assessments, such as the Oxford University Admissions Tests (e.g., LNAT, PAT, etc.), if required for your course.
-- Participate in an interview, if invited, as part of the admissions process.
-- Provide proof of English language proficiency, if English is not your first language (e.g., IELTS, TOEFL, etc.).
-- Meet any specific course requirements, such as submitting written work or participating in a skills assessment.
-- Apply for and secure a college placement, as part of the Oxford University college system.
+- Academic achievement: Typically, A*AA or AAA at A-level, or equivalent qualifications (e.g., International Baccalaureate, Cambridge Pre-U, or European Baccalaureate)
+- Specific subject requirements: Vary by course, but often include A-levels in relevant subjects (e.g., mathematics, sciences, languages)
+- GCSE requirements: Typically, A*-A grades in at least 3 subjects, including English Language and Mathematics
+- English language proficiency: For international students, IELTS 7.0 or equivalent, with at least 7.0 in each component
+- Standardized tests: Some courses may require additional tests, such as the Biomedical Admissions Test (BMAT), Law National Aptitude Test (LNAT), or Oxford University Mathematics Admissions Test (MAT)
+- Personal statement: A 400-500 word statement outlining academic interests, achievements, and career goals
+- Academic written work: One or two pieces of marked work, typically 1,000-2,000 words, demonstrating academic writing and critical thinking skills
+- Teacher reference: A reference from a teacher or academic advisor, commenting on academic performance and potential
+- UCAS application: Submit an online application through the Universities and Colleges Admissions Service (UCAS)
+- Application fee: Pay a non-refundable application fee (typically £20-£25)
 
 #### Application Deadlines
 

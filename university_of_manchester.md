@@ -15,42 +15,22 @@
 
 #### Degree Programs
 
-**MSc Accounting** (Master's, 1 year)
+**PhD in Researcher Development** (PhD, 3-4 years)
 
-This program provides students with a comprehensive understanding of accounting principles, theories, and practices. It also develops skills in financial analysis, and decision-making.
-
-**BSc Economics** (Bachelor's, 3 years)
-
-This program covers the core principles of economics, macroeconomics, and econometrics. It also develops skills in data analysis, critical thinking, and problem-solving.
-
-**PhD Computer Science** (PhD, 3-4 years)
-
-This program enables students to conduct original research in computer science, contributing to the advancement of knowledge in the field.
+This PhD program focuses on developing researchers' skills and knowledge in various disciplines, enabling them to excel in their chosen fields. Students will explore research methodologies, ethics, and professional development.
 
 #### Admissions Requirements
 
-- Academic Requirements:
--     • A-levels: AAA-ABB (dependent on the course),
--     • International Baccalaureate: 33-35 points (dependent on the course),
--     • BTEC qualifications: DDD-DDM (dependent on the course),
--     • Cambridge Pre-U: D2-D3 (dependent on the course),
--     • Scottish Advanced Highers: AA-AB (dependent on the course),
--     • Welsh Baccalaureate: A-AB (dependent on the course),
--     • Access to HE Diplomas: 45-39 credits at Distinction-Merit (dependent on the course),
--     • Other qualifications: Please check the University's website for specific requirements.
-- GPA Requirements:
--     • Typical GPA: 3.5-3.8 (on a 4.0 scale),
--     • Please note that GPA is not always a requirement, and the University may consider other academic achievements.
-- English Language Requirements:
--     • IELTS: 6.0-7.0 overall (with no less than 5.5 in each component),
--     • TOEFL: 80-100 overall (with no less than 17 in Writing, 18 in Listening, 20 in Reading, and 20 in Speaking),
--     • Cambridge English: 169-190 overall (with no less than 162 in each component),
--     • Other English language qualifications: Please check the website for specific requirements.
-- Application Materials:
--     • UCAS application form,
--     • Personal statement (typically 400-500 words),
--     • Academic reference,
--     • Transcripts and certificates (translated into English if necessary),
+- A minimum of 3 A-levels (or equivalent qualifications) with grades A*AA, AAA, or AAB, depending on the course
+- A minimum of 36 points in the International Baccalaureate (IB) with 6,6,6 or 7,6,5 in Higher Level subjects
+- Levels in relevant subjects, such as Maths and Science, may be specified for some courses
+- GCSEs in English Language and Maths at grade C or above (or equivalent qualifications)
+- Typically, a minimum GPA of 3.5 or higher in relevant subjects for international students
+- English language proficiency: IELTS 6.5 overall with 6.0 component, or TOEFL 90 overall with 22 in each component
+- Personal statement (approx. 400-500 words) outlining academic achievements, interests, and motivation for the course
+- Academic references from teachers or professors, submitted through UCAS or directly to the university
+- Course-specific requirements, such as auditions, interviews, or additional assessments, may apply for certain programs
+- Certified copies of academic transcripts, certificates, and diplomas (translated into English if necessary)
 
 #### Application Deadlines
 

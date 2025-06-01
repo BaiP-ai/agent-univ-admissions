@@ -17,49 +17,27 @@
 
 **PhD Studentships** (PhD, 3-4 years)
 
-The PhD Studentships program at LSE provides students with advanced research training and the opportunity to contribute to original research in their chosen field, preparing them for careers in academia, research, or government. Students receive comprehensive training in research design, and data analysis, and have access to expert supervision and research resources.
+This program provides advanced research training in a specific field, culminating in an original contribution to knowledge. Students work closely with faculty members to develop their research skills and expertise.
 
 #### Admissions Requirements
 
-- Applicants should
-contact UCAS
-for any technical questions about the application process or for guidance on the UCAS procedures.
-- In order to be eligible for consideration, applicants applying for second year must meet the following requirements
-Meet the original first year entry requirements for the programme (eg A level or IB requirements)
-Achieve the equivalent of a 2:1 in your first year studies
-Your current first year studies must be the same as the first year at LSE (you must provide a copy of your transcript)
-There must be spaces available in the second year of the programme
-Students currently enrolled at another university wishing to gain admission to LSE in the second year should apply via UCAS, and should do so by the UCAS January deadline.
-- Due to the intense level of competition for places at LSE, we are unable to guarantee entry, even where applicants have met all of our requirements.
-- It is recommended that you
-contact Undergraduate Admissions
-for advice on specific programme requirements before applying.
-- Share
-Email a link to this page
-Share on Facebook
-Share on LinkedIn
-Applying to LSE: a guide to making a competitive undergraduate application
-Watch our video to find out what we're looking for in competitive candidates
-Virtual Undergraduate Open Day videos
-Watch sessions delivered by academic departments, LSE students and support services
-LSE Discovery Sessions
-Attend a virtual information and Q&A session to find out more about undergraduate study at LSE
-Entry requirements
-Accepted qualifications and the grades we're looking for
-Making an application
-How to complete the UCAS form, and required documents
-Admissions calendar
-Important dates in the admissions process
-Admissions policy
-Read more about our policy, including on data protection
-Mature applicants
-Information for applicants over 21
-London School of Economics and Political Science
-Houghton Street
-London
-WC2A 2AE
-UK
-LSE is a private company limited by guarantee, registration number 70527.
+- Academic Requirements:
+-   • Meet the original first-year entry requirements for the program (e.g., A-level or IB requirements)
+-   • Achieve the equivalent of a 2:1 in your first-year studies (GPA: typically 3.3 or higher)
+-   • Your current first-year studies must be the same as the first year at LSE (you must provide a copy of your transcript)
+- Application Materials:
+-   • Complete the UCAS application form
+-   • Submit required documents, including a copy of your transcript and proof of meeting the English language requirement (if applicable)
+-   • International students may require additional documents, such as language proficiency test scores (e.g., IELTS or TOEFL)
+- English Language Requirement:
+-   • Typically, a minimum of IELTS 7.0 or TOEFL 100 (internet-based) is required for international students
+-   • Check the LSE website for specific language requirements for your country
+- Additional Requirements:
+-   • Mature applicants (over 21) should review the specific requirements for their age group
+-   • Students currently enrolled at another university wishing to gain admission to LSE in the second year should apply via UCAS and meet the specified deadlines
+- Important Notes:
+-   • Due to the intense level of competition for places at LSE, meeting all requirements does not guarantee entry
+-   • It is recommended that you contact Undergraduate Admissions for advice on specific program requirements before applying
 
 #### Application Deadlines
 

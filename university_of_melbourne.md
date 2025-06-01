@@ -15,14 +15,12 @@
 
 #### Admissions Requirements
 
-- Meet the academic requirements: completion of an Australian Year 12 or equivalent international qualification
-- Achieve a minimum Australian Tertiary Admissions Rank (ATAR) of 85.00 or equivalent
-- Satisfy the prerequisite subjects for your chosen course, if applicable
-- Meet the English language requirements: IELTS overall band of 6.5, with no band less than 6.0, or TOEFL iBT overall score of 105, with a written section score of at least 24 and no section score less than 21
-- Provide certified copies of academic transcripts and certificates
-- Submit a personal statement or motivation letter, outlining your academic achievements, career goals, and reasons for choosing the University of Melbourne
-- Provide references or letters of recommendation from academic or professional referees
-- Pay the application fee, if applicable
+- Check your eligibility
+arrow-right
+English language requirements
+Your lectures, tutorials, exams, class discussions and other activities will all be in English.
+- Learn about the requirements
+arrow-right
 
 #### Application Deadlines
 
