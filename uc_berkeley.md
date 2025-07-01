@@ -17,18 +17,25 @@
 
 #### Admissions Requirements
 
-- Academic Requirement: Complete a minimum of 15 college-prep courses, including 7 courses taken in the last 2 years of high school, with a minimum GPA of 3.0 or better.
-- Academic Requirement: Complete courses in the following subjects: English (4 years), Math (3 years), Laboratory Science (2 years), Language other than English (2 years), Visual and Performing Arts (1 year), and College Prep Electives (1 year).
-- Academic Requirement: Complete a minimum of 2 years of history/social science, and 4 years of college-prep English.
-- Test Score Requirement: Submit scores from the SAT or ACT with Writing. UC Berkeley is test-blind, meaning scores will not be considered in the admission review process.
-- Application Material: Submit the UC application, which includes 4 Personal Insight Questions, and a list of courses and grades.
-- Application Material: Submit official transcripts from all high schools attended.
-- Application Material: Submit letters of recommendation from academic teachers or school counselors (optional but recommended).
-- Application Material: Submit a list of extracurricular activities, volunteer work, and work experience.
-- Application Material: Submit a statement of intent to pursue a major, if applicable.
-- Residency Requirement: Meet the University of California's residency requirements for tuition purposes.
-- Application Deadline: Submit the application and all required materials by the published deadline (typically November 30).
-- Application Fee: Pay the $70 application fee or request a fee waiver, if eligible.
+- Meet the University of California's minimum eligibility requirements, including a minimum 3.0 GPA in all 'a-g' courses for California residents and a minimum 3.4 GPA for non-residents.
+- Complete a minimum of 15 college-preparatory 'a-g' courses with a grade of C or better, including:
+-   • 2 years of history/social science
+-   • 4 years of English
+-   • 3 years of mathematics (including calculus for students applying to engineering or computer science majors)
+-   • 2 years of laboratory science (including 1 year of physics and 1 year of chemistry for students applying to engineering or computer science majors)
+-   • 2 years of language other than English (or equivalent proficiency)
+-   • 1 year of visual and performing arts
+-   • 1 year of college-preparatory elective
+- Take the SAT or ACT exam, and submit official scores (writing component not required)
+- Submit official transcripts from all high schools attended
+- Submit letters of recommendation from 2 academic teachers (optional but recommended)
+- Complete and submit the UC application, including:
+-   • Personal Insight Questions (4 short essays)
+-   • List of extracurricular activities and volunteer work
+-   • List of coursework and grades
+-   • Application fee or fee waiver
+- If applicable, submit additional materials for majors that require them (e.g., art portfolios, music recordings)
+- If applicable, submit documentation for students with disabilities or requiring accommodations
 
 #### Application Deadlines
 

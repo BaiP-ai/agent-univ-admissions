@@ -15,36 +15,19 @@
 
 #### Admissions Requirements
 
-- Academic Requirements:
--   • Minimum overall average of 80% in high school diploma (or equivalent) for most programs
--   • Specific high school courses required for certain programs (e.g., calculus, physics, etc.)
--   • Competitive admission average varies by program and faculty
--   • International students: academic requirements vary by country and curriculum
-- English Language Requirements:
--   • Proof of English language proficiency (e.g., TOEFL, IELTS, CAEL, etc.)
--   • Minimum scores: TOEFL (100+), IELTS (6.5+), CAEL (70+)
-- Test Scores:
--   • SAT or ACT scores (optional, but recommended for some programs
--   • SAT Subject Tests or AP exams (optional, but recommended for some programs)
-- Application Materials:
--   • Personal statement or essay (required for some programs)
--   • Letters of recommendation (required for some programs)
--   • Portfolio or audition (required for some programs
--   • Official high school transcripts and diplomas
--   • English language proficiency test results
--   • SAT or ACT scores (if submitted)
--   • Other supplementary materials (e.g., artwork, music recordings, etc.)
-- Application Deadlines:
--   • January 15 for early admission consideration
--   • March 1 for regular admission
--   • Check the Program Finder for specific deadlines
-- Transfer Credit Information:
--   • Check the Transfer Credit Policy for eligible credits
--   • Maximum number of transfer credits varies by faculty and program
-- Important Notes:
--   • Some programs require additional applications or assessments
--   • Check the Program Finder for specific requirements and deadlines
--   • Be aware of possible fraud scams and protect your personal information
+- Academic Requirements: Meet the minimum admission average of 80% or higher, calculated based on six 4U or 4M courses, including English and other required subjects for the intended program.
+- Prerequisite Courses: Complete specific high school courses required for the intended program, such as advanced functions, calculus, and laboratory sciences.
+- GPA Requirement: Typically, a minimum GPA of 3.0 or higher is required for admission to competitive programs.
+- Test Scores: Submit official test scores, such as SAT or ACT, if requested by the program or faculty.
+- English Language Requirements: Meet one of the following: (1) Completion of four years of high school in Canada, (2) Minimum score of 100 on the TOEFL iBT, (3) Minimum score of 7.0 on the IELTS, or (4) Other accepted language proficiency tests.
+- Proof of English Facility: Provide proof of English language proficiency, such as a language proficiency certificate or a grade of 70% or higher in ENG4U.
+- Application Materials: Submit the online application, including all required fields and supplementary information.
+- Academic Records: Upload or submit official high school transcripts, including grades and course information.
+- Required Documents: Submit additional documents, such as proof of citizenship, proof of name change, or other required documents specified by the program or faculty.
+- Supplementary Materials: Submit additional materials, such as portfolios, auditions, or writing samples, if required by the program or faculty.
+- Application Fee: Pay the non-refundable application fee of $90 CAD for domestic students or $180 CAD for international students.
+- Important Application Dates: Check the specific deadlines for application submission, document submission, and other requirements, which vary by program and faculty.
+- Transfer Credit Information: If applicable, submit official transcripts and course descriptions for transfer credit evaluation.
 
 #### Application Deadlines
 

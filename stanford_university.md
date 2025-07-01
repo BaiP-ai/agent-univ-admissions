@@ -15,16 +15,18 @@
 
 #### Admissions Requirements
 
-- Meet the minimum high school graduation requirement: completion of a minimum of 12 academic units in the following subjects: English, mathematics, science, social science, and foreign language.
-- Maintain a strong academic record: Stanford is highly selective, and a strong academic performance is expected, although no minimum GPA is specified.
-- Take challenging course load: Stanford recommends taking Advanced Placement (AP) or International Baccalaureate (IB) classes in subjects relevant to your intended major, if available.
-- Take standardized tests: Submit scores from either the SAT or the ACT, with or without writing. Stanford is test-optional for the 2022-2023 application cycle.
-- Submit letters of recommendation: Two letters from academic teachers who know you well, typically from your junior or senior year, are required.
-- Write and submit essays: The Common App essay (650 words) and Stanford Questions (250-300 words each) are required.
-- Complete and submit the Common App: The online application platform, which includes personal information, academic history, and activities.
-- Pay the application fee: A non-refundable fee of $90, or request a fee waiver if you meet certain eligibility criteria.
-- Submit optional arts or athletic supplements: If you're an artist, musician, or athlete, you may submit additional materials to showcase your talent.
-- Meet the applicable deadlines: Restrictive Early Action (REA) is November 1, and Regular Decision is January 5.
+- Meet the minimum high school graduation requirement: complete a minimum of 12 academic units, including 4 years of English, 3 years of mathematics, 2 years of laboratory science, 2 years of history, and 2 years of language other than English.
+- Maintain a competitive GPA: Stanford University is highly selective, and a strong academic record is expected, with a recommended minimum GPA of 3.5 or higher.
+- Take challenging courses: pursue a rigorous academic course load, including Advanced Placement (AP) or International Baccalaureate (IB) classes, if available.
+- Take standardized tests: submit scores from the SAT or ACT, with a recommended minimum score of 32 or higher for the ACT, and 700 or higher for the SAT Evidence-Based Reading and Writing and Math sections.
+- Optional: submit SAT Subject Test scores, which can demonstrate subject mastery and enhance your application.
+- Complete and submit the Coalition Application or Common Application, including all required fields and information.
+- Pay the $90 non-refundable application fee, or request a fee waiver if eligible.
+- Submit letters of recommendation: provide at least 2 letters from academic teachers or mentors who know you well.
+- Write and submit essays and short answers: respond to the prompts provided in the application, showcasing your writing skills, personality, and goals.
+- Submit a School Report: provide an official report from your school counselor or academic advisor, including your transcript and any relevant academic information.
+- Optional: submit additional materials, such as artwork, music recordings, or writing samples, if they are relevant to your application and showcase your talents.
+- Meet the application deadlines: submit your application by the Early Decision deadline (November 1) or the Regular Decision deadline (January 1).
 
 #### Application Deadlines
 

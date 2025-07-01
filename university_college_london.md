@@ -17,20 +17,18 @@
 
 #### Admissions Requirements
 
-- Meet the A Level or equivalent first year entry requirements for the programme
-- Have a minimum GPA of 3.3 or higher (typical for universities like UCL)
-- Take required standardized tests (e.g., SAT, ACT, IB) and meet the programme's score requirements
-- Specific grade and subject requirements are shown on each programme page of the Undergraduate Prospectus
-- Meet the English language requirements (e.g., IELTS, TOEFL, Cambridge English)
-- Submit your UCAS application by the equal consideration deadline
-- Guarantee your application gets considered by meeting all our entry requirements
-- Check the programme's webpage for specific entry requirements, application processes, deadlines, course contents, and fee structures
-- If applying for second year entry, demonstrate a genuine compelling reason for transferring
-- If applying for second year entry, have covered similar content to the first year at UCL (at a standard judged equivalent) at your current higher education institution
-- If required, complete compulsory national military service and exceptionally defer entry to UCL by up to two years
-- Submit additional materials for specific programmes (e.g., Engineering Foundation Year, Faculty of Arts and Humanities, Greek and Latin (Classics and the Ancient World, Hebrew and Jewish Studies)
-- Submit additional materials for specific programmes (e.g., Faculty of Engineering Sciences, Information Management for Business, Singapore Polytechnic Diploma in Business Information Technology)
-- Submit additional materials for specific programmes (e.g., Institute of Education, BA Education, Society and Culture, Faculty of Medical Sciences, Cancer Biomedicine, Infection & Immunity, Applied Medical Sciences, Nutrition and Medical Sciences, Medical Innovation and Enterprise, Sports and Exercise Sciences)
+- Meet the specific grade and subject requirements for the chosen programme, as shown on each programme page of the Undergraduate Prospectus.
+- Meet the A Level or equivalent first year entry requirements for the programme, if applying for second year transfer.
+- Have covered similar content to the first year at UCL (at a standard judged equivalent) at your current higher education institution, if applying for second year transfer.
+- Typically, a minimum GPA of 3.3 or higher (on a 4.0 scale) or equivalent is required for undergraduate programmes.
+- English language proficiency: IELTS (Academic) - 6.0 overall, with a minimum of 5.5 in each component; TOEFL - 80 overall, with a minimum of 20 in each component; Cambridge English Advanced - 169 overall, with a minimum of 162 in each component.
+- Submit your application through UCAS by the equal consideration deadline to guarantee consideration.
+- International applicants must check the international qualification entry requirements by selecting their country or the country from which their qualification originates, from the drop-down menu in the Other Qualifications section.
+- Applicants who are required to complete compulsory national military service may be able to exceptionally defer their entry to UCL by up to two years.
+- Applicants with a disability should contact the Disability Services team to discuss their needs and arrangements.
+- Submit all required application materials, including transcripts, certificates, and references, as specified by the programme.
+- Pay the application fee, if applicable.
+- Meet the programme-specific entry requirements, as outlined on each programme page.
 
 #### Application Deadlines
 

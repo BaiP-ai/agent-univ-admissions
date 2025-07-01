@@ -17,17 +17,27 @@
 
 #### Admissions Requirements
 
-- Academic Qualifications: SPM/O-Level/IGCSE with at least 5 credits, including Bahasa Malaysia and 2 other subjects.
-- Academic Qualifications: STPM/STAM/Matriculation/Foundation/High School/Diploma/A-level/Others, with a minimum CGPA of 2.00.
-- English Language Proficiency: IELTS (Band 5.0 and above), TOEFL (500 and above), or MUET (Band 3 and above).
-- Academic Qualifications: Upload certificates and transcripts for all previous academic qualifications.
-- Personal Details: Provide complete and accurate information, including name, date of birth, nationality, and contact details.
-- Next of Kin Details: Provide complete and accurate information, including name, relationship, and contact details.
-- Registration: Create an account via http://apply.um.edu.my and proceed to create a new application.
-- Program Selection: Select the preferred undergraduate program, choosing 'Citizen' as the nationality, 'Universiti Malaya's Open Channel (SATU)' as the mode of implementation, and 'Undergraduate: Universiti Malaya's Open Channel (SATU)' as the level of study.
-- Application Submission: Click the 'APPLY' button to submit the application.
-- Application Fee: Pay a non-refundable processing fee of RM300.
-- Application Deadline: Submit the application by the specified deadline for Semester 1, Session 2025/2026 intake.
+- Academic Requirements:
+-   • Foundation programmes: minimum of 5 credits in SPM/O-Level, including Bahasa Malaysia and Mathematics
+-   • Diploma programmes: minimum of 3 credits in SPM/O-Level, including Bahasa Malaysia and Mathematics
+-   • Undergraduate programmes: minimum of 2.00 CGPA in STPM/A-Level, or equivalent
+-   • Postgraduate programmes: Bachelor's degree with a minimum of 2.50 CGPA, or equivalent
+-   • Postgraduate Diploma in Education: Bachelor's degree with a minimum of 2.50 CGPA, or equivalent
+- English Language Requirements:
+-   • Malaysian students: minimum of Band 3 in Malaysian University English Test (MUET), or equivalent
+-   • International students: minimum of 5.5 in IELTS, or 550 in TOEFL, or equivalent
+- Application Materials:
+-   • Completed online application form
+-   • Certified true copies of academic transcripts and certificates
+-   • Certified true copies of identification documents (e.g., IC, passport)
+-   • Passport-sized photographs
+-   • Payment of application fee (RM 150 for Malaysian students, USD 30 for international students)
+-   • Additional documents may be required for specific programmes (e.g., portfolio, audition, etc.)
+- Application Deadlines:
+-   • Refer to the specific deadlines listed above for each programme and intake
+- Additional Requirements:
+-   • Some programmes may require additional entrance exams, interviews, or assessments
+-   • International students may require a student visa and must comply with Malaysian immigration regulations
 
 #### Application Deadlines
 

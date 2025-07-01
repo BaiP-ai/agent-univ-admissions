@@ -15,29 +15,26 @@
 
 #### Degree Programs
 
-**PhD Studentships** (PhD, 3-4 years)
+**PhD Economics** (PhD, 4-5 years)
 
-This program provides advanced research training in a specific field, culminating in an original contribution to knowledge. Students work closely with faculty members to develop their research skills and expertise.
+The PhD Economics program at LSE provides students with advanced training in economic theory, econometrics, and research methods, preparing them for careers in academia, research, and policy-making. Students develop expertise in a chosen area of economics and produce original research contributing to the field.
 
 #### Admissions Requirements
 
-- Academic Requirements:
--   • Meet the original first-year entry requirements for the program (e.g., A-level or IB requirements)
--   • Achieve the equivalent of a 2:1 in your first-year studies (GPA: typically 3.3 or higher)
--   • Your current first-year studies must be the same as the first year at LSE (you must provide a copy of your transcript)
-- Application Materials:
--   • Complete the UCAS application form
--   • Submit required documents, including a copy of your transcript and proof of meeting the English language requirement (if applicable)
--   • International students may require additional documents, such as language proficiency test scores (e.g., IELTS or TOEFL)
-- English Language Requirement:
--   • Typically, a minimum of IELTS 7.0 or TOEFL 100 (internet-based) is required for international students
--   • Check the LSE website for specific language requirements for your country
-- Additional Requirements:
--   • Mature applicants (over 21) should review the specific requirements for their age group
--   • Students currently enrolled at another university wishing to gain admission to LSE in the second year should apply via UCAS and meet the specified deadlines
-- Important Notes:
--   • Due to the intense level of competition for places at LSE, meeting all requirements does not guarantee entry
--   • It is recommended that you contact Undergraduate Admissions for advice on specific program requirements before applying
+- Meet the original first year entry requirements for the programme, which typically include:
+- A-levels: AAA-ABB, with specific subject requirements varying by programme
+- International Baccalaureate (IB): 37-38 points, with specific subject requirements varying by programme
+- Other qualifications, such as the European Baccalaureate, French Baccalaureate, or German Abitur, are also considered
+- For students applying from outside the UK, equivalent qualifications and grades are required
+- Applicants must achieve a minimum GPA of 3.3 or higher in their first-year studies (if applicable)
+- For second-year entry, achieve the equivalent of a 2:1 in your first-year studies
+- Provide a copy of your transcript to demonstrate your academic performance
+- Your current first-year studies must be the same as the first year at LSE
+- There must be spaces available in the second year of the programme
+- Submit your application through UCAS, including all required documents and information
+- Meet the UCAS January deadline for second-year entry applications
+- Contact Undergraduate Admissions for advice on specific programme requirements before applying
+- Provide any additional required documents, such as English language proficiency test scores (e.g., IELTS or TOEFL), if applicable
 
 #### Application Deadlines
 

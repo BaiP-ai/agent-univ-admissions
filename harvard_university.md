@@ -15,119 +15,22 @@
 
 #### Admissions Requirements
 
-- Admissions | Harvard College
-Skip to main content
-Primary Navigation
-About
-About Overview
-Mission, Vision, & History
-Mission, Vision, & History Submenu
-History of Financial Aid
-Dean Rakesh Khurana
-Dean Rakesh Khurana Submenu
-Messages to Students
-Messages to Parents & Families
-Dean's Office Staff
-Campus
-Campus Submenu
-Campus Spotlights
-Harvard Terms & Acronyms
-Información en Español
-College Offices
-College Offices Submenu
-Alumni Resources
-College News
-Admissions
-Admissions Overview
-Admissions Overview Submenu
-Admissions Statistics
-Why Harvard
-Why Harvard Submenu
-Affordability
-Academic Environment
-Residential Life
-Innovation
-Arts & Humanities
-Student Activities
-Diversity and Access
-Explore Harvard
-Explore Harvard Submenu
-On-Campus Visits
-Meet Us Online
-Virtual Tour
-Connect With Students
-Undergraduate Viewbook
-Apply
-Apply Submenu
-First-Year Applicants
-Considering a Gap Year
-Application Requirements
-Transfer Applicants
-U.S.
-- Can I self-report my test scores?
-- If you do not meet one of the indicators of economic need, you may enter the Harvard-specific fee waiver code on the payment page: JH3S5Q2LX9
-Transfer Applicants
-Please see the
-Transfer Application Requirements
-for information about requesting a transfer application fee waiver.
-- Which standardized tests does Harvard require?
-- Harvard requires the SAT or ACT to meet its standardized testing requirement.
-- In exceptional cases, when those are not accessible for a student, one of the following can meet the requirement:
-AP exam results
-IB Actual or Predicted Scores
-GCSE/A-Level Actual or Predicted Results
-National Leaving Exams Results (externally assessed) or Predictions
-Exceptional cases typically involve a student facing challenges in paying for or accessing a test site or a student being unable to secure an available seat at a test site prior to the Regular Decision deadline.
-- English language proficiency examinations such as the TOEFL, IELTS and Duolingo
-cannot be used
-to meet the standardized testing requirement, though students are welcome to submit them for review as part of their application materials.
-- Students may self report their standardized test scores.
-- We encourage students in this situation to take and submit results from other standardized tests to which they have greater access.
-- The supplement includes five required short-answer questions, each with a 150 word limit.
-- Quick Links
-First-Year Applicants
-Application Requirements
-Transfer Applicants
-International Applicants
-Visiting Undergraduate Students
-U.S.
-- Application Requirements
-Here you'll find a detailed explanation of each requirement of the application, including teacher recommendations, test scores, and school reports.
-- Clery (Campus Security) Act
-The University is required by federal law (The Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act, 20 U.S.C.
-- Retention and Graduation Rates
-As required, we have reported our graduation rates of degree-seeking, first-time, full-time undergraduates to the department via the
-IPEDs website
-.
-- Toggle
-Admissions
-Submenu
-Admissions Overview
-Admissions Overview Submenu
-Admissions Statistics
-Why Harvard
-Why Harvard Submenu
-Affordability
-Academic Environment
-Residential Life
-Innovation
-Arts & Humanities
-Student Activities
-Diversity and Access
-Explore Harvard
-Explore Harvard Submenu
-On-Campus Visits
-Meet Us Online
-Virtual Tour
-Connect With Students
-Undergraduate Viewbook
-Apply
-Apply Submenu
-First-Year Applicants
-Considering a Gap Year
-Application Requirements
-Transfer Applicants
-U.S.
+- Academic Requirement: Complete a high school diploma or equivalent
+- Academic Requirement: Meet Harvard's standardized testing requirement with one of the following: SAT or ACT
+- Exceptional Cases: In lieu of SAT or ACT, students may submit AP exam results, IB Actual or Predicted Scores, GCSE/A-Level Actual or Predicted Results, or National Leaving Exams Results (externally assessed) or Predictions
+- GPA Requirement: No minimum GPA specified, but a strong academic record is expected
+- Test Score Requirement: Self-reported test scores are accepted, but official scores may be required for verification
+- English Language Proficiency: If applicable, submit English language proficiency examinations such as TOEFL, IELTS, or Duolingo (not accepted as a substitute for standardized testing requirement)
+- Application Material: Submit the Common App or Coalition App with the following components:
+- Application Material: Personal statement/essay
+- Application Material: Activities list
+- Application Material: School report (submitted by school counselor)
+- Application Material: Teacher recommendations (2 required)
+- Application Material: Supplement with 5 required short-answer questions (each with a 150-word limit)
+- Application Material: Optional: Additional information, such as artwork, music recordings, or writing samples
+- Fee Requirement: $75 application fee (waivers available for eligible students)
+- Fee Requirement: Harvard-specific fee waiver code: JH3S5Q2LX9 (for eligible students)
+- International Applicants: Additional requirements may apply, such as English language proficiency tests or certified translations of academic records
 
 #### Application Deadlines
 

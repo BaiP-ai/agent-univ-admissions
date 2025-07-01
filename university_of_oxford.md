@@ -15,16 +15,27 @@
 
 #### Admissions Requirements
 
-- Academic achievement: Typically, A*AA or AAA at A-level, or equivalent qualifications (e.g., International Baccalaureate, Cambridge Pre-U, or European Baccalaureate)
-- Specific subject requirements: Vary by course, but often include A-levels in relevant subjects (e.g., mathematics, sciences, languages)
-- GCSE requirements: Typically, A*-A grades in at least 3 subjects, including English Language and Mathematics
-- English language proficiency: For international students, IELTS 7.0 or equivalent, with at least 7.0 in each component
-- Standardized tests: Some courses may require additional tests, such as the Biomedical Admissions Test (BMAT), Law National Aptitude Test (LNAT), or Oxford University Mathematics Admissions Test (MAT)
-- Personal statement: A 400-500 word statement outlining academic interests, achievements, and career goals
-- Academic written work: One or two pieces of marked work, typically 1,000-2,000 words, demonstrating academic writing and critical thinking skills
-- Teacher reference: A reference from a teacher or academic advisor, commenting on academic performance and potential
-- UCAS application: Submit an online application through the Universities and Colleges Admissions Service (UCAS)
-- Application fee: Pay a non-refundable application fee (typically £20-£25)
+- Academic requirements:
+-   • A strong academic record, typically with excellent grades in relevant subjects
+-   • Meeting the specific subject requirements for your chosen course
+-   • A minimum of 36 points in the International Baccalaureate (IB), with 6s and 7s in higher-level subjects
+-   • A minimum of AAA in A-levels, with A*s in relevant subjects (some courses may require A*AA or AAAA)
+-   • GCSEs in English Language and Mathematics at grade A or 7 (some courses may require additional GCSEs)
+- Standardized test scores:
+-   • SAT or ACT scores, if applicable (some courses may require these for international students)
+-   • Oxford University's own admissions tests, such as the Oxford TSA, LNAT, or other subject-specific tests
+- English language proficiency:
+-   • IELTS: minimum overall score of 7.0, with at least 6.5 in each component
+-   • TOEFL iBT: minimum overall score of 110, with at least 25 in each component
+-   • Cambridge English: Advanced or Proficiency, with a minimum overall score of 191
+- Application materials:
+-   • UCAS application form, submitted by the January deadline
+-   • Personal statement, outlining your academic achievements, interests, and goals
+-   • Academic reference, submitted by your school or college
+-   • Written work, such as essays or projects, as required by some courses
+- Other requirements:
+-   • Interviews, either in-person or online, as part of the selection process
+-   • Proof of English language proficiency, if applicable
 
 #### Application Deadlines
 
