@@ -15,17 +15,23 @@
 
 #### Admissions Requirements
 
-- Completed Common Application or Coalition Application
-- Official high school transcripts
-- Letters of recommendation from teachers (typically 2-3)
-- Personal statement or essay
-- Application fee or fee waiver request
-- Strong academic record with challenging coursework (AP, IB, etc.)
-- Standardized test scores (SAT/ACT may be optional)
-- Demonstrated excellence in extracurricular activities
-- Evidence of leadership and community involvement
-- SAT Subject Tests (recommended but not required)
-- International applicants: TOEFL/IELTS scores if English is not your first language
+- Academic Requirements:
+-   • Complete a high school diploma or equivalent from an accredited institution.
+-   • Take challenging courses in math and science, such as AP or IB classes, if available.
+- GPA Requirement:
+-   • MIT does not have a minimum GPA requirement, but a competitive GPA is typically 4.0 or higher.
+- Standardized Test Scores:
+-   • Submit scores from the SAT or ACT, with a middle 50% range of 1490-1590 (SAT) or 34-35 (ACT).
+-   • International students may submit TOEFL or IELTS scores, if English is not their first language.
+- Application Materials:
+-   • Submit the Common App or Coalition App online application.
+-   • Pay the $75 application fee or request a fee waiver.
+-   • Upload a resume or activity list highlighting extracurricular activities and achievements.
+-   • Write and submit a personal statement or essay (250-500 words).
+-   • Provide letters of recommendation from two teachers or mentors.
+-   • Submit a mid-year report and final transcript from your school counselor.
+- Deadlines and Announcements:
+-   • Check the MIT website for application deadlines, typically in November or January for early or regular decision.
 
 #### Application Deadlines
 

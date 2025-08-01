@@ -17,25 +17,22 @@
 
 #### Admissions Requirements
 
-- Meet the University of California's minimum eligibility requirements, including a minimum 3.0 GPA in all 'a-g' courses for California residents and a minimum 3.4 GPA for non-residents.
-- Complete a minimum of 15 college-preparatory 'a-g' courses with a grade of C or better, including:
--   • 2 years of history/social science
--   • 4 years of English
--   • 3 years of mathematics (including calculus for students applying to engineering or computer science majors)
--   • 2 years of laboratory science (including 1 year of physics and 1 year of chemistry for students applying to engineering or computer science majors)
--   • 2 years of language other than English (or equivalent proficiency)
--   • 1 year of visual and performing arts
--   • 1 year of college-preparatory elective
-- Take the SAT or ACT exam, and submit official scores (writing component not required)
-- Submit official transcripts from all high schools attended
-- Submit letters of recommendation from 2 academic teachers (optional but recommended)
-- Complete and submit the UC application, including:
--   • Personal Insight Questions (4 short essays)
--   • List of extracurricular activities and volunteer work
--   • List of coursework and grades
--   • Application fee or fee waiver
-- If applicable, submit additional materials for majors that require them (e.g., art portfolios, music recordings)
-- If applicable, submit documentation for students with disabilities or requiring accommodations
+- Minimum 3.0 GPA in California State University-approved college preparatory courses (A-G courses) for California residents
+- Minimum 3.4 GPA in California State University-approved college preparatory courses (A-G courses) for non-California residents
+- Completion of 15 college preparatory courses (A-G courses) with a grade of C or better
+- Submission of SAT or ACT scores (writing test not required)
+- Submission of scores from SAT Subject Tests (recommended, but not required)
+- Completion of coursework in a language other than English (e.g., foreign language, American Sign Language, or indigenous language of the Americas)
+- Submission of letters of recommendation from academic teachers or counselors (optional, but recommended)
+- Submission of a personal statement and 4 short-answer responses as part of the UC application
+- Submission of official transcripts from all high schools attended
+- Submission of official test scores (SAT, ACT, or SAT Subject Tests) sent directly from the testing agency
+- Application fee of $70 for domestic applicants or $80 for international applicants (fee waivers available for eligible students)
+- Submission of a completed UC application, including all required information and materials, by the deadline
+- Proof of immunization against measles, mumps, and rubella (MMR), as well as varicella (chickenpox), for all new students
+- Proof of tuberculosis (TB) risk assessment or screening for all new students
+- Residency requirements, including proof of California residency for in-state tuition
+- Submission of a social security number or individual taxpayer identification number (ITIN) for financial aid purposes
 
 #### Application Deadlines
 

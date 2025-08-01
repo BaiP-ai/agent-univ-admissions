@@ -15,15 +15,13 @@
 
 #### Admissions Requirements
 
-- Meet the academic requirements: completion of an Australian Year 12 or equivalent international qualification
-- Achieve a minimum Australian Tertiary Admissions Rank (ATAR) of 85 or equivalent
-- Satisfy the course-specific prerequisites for your chosen undergraduate degree
-- Meet the English language requirements: IELTS (Academic) - 6.5 overall, with no band less than 6.0; TOEFL (IBT) - 577, with a written score of at least 4.5; or equivalent
-- Submit your application through the Victorian Tertiary Admissions Centre (VTAC) or directly to the University of Melbourne
-- Provide certified copies of your academic transcripts and certificates
-- Supply letters of recommendation from academic referees (if required by the faculty or course)
-- Submit a personal statement or statement of purpose (if required by the faculty or course)
-- Meet any additional requirements for your chosen course, such as auditions, interviews, or portfolios
+- Meet the academic requirements: a completed Australian Year 12 or equivalent qualification, such as the International Baccalaureate (IB) or Cambridge A Levels.
+- Achieve a minimum Australian Tertiary Admissions Rank (ATAR) of 85 or higher, or equivalent, depending on the course.
+- Satisfy the English language requirements: a minimum IELTS score of 6.5 overall, with no band less than 6.0, or equivalent scores in TOEFL, Pearson Test of English, or Cambridge English.
+- Provide certified copies of academic transcripts and certificates, including Year 12 or equivalent qualifications.
+- Submit a complete online application, including all required information and supporting documents, by the relevant deadline.
+- Pay the application fee, which is typically around AU$100, although this may vary depending on the course or student type.
+- Provide additional requirements for specific courses, such as prerequisite subjects, auditions, or portfolios, as specified in the course entry requirements.
 
 #### Application Deadlines
 

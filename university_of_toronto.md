@@ -15,19 +15,40 @@
 
 #### Admissions Requirements
 
-- Academic Requirements: Meet the minimum admission average of 80% or higher, calculated based on six 4U or 4M courses, including English and other required subjects for the intended program.
-- Prerequisite Courses: Complete specific high school courses required for the intended program, such as advanced functions, calculus, and laboratory sciences.
-- GPA Requirement: Typically, a minimum GPA of 3.0 or higher is required for admission to competitive programs.
-- Test Scores: Submit official test scores, such as SAT or ACT, if requested by the program or faculty.
-- English Language Requirements: Meet one of the following: (1) Completion of four years of high school in Canada, (2) Minimum score of 100 on the TOEFL iBT, (3) Minimum score of 7.0 on the IELTS, or (4) Other accepted language proficiency tests.
-- Proof of English Facility: Provide proof of English language proficiency, such as a language proficiency certificate or a grade of 70% or higher in ENG4U.
-- Application Materials: Submit the online application, including all required fields and supplementary information.
-- Academic Records: Upload or submit official high school transcripts, including grades and course information.
-- Required Documents: Submit additional documents, such as proof of citizenship, proof of name change, or other required documents specified by the program or faculty.
-- Supplementary Materials: Submit additional materials, such as portfolios, auditions, or writing samples, if required by the program or faculty.
-- Application Fee: Pay the non-refundable application fee of $90 CAD for domestic students or $180 CAD for international students.
-- Important Application Dates: Check the specific deadlines for application submission, document submission, and other requirements, which vary by program and faculty.
-- Transfer Credit Information: If applicable, submit official transcripts and course descriptions for transfer credit evaluation.
+- Academic Requirements:
+-   • Completion of a high school diploma or equivalent
+-   • Minimum overall average of 70% to 85% (varies by program)
+-   • Prerequisite courses for the chosen program (e.g., mathematics, sciences, languages)
+-   • GPA: Minimum 3.0 (varies by program and faculty)
+- English Language Requirements:
+-   • TOEFL: Minimum score of 100 (iBT) or 250 (computer-based)
+-   • IELTS: Minimum score of 6.5 (academic)
+-   • CAEL: Minimum score of 70
+-   • Cambridge English: Minimum score of 180 (C1 Advanced or C2 Proficiency)
+-   • Duolingo English Test: Minimum score of 120
+- Application Materials:
+-   • Online application form
+-   • Non-refundable application fee (CAD 180 for international students)
+-   • Official high school transcript or equivalent
+-   • Official university or college transcript (if applicable)
+-   • Letters of recommendation (varies by program)
+-   • Personal statement or essay (varies by program)
+-   • Supplemental applications (e.g., portfolios, auditions, or writing samples) for specific programs
+-   • Proof of English language proficiency (if applicable)
+-   • Proof of citizenship or permanent residency (if applicable)
+- Deadlines and Timelines:
+-   • Application deadlines: January 15 (early admission) or March 1 (regular admission)
+-   • Document deadlines: March 1 (early admission) or April 1 (regular admission)
+-   • Admissions decisions: Released on a rolling basis, typically between February and May
+- Transfer Credits:
+-   • High school transfer credits: Up to 2.0 full credits
+-   • University or college transfer credits: Up to 5.0 full credits
+- Financial Aid and Scholarships:
+-   • University of Toronto Scholars Program
+-   • President's Scholars of Excellence Program
+-   • Admission Awards and Scholarships
+-   • Ontario Student Assistance Program (OSAP) for Ontario residents
+-   • Other government-funded student aid programs for Canadian citizens or permanent residents
 
 #### Application Deadlines
 

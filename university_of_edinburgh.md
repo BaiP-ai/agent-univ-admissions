@@ -15,20 +15,27 @@
 
 #### Admissions Requirements
 
-- Meet the minimum academic entry requirements, which vary by program and qualification type (e.g., Scottish Highers, A levels, International Baccalaureate, etc.)
-- Achieve the required grades and subjects for your chosen program (e.g., specific A levels, Higher subjects, etc.)
-- Meet the English language proficiency requirements, which may include IELTS, TOEFL, Cambridge English, or other accepted tests
-- Provide proof of English language proficiency, with minimum scores varying by program (e.g., IELTS 6.0, TOEFL 80, etc.)
-- Submit a complete and accurate UCAS application, including all required information and documents
-- Pay the UCAS application fee (£13-£24, depending on the number of courses applied for)
-- Provide academic transcripts and certificates, including GCSEs, A levels, or other relevant qualifications
-- Submit a personal statement (approximately 4000-5000 characters) as part of the UCAS application
-- Provide a reference from a teacher, advisor, or other academic professional
-- Meet the specific requirements for your program, which may include additional tests, portfolios, or interviews
-- If applicable, provide evidence of Widening Access offers, such as Flag or Plus Flag eligibility
-- If applicable, provide documentation for Access Edinburgh programs, such as Reach Edinburgh or Lothians Equal Access Programme for Schools (LEAPS)
-- If applicable, provide proof of refugee or asylum seeker status for specific support and funding
-- Meet the specific fee status and tuition fee requirements, which vary by program and student nationality
+- Academic requirements:
+-   • Meet the minimum entry requirements for your chosen degree program, typically 3-4 Highers or Advanced Highers (Scotland) or A levels (England, Wales, and Northern Ireland)
+-   • Achieve the required grades in specific subjects relevant to your chosen degree program
+-   • Meet the required GPA (not specified, but typically 3.0 or higher for international students)
+- English language requirements:
+-   • IELTS: 6.0 overall with at least 5.5 in each component
+-   • TOEFL: 80 overall with at least 17 in listening, 18 in reading, 20 in speaking, and 19 in writing
+-   • Cambridge English: 169 overall with at least 162 in each component
+-   • Other English language qualifications may be accepted, check with the university
+- Application materials:
+-   • Submit your application through UCAS (Universities and Colleges Admissions Service)
+-   • Provide personal details, academic qualifications, and course choices
+-   • Write a personal statement (approximately 400-500 words) outlining your motivation, interests, and goals
+-   • Provide academic references (typically one from a teacher or counselor)
+-   • Submit any required additional materials, such as portfolios, auditions, or written work
+-   • Pay the UCAS application fee (£13 for a single choice, £24 for multiple choices)
+- Additional requirements:
+-   • Some programs may require interviews, tests, or portfolios as part of the selection process
+-   • Check the specific requirements for your chosen degree program
+-   • Widening access offers may be available for eligible students from underrepresented backgrounds
+-   • Check the university's website for the most up-to-date information on admissions requirements
 
 #### Application Deadlines
 

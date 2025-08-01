@@ -17,18 +17,20 @@
 
 #### Admissions Requirements
 
-- Meet the specific grade and subject requirements for the chosen programme, as shown on each programme page of the Undergraduate Prospectus.
-- Meet the A Level or equivalent first year entry requirements for the programme, if applying for second year transfer.
-- Have covered similar content to the first year at UCL (at a standard judged equivalent) at your current higher education institution, if applying for second year transfer.
-- Typically, a minimum GPA of 3.3 or higher (on a 4.0 scale) or equivalent is required for undergraduate programmes.
-- English language proficiency: IELTS (Academic) - 6.0 overall, with a minimum of 5.5 in each component; TOEFL - 80 overall, with a minimum of 20 in each component; Cambridge English Advanced - 169 overall, with a minimum of 162 in each component.
-- Submit your application through UCAS by the equal consideration deadline to guarantee consideration.
-- International applicants must check the international qualification entry requirements by selecting their country or the country from which their qualification originates, from the drop-down menu in the Other Qualifications section.
-- Applicants who are required to complete compulsory national military service may be able to exceptionally defer their entry to UCL by up to two years.
-- Applicants with a disability should contact the Disability Services team to discuss their needs and arrangements.
-- Submit all required application materials, including transcripts, certificates, and references, as specified by the programme.
-- Pay the application fee, if applicable.
-- Meet the programme-specific entry requirements, as outlined on each programme page.
+- Meet the A Level or equivalent first year entry requirements for the programme
+- Specific grade and subject requirements are shown on each programme page of the Undergraduate Prospectus
+- International students: Check the country-specific qualification entry requirements using the drop-down menu in the Other Qualifications section
+- Typical GPA requirement: 3.3 or above (varies by programme and country)
+- English language requirements: IELTS 6.5 or above, TOEFL 92 or above, or equivalent
+- Some programmes may require additional tests, such as the Biomedical Admissions Test (BMAT) or the University Clinical Aptitude Test (UCAT)
+- Application through UCAS, with a deadline of the UCAS equal consideration deadline
+- Submit all required application materials, including transcripts, certificates, and references
+- Engineering Foundation Year: Eligibility and application process available on the programme page
+- Second year entry: Meet the A Level or equivalent first year entry requirements, and have covered similar content to the first year at UCL
+- Applicants with a disability: Contact the Disability Services team for guidance and support
+- Access and participation: UCL has a commitment to widening participation and increasing diversity
+- Fees and funding: Check the programme page for specific fee structures and available scholarships
+- International applicants: Guidance and support available, including English language requirements and visa information
 
 #### Application Deadlines
 

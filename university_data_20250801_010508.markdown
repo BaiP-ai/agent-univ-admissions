@@ -1,0 +1,747 @@
+# University Degree Programs, Admissions Criteria, and Deadlines Report
+
+## Table of Contents
+
+- [Australia](#australia)
+  - [Australian National University](#australian-national-university)
+  - [University of Melbourne](#university-of-melbourne)
+- [Canada](#canada)
+  - [University of British Columbia](#university-of-british-columbia)
+  - [University of Toronto](#university-of-toronto)
+- [Malaysia](#malaysia)
+  - [Universiti Malaya](#universiti-malaya)
+- [Singapore](#singapore)
+  - [National University of Singapore](#national-university-of-singapore)
+- [UK](#uk)
+  - [Imperial College London](#imperial-college-london)
+  - [London School of Economics](#london-school-of-economics)
+  - [University College London](#university-college-london)
+  - [University of Cambridge](#university-of-cambridge)
+  - [University of Edinburgh](#university-of-edinburgh)
+  - [University of Manchester](#university-of-manchester)
+  - [University of Oxford](#university-of-oxford)
+- [US](#us)
+  - [Columbia University](#columbia-university)
+  - [Harvard University](#harvard-university)
+  - [Massachusetts Institute of Technology](#massachusetts-institute-of-technology)
+  - [Princeton University](#princeton-university)
+  - [Stanford University](#stanford-university)
+  - [UC Berkeley](#uc-berkeley)
+  - [University of Chicago](#university-of-chicago)
+  - [Yale University](#yale-university)
+
+---
+
+## Australia {#australia}
+
+### Australian National University {#australian-national-university}
+
+**Website:** [Australian National University](https://www.anu.edu.au/study/apply)
+
+#### Admissions Requirements
+
+- Completed Common Application or Coalition Application
+- Official high school transcripts
+- Letters of recommendation from teachers (typically 2-3)
+- Personal statement or essay
+- Application fee or fee waiver request
+- Minimum GPA requirement (typically 3.0 or higher)
+- Standardized test scores (SAT/ACT may be optional)
+- International applicants: TOEFL/IELTS scores if English is not your first language
+
+#### Application Deadlines
+
+**Application Deadline:** January 15, 2026. Notification by April.
+
+**International Deadline:** December 1, 2025 for international students requiring visas.
+
+---
+
+### University of Melbourne {#university-of-melbourne}
+
+**Website:** [University of Melbourne](https://study.unimelb.edu.au/how-to-apply)
+
+#### Admissions Requirements
+
+- Meet the academic requirements: a completed Australian Year 12 or equivalent qualification, such as the International Baccalaureate (IB) or Cambridge A Levels.
+- Achieve a minimum Australian Tertiary Admissions Rank (ATAR) of 85 or higher, or equivalent, depending on the course.
+- Satisfy the English language requirements: a minimum IELTS score of 6.5 overall, with no band less than 6.0, or equivalent scores in TOEFL, Pearson Test of English, or Cambridge English.
+- Provide certified copies of academic transcripts and certificates, including Year 12 or equivalent qualifications.
+- Submit a complete online application, including all required information and supporting documents, by the relevant deadline.
+- Pay the application fee, which is typically around AU$100, although this may vary depending on the course or student type.
+- Provide additional requirements for specific courses, such as prerequisite subjects, auditions, or portfolios, as specified in the course entry requirements.
+
+#### Application Deadlines
+
+**Application Deadline:** January 15, 2026. Notification by April.
+
+**International Deadline:** December 1, 2025 for international students requiring visas.
+
+---
+
+## Canada {#canada}
+
+### University of British Columbia {#university-of-british-columbia}
+
+**Website:** [University of British Columbia](https://you.ubc.ca/applying-ubc)
+
+#### Admissions Requirements
+
+- Meet UBC's general admission requirements
+- Meet the English Language Admission Standard
+- Academic Requirements:
+-   - Minimum overall average of 70% in academic Grade 11 and Grade 12 courses (Canadian high school applicants)
+-   - Minimum GPA of 2.5 on a 4.0 scale (University or college transfer students)
+-   - No specific GPA requirement mentioned for international high school applicants, but competitive admission
+- Standardized Test Scores:
+-   - SAT or ACT scores (optional, but recommended for international students)
+-   - SAT minimum scores: 1280 (Evidence-Based Reading and Writing and Math) or 260 (Math)
+-   - ACT minimum scores: 26 (composite score)
+- English Language Proficiency:
+-   - One of the following options to demonstrate English language competency:
+-     - Complete four or more consecutive years of full-time education in English in Canada
+-     - Achieve a minimum score of 90 on the Internet-Based TOEFL (iBT)
+-     - Achieve a minimum score of 6.0 on the International English Language Testing System (IELTS)
+-     - Achieve a minimum score of 65 on the Canadian Academic English Language (CAEL) Assessment
+-     - Achieve a minimum score of 55 on the Pearson Test of English (PTE) Academic
+-     - Complete the UBC Conditional Admission Program (CAP)
+-     - Complete the Academic English Development (AED) program
+- Application Materials:
+-   - Online application form
+-   - Personal Profile ( essay-based component)
+-   - Official transcripts from all previous institutions attended
+-   - Language proficiency test scores (if applicable)
+-   - SAT or ACT scores (if applicable)
+-   - Letters of recommendation (not required, but recommended for some programs)
+
+#### Application Deadlines
+
+**Application Deadline:** January 15, 2026. Notification by April.
+
+**International Deadline:** December 1, 2025 for international students requiring visas.
+
+---
+
+### University of Toronto {#university-of-toronto}
+
+**Website:** [University of Toronto](https://www.future.utoronto.ca/apply)
+
+#### Admissions Requirements
+
+- Academic Requirements:
+-   • Completion of a high school diploma or equivalent
+-   • Minimum overall average of 70% to 85% (varies by program)
+-   • Prerequisite courses for the chosen program (e.g., mathematics, sciences, languages)
+-   • GPA: Minimum 3.0 (varies by program and faculty)
+- English Language Requirements:
+-   • TOEFL: Minimum score of 100 (iBT) or 250 (computer-based)
+-   • IELTS: Minimum score of 6.5 (academic)
+-   • CAEL: Minimum score of 70
+-   • Cambridge English: Minimum score of 180 (C1 Advanced or C2 Proficiency)
+-   • Duolingo English Test: Minimum score of 120
+- Application Materials:
+-   • Online application form
+-   • Non-refundable application fee (CAD 180 for international students)
+-   • Official high school transcript or equivalent
+-   • Official university or college transcript (if applicable)
+-   • Letters of recommendation (varies by program)
+-   • Personal statement or essay (varies by program)
+-   • Supplemental applications (e.g., portfolios, auditions, or writing samples) for specific programs
+-   • Proof of English language proficiency (if applicable)
+-   • Proof of citizenship or permanent residency (if applicable)
+- Deadlines and Timelines:
+-   • Application deadlines: January 15 (early admission) or March 1 (regular admission)
+-   • Document deadlines: March 1 (early admission) or April 1 (regular admission)
+-   • Admissions decisions: Released on a rolling basis, typically between February and May
+- Transfer Credits:
+-   • High school transfer credits: Up to 2.0 full credits
+-   • University or college transfer credits: Up to 5.0 full credits
+- Financial Aid and Scholarships:
+-   • University of Toronto Scholars Program
+-   • President's Scholars of Excellence Program
+-   • Admission Awards and Scholarships
+-   • Ontario Student Assistance Program (OSAP) for Ontario residents
+-   • Other government-funded student aid programs for Canadian citizens or permanent residents
+
+#### Application Deadlines
+
+**Application Deadline:** January 15, 2026. Notification by April.
+
+**International Deadline:** December 1, 2025 for international students requiring visas.
+
+---
+
+## Malaysia {#malaysia}
+
+### Universiti Malaya {#universiti-malaya}
+
+**Website:** [Universiti Malaya](https://study.um.edu.my/how-to-apply-bachelor-rsquo-s-degree)
+
+**Average GPA:** 3.00
+
+#### Admissions Requirements
+
+- Academic Requirements:
+-   • Foundation Programmes: Minimum of 5 credits in SPM/O-Level, including Mathematics and Science.
+-   • Diploma Programmes: Minimum of 3 credits in SPM/O-Level, including relevant subjects.
+-   • Undergraduate Programmes: Minimum of 2.00 CGPA in STPM/A-Level, or equivalent.
+-   • Postgraduate Programmes: Bachelor's degree with a minimum of 2.50 CGPA, or equivalent.
+- English Language Proficiency:
+-   • IELTS: Minimum band 5.5 for undergraduate programmes, and 6.0 for postgraduate programmes.
+-   • TOEFL: Minimum score of 550 (paper-based) or 79 (internet-based) for undergraduate programmes, and 600 (paper-based) or 100 (internet-based) for postgraduate programmes.
+- Application Materials:
+-   • Completed online application form.
+-   • Certified true copies of academic transcripts and certificates.
+-   • Passport-sized photograph.
+-   • Payment of application fee (RM 150 for Malaysian, RM 300 for international).
+- Application Deadlines:
+-   • Foundation Programmes (Malaysian): First phase - 10 Feb 2025 - 14 Mar 2025, Second phase - 14 Apr 2025 - 18 May 2025.
+-   • Foundation Programmes (International): 01 Mar 2025 - 31 May 2025.
+-   • Diploma Programmes (Malaysian): 10 Feb 2025 - 30 Aug 2025.
+-   • Diploma Programmes (International): 10 Feb 2025 - 31 May 2025.
+-   • Undergraduate Programmes (Malaysian): First phase - 10 Feb 2025 - 14 Mar 2025, Second phase - 14 Apr 2025 - 18 May 2025.
+-   • Undergraduate Programmes (International): 10 Feb 2025 - 30 Aug 2025.
+-   • Postgraduate Programmes (Malaysian): 10 Feb 2025 - 30 Aug 2025.
+-   • Postgraduate Programmes (International): 10 Feb 2025 - 30 Aug 2025.
+- Additional Requirements:
+-   • SATU Foundation Pamphlet (for SATU channel applicants).
+-   • Proof of financial support (for international students).
+-   • Health insurance (for international students).
+
+#### Application Deadlines
+
+**Application Deadline:** January 15, 2026. Notification by April.
+
+**International Deadline:** December 1, 2025 for international students requiring visas.
+
+---
+
+## Singapore {#singapore}
+
+### National University of Singapore {#national-university-of-singapore}
+
+**Website:** [National University of Singapore](https://www.nus.edu.sg/admissions)
+
+#### Admissions Requirements
+
+- Completed Common Application or Coalition Application
+- Official high school transcripts
+- Letters of recommendation from teachers (typically 2-3)
+- Personal statement or essay
+- Application fee or fee waiver request
+- Strong academic record with challenging coursework
+- Standardized test scores (SAT/ACT may be optional)
+- Demonstrated involvement in extracurricular activities
+- International applicants: TOEFL/IELTS scores if English is not your first language
+
+#### Application Deadlines
+
+**Application Deadline:** January 15, 2026. Notification by April.
+
+**International Deadline:** December 1, 2025 for international students requiring visas.
+
+---
+
+## UK {#uk}
+
+### Imperial College London {#imperial-college-london}
+
+**Website:** [Imperial College London](https://www.imperial.ac.uk/study/ug/apply)
+
+#### Admissions Requirements
+
+- Academic Requirements:
+-   * Meet the minimum academic requirements for your chosen program, including GPA and subjects taken.
+-   * Check the specific entry requirements for your course, as they may vary.
+- English Language Requirements:
+-   * Achieve the required English language proficiency, such as IELTS, TOEFL, or Cambridge English.
+-   * Check if you're exempt from English language requirements or if you need to take a language test.
+- Standardized Test Scores:
+-   * Check if your chosen program requires standardized test scores, such as SAT, ACT, or GRE.
+-   * Meet the minimum test score requirements for your program.
+- Application Materials:
+-   * Submit a completed online application form.
+-   * Upload required documents, such as transcripts, certificates, and language test results.
+-   * Write a strong personal statement, typically 400-500 words, outlining your academic background, interests, and career goals.
+-   * Provide academic references, usually from teachers or professors, who can comment on your academic abilities and potential.
+-   * Pay the application fee, unless you're eligible for a fee waiver.
+- Admissions Tests:
+-   * Check if your chosen program requires admissions tests, such as the Biomedical Admissions Test (BMAT) or the Imperial College London Mathematics Admission Test.
+-   * Register for the required tests and achieve the minimum scores.
+- Interviews:
+-   * Check if your chosen program requires interviews, either in-person or online.
+-   * Prepare for the interview by researching the program and practicing common interview questions.
+- Additional Requirements:
+-   * Check if your chosen program has any additional requirements, such as a portfolio, audition, or written assessment.
+-   * Meet the specific requirements for your program, as they may vary.
+- International Students:
+-   * Check the specific requirements for international students, including visa requirements and English language proficiency.
+-   * Meet the financial requirements for international students, including proof of funding and living costs.
+
+#### Application Deadlines
+
+**Ucas Deadline:** October 15, 2025 for Oxford, Cambridge, medicine, veterinary science, and dentistry. January 15, 2026 for most other courses.
+
+**International Deadline:** Same as UCAS deadlines, though some universities have different deadlines for international students.
+
+---
+
+### London School of Economics {#london-school-of-economics}
+
+**Website:** [London School of Economics](https://www.lse.ac.uk/study-at-lse/Undergraduate/Prospective-Students/How-to-Apply)
+
+#### Degree Programs
+
+**PhD Programmes** (PhD, 4-5 years)
+
+LSE's PhD programmes provide students with advanced training in their chosen field, preparing them for careers in academia, research, or industry. Students engage in original research, develop their critical thinking and analytical skills, and produce a thesis that contributes to their field of study.
+
+#### Admissions Requirements
+
+- Meet the original first year entry requirements for the programme, which typically include:
+- A-levels: AAA-ABB grades, with specific subjects required for certain programmes
+- International Baccalaureate (IB): 38-40 points, with specific subjects required for certain programmes
+- Other qualifications: Check the LSE website for accepted qualifications and grades
+- Achieve a minimum GPA of 3.3 or equivalent in your previous studies
+- For second-year entry, achieve the equivalent of a 2:1 in your first year studies
+- Provide a copy of your transcript to demonstrate your academic performance
+- Meet the English language proficiency requirements, which typically include:
+- IELTS: 7.0 overall, with 6.5 in each component
+- TOEFL: 100 overall, with 25 in each component
+- Other English language qualifications: Check the LSE website for accepted qualifications and grades
+- Submit your application through UCAS, including:
+- A completed UCAS application form
+- A personal statement (approximately 4,000 characters)
+- One academic reference
+- Any additional required documents, such as transcripts or certificates
+- Apply by the UCAS January deadline for second-year entry
+- Note: Meeting the minimum requirements does not guarantee admission, as competition for places is intense
+
+#### Application Deadlines
+
+**Ucas Deadline:** October 15, 2025 for Oxford, Cambridge, medicine, veterinary science, and dentistry. January 15, 2026 for most other courses.
+
+**International Deadline:** Same as UCAS deadlines, though some universities have different deadlines for international students.
+
+---
+
+### University College London {#university-college-london}
+
+**Website:** [University College London](https://www.ucl.ac.uk/prospective-students/undergraduate/how-apply)
+
+**Average ACT:** 15-25
+
+#### Admissions Requirements
+
+- Meet the A Level or equivalent first year entry requirements for the programme
+- Specific grade and subject requirements are shown on each programme page of the Undergraduate Prospectus
+- International students: Check the country-specific qualification entry requirements using the drop-down menu in the Other Qualifications section
+- Typical GPA requirement: 3.3 or above (varies by programme and country)
+- English language requirements: IELTS 6.5 or above, TOEFL 92 or above, or equivalent
+- Some programmes may require additional tests, such as the Biomedical Admissions Test (BMAT) or the University Clinical Aptitude Test (UCAT)
+- Application through UCAS, with a deadline of the UCAS equal consideration deadline
+- Submit all required application materials, including transcripts, certificates, and references
+- Engineering Foundation Year: Eligibility and application process available on the programme page
+- Second year entry: Meet the A Level or equivalent first year entry requirements, and have covered similar content to the first year at UCL
+- Applicants with a disability: Contact the Disability Services team for guidance and support
+- Access and participation: UCL has a commitment to widening participation and increasing diversity
+- Fees and funding: Check the programme page for specific fee structures and available scholarships
+- International applicants: Guidance and support available, including English language requirements and visa information
+
+#### Application Deadlines
+
+**Ucas Deadline:** October 15, 2025 for Oxford, Cambridge, medicine, veterinary science, and dentistry. January 15, 2026 for most other courses.
+
+**International Deadline:** Same as UCAS deadlines, though some universities have different deadlines for international students.
+
+---
+
+### University of Cambridge {#university-of-cambridge}
+
+**Website:** [University of Cambridge](https://www.undergraduate.study.cam.ac.uk/applying)
+
+#### Admissions Requirements
+
+- Academic requirements:
+-   • A strong academic record, with high grades in relevant subjects
+-   • Typically, A*AA or AAA at A-level, or equivalent qualifications
+-   • Minimum GPA of 3.7 or higher (for international students)
+-   • Some courses may require specific subjects or grades
+- Standardized test scores:
+-   • No general entrance exams required, but some courses may require specific tests (e.g., STEP, LNAT, ESAT, TMUA)
+- English language proficiency:
+-   • IELTS: minimum overall score of 7.5, with at least 7.0 in each component
+-   • TOEFL: minimum overall score of 110, with at least 25 in each component
+-   • Cambridge English: Proficiency or Advanced, with a minimum overall score of 191
+- Application materials:
+-   • UCAS application, including personal statement and academic reference
+-   • My Cambridge Application, including additional information and written work (if required)
+-   • Written work or portfolio (if required for specific courses)
+-   • Transcripts and certificates from previous education
+- Interviews and assessments:
+-   • Some courses may require interviews or assessments as part of the application process
+-   • These may be held in person or online, depending on the course and circumstances
+- International students:
+-   • International financial support may be available
+-   • Visas and immigration requirements must be met
+-   • Year abroad opportunities may be available for some courses
+- Additional requirements:
+-   • Contextual data may be considered in the application process
+-   • Unspent criminal convictions must be disclosed
+-   • Admissions complaints procedure is available if needed
+
+#### Application Deadlines
+
+**Ucas Deadline:** October 15, 2025 for Oxford, Cambridge, medicine, veterinary science, and dentistry. January 15, 2026 for most other courses.
+
+**International Deadline:** Same as UCAS deadlines, though some universities have different deadlines for international students.
+
+---
+
+### University of Edinburgh {#university-of-edinburgh}
+
+**Website:** [University of Edinburgh](https://www.ed.ac.uk/studying/undergraduate/applying)
+
+#### Admissions Requirements
+
+- Academic requirements:
+-   • Meet the minimum entry requirements for your chosen degree program, typically 3-4 Highers or Advanced Highers (Scotland) or A levels (England, Wales, and Northern Ireland)
+-   • Achieve the required grades in specific subjects relevant to your chosen degree program
+-   • Meet the required GPA (not specified, but typically 3.0 or higher for international students)
+- English language requirements:
+-   • IELTS: 6.0 overall with at least 5.5 in each component
+-   • TOEFL: 80 overall with at least 17 in listening, 18 in reading, 20 in speaking, and 19 in writing
+-   • Cambridge English: 169 overall with at least 162 in each component
+-   • Other English language qualifications may be accepted, check with the university
+- Application materials:
+-   • Submit your application through UCAS (Universities and Colleges Admissions Service)
+-   • Provide personal details, academic qualifications, and course choices
+-   • Write a personal statement (approximately 400-500 words) outlining your motivation, interests, and goals
+-   • Provide academic references (typically one from a teacher or counselor)
+-   • Submit any required additional materials, such as portfolios, auditions, or written work
+-   • Pay the UCAS application fee (£13 for a single choice, £24 for multiple choices)
+- Additional requirements:
+-   • Some programs may require interviews, tests, or portfolios as part of the selection process
+-   • Check the specific requirements for your chosen degree program
+-   • Widening access offers may be available for eligible students from underrepresented backgrounds
+-   • Check the university's website for the most up-to-date information on admissions requirements
+
+#### Application Deadlines
+
+**Ucas Deadline:** October 15, 2025 for Oxford, Cambridge, medicine, veterinary science, and dentistry. January 15, 2026 for most other courses.
+
+**International Deadline:** Same as UCAS deadlines, though some universities have different deadlines for international students.
+
+---
+
+### University of Manchester {#university-of-manchester}
+
+**Website:** [University of Manchester](https://www.manchester.ac.uk/study/undergraduate/applications)
+
+#### Degree Programs
+
+**MSc Data Science** (Master's, 1 year)
+
+This program teaches students to extract insights from large datasets, develop predictive models, and create data visualizations to communicate findings. Students learn to work with various data tools and technologies, including Python, R, and SQL.
+
+**BSc Computer Science** (Bachelor's, 3 years)
+
+This program covers the fundamental principles of computer science, including programming, algorithms, computer systems, and software engineering. Students develop skills in designing, building, and testing software systems.
+
+**PhD Physics** (PhD, 3-4 years)
+
+This research-based program allows students to explore various areas of physics, including condensed matter physics, particle physics, and theoretical physics. Students work under the supervision of experienced researchers to produce original contributions to the field.
+
+#### Admissions Requirements
+
+- Academic requirements: A-levels or equivalent qualifications, with specific grades and subjects required for each course
+- Typical A-level grades: AAA, AAB, or ABB, depending on the course
+- International Baccalaureate (IB) Diploma: 36-40 points, with 6, 6, 6 at Higher Level
+- GCSE requirements: English Language and Mathematics at grade C or above
+- GPA: Not applicable, as the University of Manchester uses a UK-based grading system
+- English language proficiency: IELTS 6.5 overall, with 6.0 in each component, or TOEFL iBT 90 overall
+- Application form: Completed online application through UCAS (Universities and Colleges Admissions Service)
+- Personal statement: A 4,000-character statement outlining academic achievements, interests, and career aspirations
+- Academic reference: One reference from a teacher or academic advisor
+- Predicted grades: Submit predicted grades from your school or college, if applicable
+- Course-specific requirements: Check the course details for any additional requirements, such as portfolios, auditions, or admissions tests
+
+#### Application Deadlines
+
+**Ucas Deadline:** October 15, 2025 for Oxford, Cambridge, medicine, veterinary science, and dentistry. January 15, 2026 for most other courses.
+
+**International Deadline:** Same as UCAS deadlines, though some universities have different deadlines for international students.
+
+---
+
+### University of Oxford {#university-of-oxford}
+
+**Website:** [University of Oxford](https://www.ox.ac.uk/admissions/undergraduate)
+
+#### Admissions Requirements
+
+- Meet the University's academic requirements, which typically include:
+- A-levels: AAA or A*AA, depending on the course, with grades in relevant subjects
+- International Baccalaureate (IB): 38-40 points, with 6s and 7s in higher-level subjects
+- Other UK qualifications: equivalent to A-levels, such as Cambridge Pre-U or Scottish Advanced Highers
+- International qualifications: equivalent to A-levels, such as APs, SATs, or national exams, with grades and scores varying by country and course
+- GPA: not typically required, but a strong academic record is expected
+- English language proficiency: IELTS 7.0, TOEFL 110, or CAE 191, with minimum scores in each component
+- Submission of UCAS application, including:
+- Personal statement (up to 4,000 characters) outlining academic interests, achievements, and goals
+- Reference from a teacher or academic advisor
+- Predicted grades and qualifications from the school or college
+- Optional: written work, such as essays or creative writing, for certain courses
+- Optional: admissions tests, such as the Biomedical Admissions Test (BMAT) or the Thinking Skills Assessment (TSA), for certain courses
+- Interviews: may be required for certain courses, either in-person or online
+
+#### Application Deadlines
+
+**Ucas Deadline:** October 15, 2025 for Oxford, Cambridge, medicine, veterinary science, and dentistry. January 15, 2026 for most other courses.
+
+**International Deadline:** Same as UCAS deadlines, though some universities have different deadlines for international students.
+
+---
+
+## US {#us}
+
+### Columbia University {#columbia-university}
+
+**Website:** [Columbia University](https://undergrad.admissions.columbia.edu)
+
+#### Admissions Requirements
+
+- Completed Common Application or Coalition Application
+- Official high school transcripts
+- Letters of recommendation from teachers (typically 2-3)
+- Personal statement or essay
+- Application fee or fee waiver request
+- Strong academic record with challenging coursework
+- Standardized test scores (SAT/ACT may be optional)
+- Demonstrated involvement in extracurricular activities
+- International applicants: TOEFL/IELTS scores if English is not your first language
+
+#### Application Deadlines
+
+**Early Action:** November 1, 2025. Notification by mid-December.
+
+**Regular Decision:** January 1, 2026. Notification by late March.
+
+---
+
+### Harvard University {#harvard-university}
+
+**Website:** [Harvard University](https://college.harvard.edu/admissions)
+
+#### Admissions Requirements
+
+- Academic Requirements:
+-   • GPA: No minimum GPA requirement, but a strong academic record is expected.
+-   • Coursework: Four years of English, three to four years of mathematics, two to three years of laboratory science, and two to three years of history or social science.
+- Standardized Testing:
+-   • SAT or ACT: Required for all applicants, except in exceptional cases (see below).
+-   • Exceptional cases: AP exam results, IB Actual or Predicted Scores, GCSE/A-Level Actual or Predicted Results, or National Leaving Exams Results (externally assessed) or Predictions.
+-   • English language proficiency examinations: TOEFL, IELTS, and Duolingo cannot be used to meet the standardized testing requirement, but may be submitted as part of the application materials.
+-   • Self-reported test scores: Accepted, but students are encouraged to take and submit results from other standardized tests if accessible.
+- Application Materials:
+-   • The Common Application or the Coalition Application: Required for all applicants.
+-   • Supplement: Includes five required short-answer questions, each with a 150-word limit.
+-   • Teacher Recommendations: Two required recommendations from academic teachers.
+-   • School Report: Required from the school counselor or other school official.
+-   • Transcripts: Official transcripts required from all secondary schools attended.
+-   • Fee Waiver: Available for eligible students; use code JH3S5Q2LX9 on the payment page.
+-   • Transfer Application Fee Waiver: Information available on the Transfer Application Requirements page.
+- Additional Requirements:
+-   • Clery (Campus Security) Act: Harvard University is required by federal law to disclose campus security policy and crime statistics.
+-   • Retention and Graduation Rates: Harvard University reports graduation rates of degree-seeking, first-time, full-time undergraduates to the department via the IPEDs website.
+
+#### Application Deadlines
+
+**Early Action:** November 1, 2025. Notification by mid-December.
+
+**Regular Decision:** January 1, 2026. Notification by late March.
+
+---
+
+### Massachusetts Institute of Technology {#massachusetts-institute-of-technology}
+
+**Website:** [Massachusetts Institute of Technology](https://www.mitadmissions.org)
+
+#### Admissions Requirements
+
+- Academic Requirements:
+-   • Complete a high school diploma or equivalent from an accredited institution.
+-   • Take challenging courses in math and science, such as AP or IB classes, if available.
+- GPA Requirement:
+-   • MIT does not have a minimum GPA requirement, but a competitive GPA is typically 4.0 or higher.
+- Standardized Test Scores:
+-   • Submit scores from the SAT or ACT, with a middle 50% range of 1490-1590 (SAT) or 34-35 (ACT).
+-   • International students may submit TOEFL or IELTS scores, if English is not their first language.
+- Application Materials:
+-   • Submit the Common App or Coalition App online application.
+-   • Pay the $75 application fee or request a fee waiver.
+-   • Upload a resume or activity list highlighting extracurricular activities and achievements.
+-   • Write and submit a personal statement or essay (250-500 words).
+-   • Provide letters of recommendation from two teachers or mentors.
+-   • Submit a mid-year report and final transcript from your school counselor.
+- Deadlines and Announcements:
+-   • Check the MIT website for application deadlines, typically in November or January for early or regular decision.
+
+#### Application Deadlines
+
+**Early Action:** November 1, 2025. Notification by mid-December.
+
+**Regular Decision:** January 1, 2026. Notification by late March.
+
+---
+
+### Princeton University {#princeton-university}
+
+**Website:** [Princeton University](https://admission.princeton.edu)
+
+#### Admissions Requirements
+
+- Academic Preparation: Princeton recommends a rigorous high school curriculum, including 4 years of English, 4 years of mathematics, 2 years of laboratory science, 2 years of history, and 2 years of foreign language.
+- GPA: A strong academic record, with a recommended minimum GPA of 3.5 or higher.
+- Standardized Testing Requirements: Princeton accepts the SAT or ACT, with optional writing sections. The middle 50% of admitted students typically score between 700-800 on the SAT ( Evidence-Based Reading and Writing and Math) or 32-35 on the ACT.
+- SAT Subject Tests: Not required, but recommended for students who have taken advanced courses in a particular subject.
+- Application Materials:
+-     - Common Application or Coalition Application
+-     - Princeton-specific Questions
+-     - Transfer Essay Questions (for transfer students)
+-     - Graded Written Paper (optional, but recommended)
+-     - Optional Arts Supplement (for students with exceptional talent in the arts)
+-     - QuestBridge application (for eligible students)
+- Letters of Recommendation: 2-3 letters from academic teachers or mentors
+- Application Fee: $65 (waivable for eligible students)
+- Application Deadlines:
+-     - Early Decision: November 1
+-     - Regular Decision: January 1
+-     - Transfer Application Deadlines: March 1 (fall semester) and November 1 (spring semester)
+- International Students: Additional requirements, including English language proficiency tests (TOEFL, IELTS, or Duolingo) and certification of finances
+- Financial Aid: Princeton is need-blind and meets 100% of demonstrated financial need. Students must apply for financial aid separately from the admission application.
+
+#### Application Deadlines
+
+**Early Action:** {'deadline': 'November 1', 'notification': 'Mid-December', 'additional_info': 'Single-Choice Early Action, nonbinding, cannot apply to early programs at other private US colleges/universities'}
+
+**Regular Decision:** {'deadline': 'January 1', 'notification': 'Late March', 'additional_info': 'Regular Decision, nonbinding'}
+
+**Financial Aid:** {'early_action': 'November 9', 'regular_decision': 'February 1'}
+
+**Arts Supplement:** {'early_action': 'November 6', 'regular_decision': 'January 8'}
+
+**Candidate Reply:** May 1
+
+---
+
+### Stanford University {#stanford-university}
+
+**Website:** [Stanford University](https://admission.stanford.edu/apply)
+
+#### Admissions Requirements
+
+- Meet the minimum high school graduation requirement: complete a minimum of 12 academic units in English, mathematics, science, social science, and foreign language.
+- Earn a minimum GPA of 3.5 or higher in challenging academic courses, such as Advanced Placement (AP) or International Baccalaureate (IB) classes.
+- Take the SAT or ACT exam and submit official scores: Stanford accepts both tests and has no preference for one over the other.
+- Take SAT Subject Tests (optional but recommended): Stanford recommends submitting scores from two SAT Subject Tests, one in literature and one in math or science.
+- Complete and submit the Common App or Coalition App online application, including the Stanford Questions and a $90 non-refundable application fee.
+- Submit the School Report, which includes a counselor letter of recommendation and an official transcript, through the Common App or Coalition App.
+- Submit letters of recommendation from two academic teachers, preferably from the 11th or 12th grade, through the Common App or Coalition App.
+- Write and submit a personal statement and short responses to the Stanford Questions, which are part of the online application.
+- Submit optional arts or creative supplements, such as music, theater, dance, or visual arts, if applicable.
+- Apply for financial aid, if necessary, by submitting the CSS Profile and FAFSA forms.
+- International students must submit additional requirements, including TOEFL or IELTS scores, if applicable, and certified translations of academic documents.
+
+#### Application Deadlines
+
+**Early Action:** November 1, 2025. Notification by mid-December.
+
+**Regular Decision:** January 1, 2026. Notification by late March.
+
+---
+
+### UC Berkeley {#uc-berkeley}
+
+**Website:** [UC Berkeley](https://admissions.berkeley.edu)
+
+**Average GPA:** 3.4
+
+#### Admissions Requirements
+
+- Minimum 3.0 GPA in California State University-approved college preparatory courses (A-G courses) for California residents
+- Minimum 3.4 GPA in California State University-approved college preparatory courses (A-G courses) for non-California residents
+- Completion of 15 college preparatory courses (A-G courses) with a grade of C or better
+- Submission of SAT or ACT scores (writing test not required)
+- Submission of scores from SAT Subject Tests (recommended, but not required)
+- Completion of coursework in a language other than English (e.g., foreign language, American Sign Language, or indigenous language of the Americas)
+- Submission of letters of recommendation from academic teachers or counselors (optional, but recommended)
+- Submission of a personal statement and 4 short-answer responses as part of the UC application
+- Submission of official transcripts from all high schools attended
+- Submission of official test scores (SAT, ACT, or SAT Subject Tests) sent directly from the testing agency
+- Application fee of $70 for domestic applicants or $80 for international applicants (fee waivers available for eligible students)
+- Submission of a completed UC application, including all required information and materials, by the deadline
+- Proof of immunization against measles, mumps, and rubella (MMR), as well as varicella (chickenpox), for all new students
+- Proof of tuberculosis (TB) risk assessment or screening for all new students
+- Residency requirements, including proof of California residency for in-state tuition
+- Submission of a social security number or individual taxpayer identification number (ITIN) for financial aid purposes
+
+#### Application Deadlines
+
+**Early Action:** November 1, 2025. Notification by mid-December.
+
+**Regular Decision:** January 1, 2026. Notification by late March.
+
+---
+
+### University of Chicago {#university-of-chicago}
+
+**Website:** [University of Chicago](https://collegeadmissions.uchicago.edu)
+
+#### Admissions Requirements
+
+- Completed Common Application or Coalition Application
+- Official high school transcripts
+- Letters of recommendation from teachers (typically 2-3)
+- Personal statement or essay
+- Application fee or fee waiver request
+- Strong academic record with challenging coursework
+- Standardized test scores (SAT/ACT may be optional)
+- Demonstrated involvement in extracurricular activities
+- International applicants: TOEFL/IELTS scores if English is not your first language
+
+#### Application Deadlines
+
+**Early Action:** November 1, 2025. Notification by mid-December.
+
+**Regular Decision:** January 1, 2026. Notification by late March.
+
+---
+
+### Yale University {#yale-university}
+
+**Website:** [Yale University](https://admissions.yale.edu)
+
+#### Admissions Requirements
+
+- Completed Common Application or Coalition Application
+- Official high school transcripts
+- Letters of recommendation from teachers (typically 2-3)
+- Personal statement or essay
+- Application fee or fee waiver request
+- Strong academic record with challenging coursework (AP, IB, etc.)
+- Standardized test scores (SAT/ACT may be optional)
+- Demonstrated excellence in extracurricular activities
+- Evidence of leadership and community involvement
+- SAT Subject Tests (recommended but not required)
+- International applicants: TOEFL/IELTS scores if English is not your first language
+
+#### Application Deadlines
+
+**Early Action:** November 1, 2025. Notification by mid-December.
+
+**Regular Decision:** January 1, 2026. Notification by late March.
+
+---
+
+*Note: This report provides a general overview of programs, requirements, and deadlines. For the most current and detailed information, please visit the official university websites.*
