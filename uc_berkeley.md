@@ -17,22 +17,61 @@
 
 #### Admissions Requirements
 
-- Minimum 3.0 GPA in California State University-approved college preparatory courses (A-G courses) for California residents
-- Minimum 3.4 GPA in California State University-approved college preparatory courses (A-G courses) for non-California residents
-- Completion of 15 college preparatory courses (A-G courses) with a grade of C or better
-- Submission of SAT or ACT scores (writing test not required)
-- Submission of scores from SAT Subject Tests (recommended, but not required)
-- Completion of coursework in a language other than English (e.g., foreign language, American Sign Language, or indigenous language of the Americas)
-- Submission of letters of recommendation from academic teachers or counselors (optional, but recommended)
-- Submission of a personal statement and 4 short-answer responses as part of the UC application
-- Submission of official transcripts from all high schools attended
-- Submission of official test scores (SAT, ACT, or SAT Subject Tests) sent directly from the testing agency
-- Application fee of $70 for domestic applicants or $80 for international applicants (fee waivers available for eligible students)
-- Submission of a completed UC application, including all required information and materials, by the deadline
-- Proof of immunization against measles, mumps, and rubella (MMR), as well as varicella (chickenpox), for all new students
-- Proof of tuberculosis (TB) risk assessment or screening for all new students
-- Residency requirements, including proof of California residency for in-state tuition
-- Submission of a social security number or individual taxpayer identification number (ITIN) for financial aid purposes
+- Home - Office of Undergraduate Admissions
+Skip to main content
+UC Berkeley
+Office of Undergraduate Admissions
+Toggle navigation
+Main navigation
+Apply to Berkeley
+First-Year Applicants
+First-Year Requirements
+Applicant Checklist
+First-Year Policies
+Transfer Students
+Transfer requirements
+Transfer applicant checklist
+Transfer resources
+International Students
+Application Resources
+Application FAQs
+Selection Process
+Personal Insight Questions
+Application Tips
+Veterans
+Counselors and colleagues
+Dates and Deadlines
+Student Profile
+Academics
+Majors
+Academic support
+First generation resources
+Research opportunities
+Study abroad
+Cost
+Apply for financial aid
+Housing
+Residency requirements
+Types of financial aid
+Value of a Berkeley degree
+Discover Berkeley
+Diversity
+Notable alumni
+Student activities
+Visit
+Contact us
+Events
+Berkeley En Español
+Requisitos para primer año
+Requisitos de transferencia
+Descubre Berkeley
+Ayuda Financiera
+Secondary navigation
+MAP@Berkeley
+Sign up for our email list
+Contact us
+Make sure to create your MAP@Berkeley portal to stay updated on your status.
+- View our requirements and admissions process for first-year or transfer admissions.
 
 #### Application Deadlines
 

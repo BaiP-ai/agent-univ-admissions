@@ -15,37 +15,69 @@
 
 #### Admissions Requirements
 
-- Academic Preparation: Princeton recommends a rigorous high school curriculum, including 4 years of English, 4 years of mathematics, 2 years of laboratory science, 2 years of history, and 2 years of foreign language.
-- GPA: A strong academic record, with a recommended minimum GPA of 3.5 or higher.
-- Standardized Testing Requirements: Princeton accepts the SAT or ACT, with optional writing sections. The middle 50% of admitted students typically score between 700-800 on the SAT ( Evidence-Based Reading and Writing and Math) or 32-35 on the ACT.
-- SAT Subject Tests: Not required, but recommended for students who have taken advanced courses in a particular subject.
-- Application Materials:
--     - Common Application or Coalition Application
--     - Princeton-specific Questions
--     - Transfer Essay Questions (for transfer students)
--     - Graded Written Paper (optional, but recommended)
--     - Optional Arts Supplement (for students with exceptional talent in the arts)
--     - QuestBridge application (for eligible students)
-- Letters of Recommendation: 2-3 letters from academic teachers or mentors
-- Application Fee: $65 (waivable for eligible students)
-- Application Deadlines:
--     - Early Decision: November 1
--     - Regular Decision: January 1
--     - Transfer Application Deadlines: March 1 (fall semester) and November 1 (spring semester)
-- International Students: Additional requirements, including English language proficiency tests (TOEFL, IELTS, or Duolingo) and certification of finances
-- Financial Aid: Princeton is need-blind and meets 100% of demonstrated financial need. Students must apply for financial aid separately from the admission application.
+- Princeton University Admission
+Skip to main content
+Visit Princeton.edu
+Search
+Main Navigation (First Col)
+Apply
++
++
+Cost & Aid
++
++
+Academics
++
++
+Community
++
++
+Diversity
++
++
+Main Navigation (Mid Col)
+Apply
+Before you apply
++
+Helpful Tips
+How to Apply
++
+International Students
+Standardized Testing
+Application Dates & Deadlines
++
+Transfer Application Dates & Deadlines
+Application Checklist
++
+Transfer Application Checklist
+Princeton-specific Questions
++
+Transfer Essay Questions
+Graded Written Paper
+Optional Arts Supplement
+QuestBridge
+Admission Statistics
+Cost & Aid
+Net Price Calculator
+Fees & Payment Options
+Academics
+Degrees & Departments
+Minors
+What Does Liberal Arts Mean?
+- Academic Preparation
+Standardized Testing Requirements
+Academic Preparation
+During the admission process, our goal is to find students who will thrive in Princeton’s rigorous academic environment.
+- Academic Preparation
+Standardized Testing Requirements
+Visit Us
+Videos do not contain audio.
 
 #### Application Deadlines
 
-**Early Action:** {'deadline': 'November 1', 'notification': 'Mid-December', 'additional_info': 'Single-Choice Early Action, nonbinding, cannot apply to early programs at other private US colleges/universities'}
+**Early Action:** Single-Choice Early ActionRegular DecisionPrinceton University’s single-choice early action program is a nonbinding process. If admitted, you have until May 1 to notify us about your decision to matriculate. If you apply single-choice early action on Nov. 1, you may not apply to an early program at any other private college or university within the United States.As with students who are admitted through single-choice early action, students admitted through regular decision have until May 1 to notify us about their decision to matriculate.Mid-AugustApplication Available:Common Application, withPrinceton-Specific QuestionsApplication Available:Common Application, withPrinceton-Specific QuestionsNov. 1Application withPrinceton-specific QuestionsDueGraded Written PaperDueSchool Report, School Counselor Letter and TranscriptTeacher Evaluation Form 1Teacher Evaluation Form 2TOEFL,IELTS AcademicorPTE AcademicTest Completed (if applicable)Nov. 6Optional Arts SupplementDueNov. 9Princeton Financial Aid ApplicationDueMid-DecemberDecision NotificationJan. 1Application withPrinceton-specific QuestionsDueGraded Written PaperDueSchool Report, School Counselor Letter and TranscriptTeacher Evaluation Form 1Teacher Evaluation Form 2TOEFL,IELTS AcademicorPTE AcademicTest Completed (if applicable)Jan. 8Optional Arts SupplementDueFeb. 1Princeton Financial Aid ApplicationDueLate MarchDecision NotificationMay 1Candidate's Reply DateCandidate's Reply Date
 
-**Regular Decision:** {'deadline': 'January 1', 'notification': 'Late March', 'additional_info': 'Regular Decision, nonbinding'}
-
-**Financial Aid:** {'early_action': 'November 9', 'regular_decision': 'February 1'}
-
-**Arts Supplement:** {'early_action': 'November 6', 'regular_decision': 'January 8'}
-
-**Candidate Reply:** May 1
+**Regular Decision:** Single-Choice Early ActionRegular DecisionPrinceton University’s single-choice early action program is a nonbinding process. If admitted, you have until May 1 to notify us about your decision to matriculate. If you apply single-choice early action on Nov. 1, you may not apply to an early program at any other private college or university within the United States.As with students who are admitted through single-choice early action, students admitted through regular decision have until May 1 to notify us about their decision to matriculate.Mid-AugustApplication Available:Common Application, withPrinceton-Specific QuestionsApplication Available:Common Application, withPrinceton-Specific QuestionsNov. 1Application withPrinceton-specific QuestionsDueGraded Written PaperDueSchool Report, School Counselor Letter and TranscriptTeacher Evaluation Form 1Teacher Evaluation Form 2TOEFL,IELTS AcademicorPTE AcademicTest Completed (if applicable)Nov. 6Optional Arts SupplementDueNov. 9Princeton Financial Aid ApplicationDueMid-DecemberDecision NotificationJan. 1Application withPrinceton-specific QuestionsDueGraded Written PaperDueSchool Report, School Counselor Letter and TranscriptTeacher Evaluation Form 1Teacher Evaluation Form 2TOEFL,IELTS AcademicorPTE AcademicTest Completed (if applicable)Jan. 8Optional Arts SupplementDueFeb. 1Princeton Financial Aid ApplicationDueLate MarchDecision NotificationMay 1Candidate's Reply DateCandidate's Reply Date
 
 ---
 

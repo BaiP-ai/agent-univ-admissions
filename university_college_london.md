@@ -17,20 +17,67 @@
 
 #### Admissions Requirements
 
-- Meet the A Level or equivalent first year entry requirements for the programme
-- Specific grade and subject requirements are shown on each programme page of the Undergraduate Prospectus
-- International students: Check the country-specific qualification entry requirements using the drop-down menu in the Other Qualifications section
-- Typical GPA requirement: 3.3 or above (varies by programme and country)
-- English language requirements: IELTS 6.5 or above, TOEFL 92 or above, or equivalent
-- Some programmes may require additional tests, such as the Biomedical Admissions Test (BMAT) or the University Clinical Aptitude Test (UCAT)
-- Application through UCAS, with a deadline of the UCAS equal consideration deadline
-- Submit all required application materials, including transcripts, certificates, and references
-- Engineering Foundation Year: Eligibility and application process available on the programme page
-- Second year entry: Meet the A Level or equivalent first year entry requirements, and have covered similar content to the first year at UCL
-- Applicants with a disability: Contact the Disability Services team for guidance and support
-- Access and participation: UCL has a commitment to widening participation and increasing diversity
-- Fees and funding: Check the programme page for specific fee structures and available scholarships
-- International applicants: Guidance and support available, including English language requirements and visa information
+- It also allows you to find our international qualification entry requirements by selecting your country, or the country from which your qualification originates, from the drop-down menu in the Other Qualifications section.
+- Undergraduate Prospectus
+On each programme's webpage you will find their entry requirements, application processes, deadlines, course contents, and fee structures.
+- Check our entry requirements
+To guarantee your application gets considered, you must have applied by the UCAS equal consideration deadline and meet all our entry requirements.
+- Learn more about our entry requirements
+Specific grade and subject requirements are shown on each programme page of the
+Undergraduate Prospectus
+.
+- Engineering Foundation Year eligibility and how to apply
+Any other application we receive for ‘Year 0’ entry will automatically be considered for ‘Year 1’ entry and must meet our advertised programme entry requirements.
+- Programmes that consider second year entry
+Faculty of Arts and Humanities
+Greek and Latin (Classics and the Ancient World)
+Hebrew and Jewish Studies
+Faculty of Engineering Sciences
+Information Management for Business (Please note only applicants that have taken the Singapore Polytechnic Diploma in Business Information Technology can be considered for second year entry)
+Institute of Education
+BA Education, Society and Culture
+Faculty of Medical Sciences
+(Please note second year entry is only considered in rare cases – you will need to demonstrate a genuine compelling reason for transferring)
+Cancer Biomedicine
+Infection & Immunity
+Applied Medical Sciences
+Nutrition and Medical Sciences
+Medical Innovation and Enterprise
+Sports and Exercise Sciences
+To be considered for a second year transfer you must:
+Meet the A Level or equivalent first year entry requirements for the programme
+Have covered similar content to the first year at UCL (at a standard judged equivalent) at your current higher education institution.
+- Applicants who are required to complete compulsory national military service may be able to exceptionally defer their entry to UCL by up to two years.
+- A history of bold thinking
+Research-based education
+Cutting-edge facilities
+A sustainable space
+Careers and employability
+Your global alumni community
+Entrepreneurship
+Volunteering and community at UCL
+A vibrant social life
+Support and wellbeing
+Your life in London
+Accommodation
+Tour the neighbourhood
+Funding your studies
+Fees and funding
+How to apply
+How to apply
+Entry requirements
+UCAS explained
+English language requirements
+Guidance for international applicants
+Access and participation
+Applicants with a disability
+After you apply
+How we assess your application
+Admissions enquiries
+Admissions enquiries
+Disclaimer
+Stay in touch
+Download the prospectus
 
 #### Application Deadlines
 

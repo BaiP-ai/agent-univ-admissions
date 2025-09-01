@@ -15,32 +15,135 @@
 
 #### Admissions Requirements
 
-- Meet UBC's general admission requirements
-- Meet the English Language Admission Standard
-- Academic Requirements:
--   - Minimum overall average of 70% in academic Grade 11 and Grade 12 courses (Canadian high school applicants)
--   - Minimum GPA of 2.5 on a 4.0 scale (University or college transfer students)
--   - No specific GPA requirement mentioned for international high school applicants, but competitive admission
-- Standardized Test Scores:
--   - SAT or ACT scores (optional, but recommended for international students)
--   - SAT minimum scores: 1280 (Evidence-Based Reading and Writing and Math) or 260 (Math)
--   - ACT minimum scores: 26 (composite score)
-- English Language Proficiency:
--   - One of the following options to demonstrate English language competency:
--     - Complete four or more consecutive years of full-time education in English in Canada
--     - Achieve a minimum score of 90 on the Internet-Based TOEFL (iBT)
--     - Achieve a minimum score of 6.0 on the International English Language Testing System (IELTS)
--     - Achieve a minimum score of 65 on the Canadian Academic English Language (CAEL) Assessment
--     - Achieve a minimum score of 55 on the Pearson Test of English (PTE) Academic
--     - Complete the UBC Conditional Admission Program (CAP)
--     - Complete the Academic English Development (AED) program
-- Application Materials:
--   - Online application form
--   - Personal Profile ( essay-based component)
--   - Official transcripts from all previous institutions attended
--   - Language proficiency test scores (if applicable)
--   - SAT or ACT scores (if applicable)
--   - Letters of recommendation (not required, but recommended for some programs)
+- Applying to UBC
+Search this website
+Search
+The University of British Columbia
+UBC - A Place of Mind
+The University of British Columbia
+UBC Search
+UBC Search
+Undergraduate Programs and Admissions
+Apply to UBC
+Programs
+Applying to UBC
+Admission requirements
+Canadian high schools
+International high schools
+International Baccalaureate students
+Advanced Placement students
+University or college transfer students
+Mature students
+English language competency
+Academic English development programs for admission
+UBC Conditional Admission Program
+Indigenous admissions
+UBC-Langara Indigenous Transfer Partnership
+How to apply
+Plan for UBC
+Choose what to study
+First-year credit
+Write your Personal Profile
+Complete the application
+Disability-related considerations
+Working with an education agent
+After you’ve applied
+Submit your documents
+First-year credit
+First-year study options
+Appeals
+After you’ve been admitted
+Accept your offer
+Apply for a study permit
+Plan your finances
+Find a place to live
+Take care of your health and wellness
+Explore your academic options
+Plan your degree
+Register for your courses
+Get ready for UBC life
+What we look for
+Dates and deadlines
+Financial planning
+How UBC determines your tuition fees
+What will your first year cost?
+- Scholarships and awards for Canadian students
+Beyond Tomorrow Scholars Program
+Indigenous student awards
+Loran Awards
+Presidential Scholars Awards
+Schulich Leader Scholarships
+UBC Centennial Scholars Entrance Awards
+Scholarships and awards for international students
+International Scholars
+Loans, bursaries, and funding support
+Loans for Canadian and US students
+Bursaries
+Awards for students with disabilities
+Funding for former youth in care
+Funding for veterans
+Financial schedule
+UBC Life
+Vancouver
+Living in residence
+Living off campus
+Okanagan
+Living in residence
+Living off campus
+Academics and learning
+Interdisciplinary studies and innovative programs
+Sports and recreation
+Getting involved
+Work programs
+Leadership and volunteering
+Clubs and societies
+Campus community
+Orientations
+Students with disabilities
+Arts and culture
+Indigenous students
+Former youth in care
+UBC life blog
+Contact us
+Tours and events
+Campus tours
+Fairs
+Information sessions
+Student experience events
+School visits
+Student meetings
+Self-guided virtual tours
+Your account
+Log in
+Create an account
+Get your Guide
+Browse:
+Home
+/
+Applying to UBC
+Applying to UBC
+As one of the world’s top 40 universities, UBC has competitive admission requirements and attracts elite students from around the globe.
+- Health Insurance at UBC
+As a UBC student, you must have both basic and extended health insurance coverage.
+- Find out about registering for your courses
+Admissions Next Step
+Events and tours
+Create orientation on the Okanagan campus
+Events and tours
+Imagine UBC orientation on the Vancouver campus
+Your admission requirements
+Admission to UBC is competitive, and your requirements change depending on your degree and campus of choice.
+- All applicants must meet UBC’s general admission requirements and English Language Admission Standard.
+- Canadian high school applicant requirements
+International high school applicant requirements
+International Baccalaureate applicant requirements
+University or college student applicant requirements
+Mature student applicant requirements
+English language competency
+English is the primary language of instruction at UBC.
+- Before you’re admitted, you must demonstrate a minimum level of English.
+- There are nine different ways to meet this requirement, such as completing four or more consecutive years of full-time education in English in Canada.
+- If you haven’t yet met the requirement, you may be interested in one of our academic English development programs.
 
 #### Application Deadlines
 

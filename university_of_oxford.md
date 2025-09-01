@@ -15,20 +15,58 @@
 
 #### Admissions Requirements
 
-- Meet the University's academic requirements, which typically include:
-- A-levels: AAA or A*AA, depending on the course, with grades in relevant subjects
-- International Baccalaureate (IB): 38-40 points, with 6s and 7s in higher-level subjects
-- Other UK qualifications: equivalent to A-levels, such as Cambridge Pre-U or Scottish Advanced Highers
-- International qualifications: equivalent to A-levels, such as APs, SATs, or national exams, with grades and scores varying by country and course
-- GPA: not typically required, but a strong academic record is expected
-- English language proficiency: IELTS 7.0, TOEFL 110, or CAE 191, with minimum scores in each component
-- Submission of UCAS application, including:
-- Personal statement (up to 4,000 characters) outlining academic interests, achievements, and goals
-- Reference from a teacher or academic advisor
-- Predicted grades and qualifications from the school or college
-- Optional: written work, such as essays or creative writing, for certain courses
-- Optional: admissions tests, such as the Biomedical Admissions Test (BMAT) or the Thinking Skills Assessment (TSA), for certain courses
-- Interviews: may be required for certain courses, either in-person or online
+- Undergraduate admissions and outreach | University of Oxford
+Skip to main content
+Home
+Home
+Admissions
+Undergraduate
+Graduate
+Lifelong learning
+Research
+Engage with us
+Support for researchers
+Using research to engage
+Recognition
+News & Events
+Events
+Pulse
+Features
+Oxford profiles
+Oxford and coronavirus
+Filming in Oxford
+Find An Expert
+About
+Organisation
+Vice-Chancellor
+Facts and figures
+Oxford people
+Oxford Access
+International Oxford
+Building Our Future
+Jobs
+牛津大学
+Search
+Undergraduate
+Student life
+An exceptional education
+A welcoming and supportive community
+Help with the cost
+Do what you love
+Building your future
+Oxford is for you
+Courses
+A-Z of courses
+Choosing what to study
+Admission requirements
+UK qualifications
+International qualifications
+About your studies
+Your academic year
+Department virtual tours
+Colleges
+A-Z of colleges
+What are Oxford colleges?
 
 #### Application Deadlines
 

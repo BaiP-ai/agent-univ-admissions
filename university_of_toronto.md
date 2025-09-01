@@ -15,40 +15,126 @@
 
 #### Admissions Requirements
 
-- Academic Requirements:
--   • Completion of a high school diploma or equivalent
--   • Minimum overall average of 70% to 85% (varies by program)
--   • Prerequisite courses for the chosen program (e.g., mathematics, sciences, languages)
--   • GPA: Minimum 3.0 (varies by program and faculty)
-- English Language Requirements:
--   • TOEFL: Minimum score of 100 (iBT) or 250 (computer-based)
--   • IELTS: Minimum score of 6.5 (academic)
--   • CAEL: Minimum score of 70
--   • Cambridge English: Minimum score of 180 (C1 Advanced or C2 Proficiency)
--   • Duolingo English Test: Minimum score of 120
-- Application Materials:
--   • Online application form
--   • Non-refundable application fee (CAD 180 for international students)
--   • Official high school transcript or equivalent
--   • Official university or college transcript (if applicable)
--   • Letters of recommendation (varies by program)
--   • Personal statement or essay (varies by program)
--   • Supplemental applications (e.g., portfolios, auditions, or writing samples) for specific programs
--   • Proof of English language proficiency (if applicable)
--   • Proof of citizenship or permanent residency (if applicable)
-- Deadlines and Timelines:
--   • Application deadlines: January 15 (early admission) or March 1 (regular admission)
--   • Document deadlines: March 1 (early admission) or April 1 (regular admission)
--   • Admissions decisions: Released on a rolling basis, typically between February and May
-- Transfer Credits:
--   • High school transfer credits: Up to 2.0 full credits
--   • University or college transfer credits: Up to 5.0 full credits
-- Financial Aid and Scholarships:
--   • University of Toronto Scholars Program
--   • President's Scholars of Excellence Program
--   • Admission Awards and Scholarships
--   • Ontario Student Assistance Program (OSAP) for Ontario residents
--   • Other government-funded student aid programs for Canadian citizens or permanent residents
+- George Campus Tours
+Virtual Campus Tour
+Online
+Sessions
+Upcoming
+Events
+Connect with us
+Sign-up to receive more information about U of T
+Apply
+Requirements
+Canadian Students
+International Students
+Other Pathways
+English Language Requirements
+Applying
+How to Apply
+Applications
+Dates & Deadlines
+Admissions Timelines
+After You
+Apply
+Required Documents
+Supplemental Applications
+Assessment Process
+Admission Decisions
+Transfer Credits
+Finances
+University
+Fees
+Scholarships
+Admission Awards
+Awards Profile
+Financial
+Aid
+Ontario Students
+Canadian Students
+U.S.
+- View our campuses
+Explore our university
+Student voices
+Allana's Story
+Abdullah's Story
+Giovanni's Story
+Start your journey
+Apply
+What are the requirements?
+- Learn more about the program requirements and supplemental applications for your area of interest.
+- View requirements
+Application process
+Applying to university can be overwhelming.
+- George Campus Tours
+Virtual Campus Tour
+Search
+Online Sessions
+Upcoming Events
+Search
+Apply
+Requirements
+Canadian Students
+Canadian High School
+Canadian University or College
+Canadians Living Abroad
+Search
+International Students
+International High School Students
+High School Requirements by Country
+U.S.
+- High School Students
+U.S Patterned High School Students
+Caribbean Advanced Proficiency Examination (CAPE) Students
+International University or College Students
+Search
+Other Pathways
+Non-Degree Students
+Pathway Programs
+Visiting Students
+Mature Students
+Search
+English Language Requirements
+English Language Transition Programs
+Search
+Search
+Applying
+How to Apply
+Protect Yourself From Fraud
+Search
+Applications
+Dates & Deadlines
+Admissions Timelines
+Canadian Living in Ontario
+Canadian Living Outside Ontario
+International
+Search
+Search
+After You Apply
+Required Documents
+Supplemental Applications
+Assessment Process
+Admission Decisions
+Waitlist
+Search
+Transfer Credits
+High School Transfer Credits
+University & College Transfer Credits
+Search
+Search
+Search
+Finances
+University Fees
+Scholarships
+Admission Awards
+President's Scholars of Excellence Program
+U of T Scholars Program
+Search
+Awards Profile
+Search
+Financial Aid
+Ontario Students
+Canadian Students
+U.S.
 
 #### Application Deadlines
 

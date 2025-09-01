@@ -15,30 +15,51 @@
 
 #### Degree Programs
 
-**PhD Programmes** (PhD, 4-5 years)
-
-LSE's PhD programmes provide students with advanced training in their chosen field, preparing them for careers in academia, research, or industry. Students engage in original research, develop their critical thinking and analytical skills, and produce a thesis that contributes to their field of study.
+**PhD Studentships
+Information for international students
+Top ** (Master's)
 
 #### Admissions Requirements
 
-- Meet the original first year entry requirements for the programme, which typically include:
-- A-levels: AAA-ABB grades, with specific subjects required for certain programmes
-- International Baccalaureate (IB): 38-40 points, with specific subjects required for certain programmes
-- Other qualifications: Check the LSE website for accepted qualifications and grades
-- Achieve a minimum GPA of 3.3 or equivalent in your previous studies
-- For second-year entry, achieve the equivalent of a 2:1 in your first year studies
-- Provide a copy of your transcript to demonstrate your academic performance
-- Meet the English language proficiency requirements, which typically include:
-- IELTS: 7.0 overall, with 6.5 in each component
-- TOEFL: 100 overall, with 25 in each component
-- Other English language qualifications: Check the LSE website for accepted qualifications and grades
-- Submit your application through UCAS, including:
-- A completed UCAS application form
-- A personal statement (approximately 4,000 characters)
-- One academic reference
-- Any additional required documents, such as transcripts or certificates
-- Apply by the UCAS January deadline for second-year entry
-- Note: Meeting the minimum requirements does not guarantee admission, as competition for places is intense
+- Applicants should
+contact UCAS
+for any technical questions about the application process or for guidance on the UCAS procedures.
+- In order to be eligible for consideration, applicants applying for second year must meet the following requirements
+Meet the original first year entry requirements for the programme (eg A level or IB requirements)
+Achieve the equivalent of a 2:1 in your first year studies
+Your current first year studies must be the same as the first year at LSE (you must provide a copy of your transcript)
+There must be spaces available in the second year of the programme
+Students currently enrolled at another university wishing to gain admission to LSE in the second year should apply via UCAS, and should do so by the UCAS January deadline.
+- Due to the intense level of competition for places at LSE, we are unable to guarantee entry, even where applicants have met all of our requirements.
+- It is recommended that you
+contact Undergraduate Admissions
+for advice on specific programme requirements before applying.
+- Share
+Email a link to this page
+Share on Facebook
+Share on LinkedIn
+Applying to LSE: a guide to making a competitive undergraduate application
+Watch our video to find out what we're looking for in competitive candidates
+Virtual Undergraduate Open Day videos
+Watch sessions delivered by academic departments, LSE students and support services
+LSE Discovery Sessions
+Attend a virtual information and Q&A session to find out more about undergraduate study at LSE
+Entry requirements
+Accepted qualifications and the grades we're looking for
+Making an application
+How to complete the UCAS form, and required documents
+Admissions calendar
+Important dates in the admissions process
+Admissions policy
+Read more about our policy, including on data protection
+Mature applicants
+Information for applicants over 21
+London School of Economics and Political Science
+Houghton Street
+London
+WC2A 2AE
+UK
+LSE is a private company limited by guarantee, registration number 70527.
 
 #### Application Deadlines
 

@@ -15,33 +15,250 @@
 
 #### Admissions Requirements
 
-- Academic Requirements:
--   * Meet the minimum academic requirements for your chosen program, including GPA and subjects taken.
--   * Check the specific entry requirements for your course, as they may vary.
-- English Language Requirements:
--   * Achieve the required English language proficiency, such as IELTS, TOEFL, or Cambridge English.
--   * Check if you're exempt from English language requirements or if you need to take a language test.
-- Standardized Test Scores:
--   * Check if your chosen program requires standardized test scores, such as SAT, ACT, or GRE.
--   * Meet the minimum test score requirements for your program.
-- Application Materials:
--   * Submit a completed online application form.
--   * Upload required documents, such as transcripts, certificates, and language test results.
--   * Write a strong personal statement, typically 400-500 words, outlining your academic background, interests, and career goals.
--   * Provide academic references, usually from teachers or professors, who can comment on your academic abilities and potential.
--   * Pay the application fee, unless you're eligible for a fee waiver.
-- Admissions Tests:
--   * Check if your chosen program requires admissions tests, such as the Biomedical Admissions Test (BMAT) or the Imperial College London Mathematics Admission Test.
--   * Register for the required tests and achieve the minimum scores.
-- Interviews:
--   * Check if your chosen program requires interviews, either in-person or online.
--   * Prepare for the interview by researching the program and practicing common interview questions.
-- Additional Requirements:
--   * Check if your chosen program has any additional requirements, such as a portfolio, audition, or written assessment.
--   * Meet the specific requirements for your program, as they may vary.
-- International Students:
--   * Check the specific requirements for international students, including visa requirements and English language proficiency.
--   * Meet the financial requirements for international students, including proof of funding and living costs.
+- Offer holders
+Next steps
+Submit your offer conditions
+Request a deferral
+Life on campus
+Accommodation
+Fees and funding
+Supporting you at Imperial
+Careers support
+International students
+Information for Higher Education advisers
+Upcoming events
+Application advice
+Visits
+Counsellor FAQs
+Academic resources
+Advisers newsletter
+Entry requirements
+Accepted qualifications
+Postgraduate taught
+Entry requirements
+Accepted qualifications
+Application process
+Choose a course
+Personal statement
+Deadlines
+Application fee
+Application fee waiver
+Application reference
+Interviews
+Offer holders
+Next steps
+Submit your offer conditions
+Request a deferral
+Life on campus
+Accommodation
+Fees and funding
+Supporting you at Imperial
+Career support
+International students
+Doctoral
+Entry requirements
+Accepted qualifications
+Application process
+Choose a course
+PhD
+Split PhD
+Professional Doctorate
+Integrated PhD
+PRI scheme
+Advanced standing
+Application reference
+Finding a supervisor
+Writing a research proposal
+Interview
+Offer holders
+Next steps
+Submit your offer conditions
+Request a deferral
+Life on campus
+Accommodation
+Fees and funding
+Supporting you at Imperial
+International students
+English language requirements
+English language exemption
+Visiting students
+Course changes
+Contact
+Fees and funding
+Undergraduate
+Tuition fees
+Bursaries, grants and scholarships
+Imperial Bursary
+Sanctuary scholarships
+NHS Bursary for Medicine students
+Search our scholarships
+IB Excellence scholarships
+Presidential scholarships for students of Black heritage
+External scholarships
+Loans
+Tuition fee loan
+Maintenance loan
+Repaying your UK government loans
+Student loans for US students
+Student loans for Canadian students
+Postgraduate taught
+Tuition fees
+Grants and scholarships
+Search our scholarships
+Presidential scholarships for students of Black heritage
+Sanctuary scholarships
+International scholarship collaborations
+GREAT - Imperial College London Scholarship
+Women in STEM Scholarships
+COLFUTURO & Imperial College London Joint Graduate Loan-Scholarship
+DAAD Scholarships
+External scholarships
+Charitable grants and trusts
+Loans
+Postgraduate Master's Loan
+Repaying your loan
+Student loans for US students
+Student loans for Canadian students
+Doctoral
+Tuition fees
+Grants and scholarships
+Search our scholarships
+President's PhD scholarships
+Research Council Studentships (PhD)
+International scholarship collaborations
+GREAT - Imperial College London Scholarship
+Women in STEM Scholarships
+COLFUTURO & Imperial College London Joint Graduate Loan-Scholarship
+DAAD Scholarships
+External scholarships
+Charitable grants and trusts
+Loans
+Postgraduate Doctoral Loan
+Repaying your loan
+Student loans for US students
+Student loans for Canadian students
+Tuition fees
+How to pay
+Payment terms
+Self-funding students
+Sponsored students
+Visiting students
+Payment in instalments
+Tuition fee refunds
+Postgraduate early payment discount
+Postgraduate application deposits
+Refunds
+Staff tuition fee discount
+Goods and Services Tax (GST)
+Fee status
+Student visa financial requirements
+Equivalent or lower qualifications
+Search our scholarships
+Living costs
+Contact
+Other funding sources
+Student life
+Reputation and rankings
+Careers and entrepreneurship
+An Imperial education
+I-Explore
+Study abroad
+Imperial–MIT student exchange
+International Research Opportunities Programme
+Undergraduate Research Opportunities Programme
+Societies, clubs and culture
+Accommodation
+Central London location
+Our student community
+My Imperial story
+Undergraduate
+Postgraduate taught
+Postgraduate doctoral
+Support and wellbeing
+Visit
+Undergraduate
+Open Days
+September Open Day
+Open Day Travel Bursary
+Make the most of your day
+Subject and student life fairs
+Subject sessions
+Talks
+Department drop-in sessions
+Tours and visits
+Campus Map
+Teachers and advisers' conference
+In-person information appointments
+Imperial on tour
+Postgraduate
+Postgraduate Open Days
+In-person information appointments
+Summer schools
+Summer schools for high school students
+Summer schools for current undergraduates
+On-demand talks and tasters
+Campus tours
+School groups
+Self-guided tour
+Events
+Contact
+Help centre
+Undergraduate admissions
+Postgraduate admissions
+Tuition fees
+Funding and scholarships
+Student support
+Contact
+Request info
+International students
+Information by region
+Africa
+Caribbean
+Central and South America
+East Asia
+Europe
+Middle East
+North America
+Oceania
+Russia and Central Asia
+South Asia
+South East Asia
+Imperial visits you
+Ask us a question
+International student support
+Policy on International Agents
+Contact us
+Apply undergraduate
+Find a course
+Choose a study type:
+Undergraduate
+Postgraduate taught
+Postgraduate doctoral
+Search by keyword:
+Search
+All  courses
+Learn more about our entry requirements and admissions tests, get top tips on writing your personal statement and find what happens after you submit your application to UCAS.
+- Choosing a course
+Personal statement
+Entry requirements
+Accepted qualifications
+How to apply
+Find out how and when to apply.
+- Plus get information on admissions test requirements and how to register.
+- How to apply
+When to apply
+Admissions tests requirements
+Personal statement top tips
+Selection process
+Understand our selection process.
+- Meet us in-country
+Meet us online
+English language requirements
+Chat to our students
+International student support
+International admissions
+Join a global community.
+- Understand the requirements to apply from anywhere in the world.
 
 #### Application Deadlines
 
