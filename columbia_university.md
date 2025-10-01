@@ -15,15 +15,9 @@
 
 #### Admissions Requirements
 
-- Completed Common Application or Coalition Application
-- Official high school transcripts
-- Letters of recommendation from teachers (typically 2-3)
-- Personal statement or essay
-- Application fee or fee waiver request
-- Strong academic record with challenging coursework
-- Standardized test scores (SAT/ACT may be optional)
-- Demonstrated involvement in extracurricular activities
-- International applicants: TOEFL/IELTS scores if English is not your first language
+- All requirements and submission instructions are detailed on the
+Financial Aid & Educational Financing
+website.
 
 #### Application Deadlines
 

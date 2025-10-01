@@ -13,12 +13,6 @@
 
 **Website:** [London School of Economics](https://www.lse.ac.uk/study-at-lse/Undergraduate/Prospective-Students/How-to-Apply)
 
-#### Degree Programs
-
-**PhD Studentships
-Information for international students
-Top ** (Master's)
-
 #### Admissions Requirements
 
 - Applicants should

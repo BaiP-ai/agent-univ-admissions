@@ -178,14 +178,7 @@ Support and wellbeing
 Visit
 Undergraduate
 Open Days
-September Open Day
-Open Day Travel Bursary
 Make the most of your day
-Subject and student life fairs
-Subject sessions
-Talks
-Department drop-in sessions
-Tours and visits
 Campus Map
 Teachers and advisers' conference
 In-person information appointments

@@ -26,6 +26,7 @@ History of Financial Aid
 Dean Deming
 Dean Deming Submenu
 Messages to Students
+Dean's Speeches
 Dean's Office Staff
 Campus
 Campus Submenu

@@ -20,12 +20,14 @@
 - It also allows you to find our international qualification entry requirements by selecting your country, or the country from which your qualification originates, from the drop-down menu in the Other Qualifications section.
 - Undergraduate Prospectus
 On each programme's webpage you will find their entry requirements, application processes, deadlines, course contents, and fee structures.
+- If we require a further personal statement, we will contact you directly to request this.
 - Check our entry requirements
-To guarantee your application gets considered, you must have applied by the UCAS equal consideration deadline and meet all our entry requirements.
+To guarantee your application is considered, you must have applied by the UCAS equal consideration deadline and meet all our entry requirements.
 - Learn more about our entry requirements
 Specific grade and subject requirements are shown on each programme page of the
 Undergraduate Prospectus
 .
+- It also allows you to find our international qualification entry requirements by selecting your country, or the country from which your qualification originates, from the drop-down menu in the ‘Other qualifications’ section.
 - Engineering Foundation Year eligibility and how to apply
 Any other application we receive for ‘Year 0’ entry will automatically be considered for ‘Year 1’ entry and must meet our advertised programme entry requirements.
 - Programmes that consider second year entry
@@ -33,20 +35,23 @@ Faculty of Arts and Humanities
 Greek and Latin (Classics and the Ancient World)
 Hebrew and Jewish Studies
 Faculty of Engineering Sciences
-Information Management for Business (Please note only applicants that have taken the Singapore Polytechnic Diploma in Business Information Technology can be considered for second year entry)
+Information Management for Business BSc (Please note only applicants that have taken the Singapore Polytechnic Diploma in Business Information Technology can be considered for Year 2 entry)
 Institute of Education
-BA Education, Society and Culture
+Education, Society and Culture BA
 Faculty of Medical Sciences
-(Please note second year entry is only considered in rare cases – you will need to demonstrate a genuine compelling reason for transferring)
-Cancer Biomedicine
-Infection & Immunity
-Applied Medical Sciences
-Nutrition and Medical Sciences
-Medical Innovation and Enterprise
-Sports and Exercise Sciences
+(Please note Year 2 entry is only considered in rare cases – you will need to demonstrate a genuine compelling reason for transferring)
+Applied Medical Sciences BSc/MSci
+Cancer Biomedicine BSc/MSci
+Infection and Immunity BSc
+Medical Innovation and Enterprise BSc/MSci
+Nutrition and Medical Sciences BSc
+Sport and Exercise Medical Sciences BSc
 To be considered for a second year transfer you must:
-Meet the A Level or equivalent first year entry requirements for the programme
-Have covered similar content to the first year at UCL (at a standard judged equivalent) at your current higher education institution.
+Meet the A level or equivalent Year 1 entry requirements for the programme
+Have covered similar content to the first year at UCL at your current higher education institution, this will be reviewed by the Department you are applying to
+In some cases, achieve a 2.1 or 1st in your first year at your current higher education institution
+Have applied through UCAS by the equal consideration deadline, selecting point of entry 2
+If applicable, we will send you an Accreditation of Prior Learning form to complete.
 - Applicants who are required to complete compulsory national military service may be able to exceptionally defer their entry to UCL by up to two years.
 - A history of bold thinking
 Research-based education

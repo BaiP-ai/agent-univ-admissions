@@ -52,19 +52,43 @@ Aid
 Ontario Students
 Canadian Students
 U.S.
-- View our campuses
-Explore our university
-Student voices
-Allana's Story
-Abdullah's Story
-Giovanni's Story
-Start your journey
+- Here's how to get started
+Student Life
+Our Three
+Campuses
+Toronto & Area
+Housing
+Campus
+Life
+Athletics & Recreation
+Inclusive Community
+Student Clubs
+Student Support
+Arts & Science Colleges
+See our student life in action
+Join us for a campus tour
+Resources
+For International
+Students
+For Parents &
+Supporters
+For School
+Counsellors
+Equity &
+Outreach
+Contact
+Us
+Get to know U of T
+Browse our viewbooks
+Search this site
+Breadcrumbs
+Home
+/
 Apply
-What are the requirements?
-- Learn more about the program requirements and supplemental applications for your area of interest.
-- View requirements
-Application process
-Applying to university can be overwhelming.
+/
+Applying
+Applying
+Get ready to apply by choosing your program (or programs!) and making sure you meet the admission requirements.
 - George Campus Tours
 Virtual Campus Tour
 Search

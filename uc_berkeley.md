@@ -58,6 +58,7 @@ Discover Berkeley
 Diversity
 Notable alumni
 Student activities
+Culture and Community
 Visit
 Contact us
 Events

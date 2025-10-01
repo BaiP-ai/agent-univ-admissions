@@ -332,13 +332,6 @@ Open Days and Events
 Open Days and Events overview
 Upcoming events
 Cambridge Open Days
-Cambridge Open Days overview
-Open Days Programme
-Open Days Programme overview
-General support and facilities tours
-College sessions
-Information for the day
-Open Days FAQ
 Virtual Tour
 Subject Masterclasses
 Applicant Webinar Series
@@ -362,7 +355,6 @@ Insight
 HE+
 Sutton Trust Summer Schools
 Apply: Cambridge
-Safeguarding
 Realise
 STEM SMART
 Parents and supporters

@@ -20,17 +20,6 @@ first year
 /
 transfer
 .
-- '27
-August 29, 2025
-The summer before you come to MIT, there’s a bunch of forms to fill out–housing preferences,    FPOP applications⁠04   First Year Pre-Orientation Programs–totally not required to apply, but they're super fun!…
-Read More
-Tagged:
-#identity
-my semesterly planner
-mentally preparing for the trials ahead
-by
-Veronica P.
-- Louis Cardinals—it was practically a requirement to live in the small town I grew up in.
 
 #### Application Deadlines
 

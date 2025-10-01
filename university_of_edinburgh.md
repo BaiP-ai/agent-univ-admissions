@@ -49,8 +49,6 @@ Apply for part-time study
 Fee status and admissions
 Our selection process
 After you apply
-Getting your results
-UCAS Clearing
 Fees and funding
 Fees and funding
 Fee status
@@ -163,12 +161,6 @@ Accepting your offer: College of Medicine and Veterinary Medicine
 Accepting your offer: College of Science and Engineering
 Submitting your qualification certificates
 After you've accepted your offer
-Getting your results
-Expand/collapse submenu
-SQA results
-A level results
-IB results
-UCAS Clearing
 Fees and funding
 Expand/collapse submenu
 Fee status
@@ -235,6 +227,7 @@ Expand/collapse submenu
 Events calendar
 Open Days
 Expand/collapse submenu
+Book your place at an Open Day
 Open Day programme
 Travel and accommodation
 Expand/collapse submenu
@@ -245,6 +238,7 @@ Air travel
 Car, private coach or minibus travel
 Travel between campuses
 Accommodation
+Discounts
 Online information sessions
 Join our mailing list
 Contact us
@@ -257,8 +251,6 @@ Apply for part-time study
 Fee status and admissions
 Our selection process
 After you apply
-Getting your results
-UCAS Clearing
 Breadcrumb
 Home
 Study
