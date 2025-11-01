@@ -28,8 +28,7 @@ Inspiring local communities
 Global influence
 About
 Our story
-Vision and strategic plan
-Manchester ** (Master's)
+Strategy to ** (Master's)
 
 #### Admissions Requirements
 

@@ -32,8 +32,6 @@ for advice on specific programme requirements before applying.
 Email a link to this page
 Share on Facebook
 Share on LinkedIn
-Applying to LSE: a guide to making a competitive undergraduate application
-Watch our video to find out what we're looking for in competitive candidates
 Virtual Undergraduate Open Day videos
 Watch sessions delivered by academic departments, LSE students and support services
 LSE Discovery Sessions

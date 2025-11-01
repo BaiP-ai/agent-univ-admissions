@@ -32,7 +32,7 @@ The reports are generated using the [University Admissions Data Generator](https
 - [University Of Chicago](university_of_chicago.md)
 - [University Of British Columbia](university_of_british_columbia.md)
 - [Massachusetts Institute Of Technology](massachusetts_institute_of_technology.md)
-- [University Data 20251001 005620.Markdown](university_data_20251001_005620.markdown)
+- [University Data 20251101 005513.Markdown](university_data_20251101_005513.markdown)
 
 ## How Reports are Generated
 
@@ -55,6 +55,6 @@ If you'd like to generate a custom report for specific universities, you can:
 
 ---
 
-*Last updated: 2025-10-01 00:56:35*
+*Last updated: 2025-11-01 00:55:24*
 
 *Note: This information is auto-generated and may not be complete or up-to-date. Always verify information with the official university websites.*

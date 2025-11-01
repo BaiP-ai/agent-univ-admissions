@@ -39,26 +39,25 @@ Selection Process
 Personal Insight Questions
 Application Tips
 Veterans
-Counselors and colleagues
+Counselors and Colleagues
 Dates and Deadlines
 Student Profile
 Academics
 Majors
-Academic support
-First generation resources
-Research opportunities
-Study abroad
+Academic Support
+First Generation Resources
+Research Opportunities
+Study Abroad
 Cost
-Apply for financial aid
-Housing
-Residency requirements
-Types of financial aid
-Value of a Berkeley degree
+Apply for Financial Aid
+Types of Financial Aid
+Residency Requirements
 Discover Berkeley
-Diversity
-Notable alumni
-Student activities
 Culture and Community
+Diversity
+Housing
+Notable Alumni
+Student Activities
 Visit
 Contact us
 Events

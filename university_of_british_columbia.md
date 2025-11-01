@@ -44,7 +44,7 @@ Plan for UBC
 Choosing a university
 Choose what to study
 First-year credit
-Write your Personal Profile
+Write your personal profile
 Complete the application
 Disability-related considerations
 Working with an education agent
@@ -124,15 +124,16 @@ Home
 Applying to UBC
 Applying to UBC
 As one of the world’s top 40 universities, UBC has competitive admission requirements and attracts elite students from around the globe.
-- What are the requirements for admission to UBC?
-- Requirements for admission vary depending on where you attended high school, which UBC campus you hope to attend, and which degree you’re applying to.
-- Find your admission requirements
+- Take a tour
 Admissions Next Step
-Connect with a UBC advisor
-UBC advisors are ready to help you in your journey to UBC.
-- Our advisors can answer all of your questions about the university, including admission requirements, the application process, and what life is like as a UBC student.
-- Start planning your finances
-Admissions Next Step
+Degrees and programs
+How to plan your high school courses to succeed at UBC
+Tips from UBC students
+Arts student Kelsey on how to choose a university
+What are the requirements for post-secondary transfer admission to UBC?
+- Learn more about the International Scholars Program
+Degrees and programs
+Degree Spotlight: Arts at UBC Okanagan
 Your admission requirements
 Admission to UBC is competitive, and your requirements change depending on your degree and campus of choice.
 - All applicants must meet UBC’s general admission requirements and English Language Admission Standard.

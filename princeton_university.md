@@ -13,6 +13,8 @@
 
 **Website:** [Princeton University](https://admission.princeton.edu)
 
+**Average ACT:** 27-28
+
 #### Admissions Requirements
 
 - Princeton University Admission

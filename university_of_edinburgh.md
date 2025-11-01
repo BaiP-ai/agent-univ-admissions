@@ -161,6 +161,24 @@ Accepting your offer: College of Medicine and Veterinary Medicine
 Accepting your offer: College of Science and Engineering
 Submitting your qualification certificates
 After you've accepted your offer
+Unsuccessful applicants
+Expand/collapse submenu
+Qualifications do not meet our entry requirements
+Competition was very high
+Out of date qualifications
+Incomplete application
+Applied after the deadline
+Additional information not supplied by the deadline
+Applied with resits
+Personal statement not suited to degree programme
+Already have a degree or are studying towards one
+Applied for deferred entry
+Art or design unsuccessful applicants
+Biomedical sciences unsuccessful applicants
+MBChB Medicine unsuccessful applicants
+Veterinary medicine unsuccessful applicants
+Science and engineering unsuccessful applicants
+What to do if your application was unsuccessful
 Fees and funding
 Expand/collapse submenu
 Fee status
@@ -226,19 +244,6 @@ Open days, events and visits
 Expand/collapse submenu
 Events calendar
 Open Days
-Expand/collapse submenu
-Book your place at an Open Day
-Open Day programme
-Travel and accommodation
-Expand/collapse submenu
-Train or bus travel
-Expand/collapse submenu
-Cross Country promotion
-Air travel
-Car, private coach or minibus travel
-Travel between campuses
-Accommodation
-Discounts
 Online information sessions
 Join our mailing list
 Contact us

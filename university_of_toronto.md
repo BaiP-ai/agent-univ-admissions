@@ -92,8 +92,10 @@ Get ready to apply by choosing your program (or programs!) and making sure you m
 - George Campus Tours
 Virtual Campus Tour
 Search
+Search
 Online Sessions
 Upcoming Events
+Search
 Search
 Apply
 Requirements
@@ -101,6 +103,7 @@ Canadian Students
 Canadian High School
 Canadian University or College
 Canadians Living Abroad
+Search
 Search
 International Students
 International High School Students
@@ -111,19 +114,24 @@ U.S Patterned High School Students
 Caribbean Advanced Proficiency Examination (CAPE) Students
 International University or College Students
 Search
+Search
 Other Pathways
 Non-Degree Students
 Pathway Programs
 Visiting Students
 Mature Students
 Search
+Search
 English Language Requirements
 English Language Transition Programs
+Search
+Search
 Search
 Search
 Applying
 How to Apply
 Protect Yourself From Fraud
+Search
 Search
 Applications
 Dates & Deadlines
@@ -133,6 +141,8 @@ Canadian Living Outside Ontario
 International
 Search
 Search
+Search
+Search
 After You Apply
 Required Documents
 Supplemental Applications
@@ -140,9 +150,13 @@ Assessment Process
 Admission Decisions
 Waitlist
 Search
+Search
 Transfer Credits
 High School Transfer Credits
 University & College Transfer Credits
+Search
+Search
+Search
 Search
 Search
 Search
@@ -153,7 +167,9 @@ Admission Awards
 President's Scholars of Excellence Program
 U of T Scholars Program
 Search
+Search
 Awards Profile
+Search
 Search
 Financial Aid
 Ontario Students
