@@ -15,11 +15,17 @@
 
 #### Admissions Requirements
 
-- Before you start, please review the eligibility requirements to choose the correct application:
-first year
-/
-transfer
-.
+- Completed Common Application or Coalition Application
+- Official high school transcripts
+- Letters of recommendation from teachers (typically 2-3)
+- Personal statement or essay
+- Application fee or fee waiver request
+- Strong academic record with challenging coursework (AP, IB, etc.)
+- Standardized test scores (SAT/ACT may be optional)
+- Demonstrated excellence in extracurricular activities
+- Evidence of leadership and community involvement
+- SAT Subject Tests (recommended but not required)
+- International applicants: TOEFL/IELTS scores if English is not your first language
 
 #### Application Deadlines
 

@@ -15,14 +15,14 @@
 
 #### Admissions Requirements
 
-- Check your eligibility
-arrow-right
-English language requirements
-Your lectures, tutorials, exams, class discussions and other activities will all be in English.
-- Learn about the requirements
-arrow-right
-Undergraduate course transfer applications
-Are you currently studying an undergraduate degree at the University of Melbourne and considering switching to a different course?
+- Completed Common Application or Coalition Application
+- Official high school transcripts
+- Letters of recommendation from teachers (typically 2-3)
+- Personal statement or essay
+- Application fee or fee waiver request
+- Minimum GPA requirement (typically 3.0 or higher)
+- Standardized test scores (SAT/ACT may be optional)
+- International applicants: TOEFL/IELTS scores if English is not your first language
 
 #### Application Deadlines
 

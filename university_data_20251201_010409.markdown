@@ -63,14 +63,14 @@
 
 #### Admissions Requirements
 
-- Check your eligibility
-arrow-right
-English language requirements
-Your lectures, tutorials, exams, class discussions and other activities will all be in English.
-- Learn about the requirements
-arrow-right
-Undergraduate course transfer applications
-Are you currently studying an undergraduate degree at the University of Melbourne and considering switching to a different course?
+- Completed Common Application or Coalition Application
+- Official high school transcripts
+- Letters of recommendation from teachers (typically 2-3)
+- Personal statement or essay
+- Application fee or fee waiver request
+- Minimum GPA requirement (typically 3.0 or higher)
+- Standardized test scores (SAT/ACT may be optional)
+- International applicants: TOEFL/IELTS scores if English is not your first language
 
 #### Application Deadlines
 
@@ -175,7 +175,6 @@ Campus community
 Orientations
 Students with disabilities
 Arts and culture
-Indigenous students
 Former youth in care
 UBC life blog
 Contact us
@@ -191,22 +190,32 @@ Your account
 Log in
 Create an account
 Get your Guide
+Canadian students
+Indigenous students
+International students
 Browse:
 Home
 /
 Applying to UBC
 Applying to UBC
 As one of the world’s top 40 universities, UBC has competitive admission requirements and attracts elite students from around the globe.
-- Take a tour
-Admissions Next Step
-Degrees and programs
-How to plan your high school courses to succeed at UBC
-Tips from UBC students
-Arts student Kelsey on how to choose a university
-What are the requirements for post-secondary transfer admission to UBC?
 - Learn more about the International Scholars Program
-Degrees and programs
-Degree Spotlight: Arts at UBC Okanagan
+English Language Pathways at UBC
+If you meet UBC’s general and degree-specific admission requirements, but not the English Language Admission Requirement, there are a number of programs available to help you.
+- Find out more about the award
+Admissions Next Step
+Beyond Tomorrow Scholars Program
+UBC’s Beyond Tomorrow Scholars Program supports Canadian students who self-identify as Black, meet UBC’s admission requirements, and show an interest in joining and contributing to the UBC community, but who would not be able to attend without significant financial assistance.
+- All prospective students are required to demonstrate a minimum level of English before they’re admitted.
+- Find out how to meet UBC’s English language admission requirement
+Admissions Next Step
+Info Day for US Students at UBC Okanagan
+Are you currently studying at a high school in the United States and interested in applying to UBC?
+- Join us for Info Day for US Students at UBC Vancouver
+Admissions Next Step
+What are the requirements for post-secondary transfer admission to UBC?
+- Find out what you need to be eligible to apply
+Admissions Next Step
 Your admission requirements
 Admission to UBC is competitive, and your requirements change depending on your degree and campus of choice.
 - All applicants must meet UBC’s general admission requirements and English Language Admission Standard.
@@ -408,29 +417,25 @@ U.S.
 
 ### Universiti Malaya {#universiti-malaya}
 
-**Website:** [Universiti Malaya](https://study.um.edu.my/how-to-apply-bachelor-rsquo-s-degree)
+**Website:** [Universiti Malaya](https://study.um.edu.my/index)
 
 **Average GPA:** 3.00
 
 #### Admissions Requirements
 
-- APPLICATION PROCEDURES
+- ﻿
+Marketing and Recruitment Department (MRD)
 HOME
 PROGRAMMES
 ENTRY REQUIREMENTS
 TUITION FEE
-APPLY NOW
 OUR TEAM
 eVAL SERVICES
 FAQs & INFO
-APPLICATION PROCEDURES
-Home
-APPLICATION PROCEDURES
-Application Procedures
-Application Period
-FOUNDATION
-Noted:
-Application for our Foundation programme is now closed.
+APPLY NOW
+Welcome to
+Universiti Malaya
+No.
 
 #### Application Deadlines
 
@@ -474,6 +479,107 @@ Application for our Foundation programme is now closed.
 
 #### Admissions Requirements
 
+- Undergraduate | Study | Imperial College London
+Skip to main content
+View accessibility support page
+Search
+Search
+Menu
+Study
+Research
+Faculties
+News
+Events
+About
+Get involved
+Giving
+Shop Imperial
+Search
+Search
+Website navigation
+Close
+Key links
+This section
+Skip to section navigation
+Global site navigation
+Study
+Course search
+Apply
+Fees and funding
+Student life
+Visit
+Help centre
+Request info
+International students
+Executive education
+Summer schools
+Research
+Faculties
+Faculty of Engineering
+Faculty of Medicine
+Faculty of Natural Sciences
+Imperial Business School
+Administrative and support services
+News
+News
+Imperial Stories
+Imperial Magazine
+Events
+What's on
+Great Exhibition Road Festival
+Imperial Lates
+Graduation
+About
+President
+Provost and Deputy President
+Council
+Imperial Strategy
+Imperial Global
+Sustainable Imperial
+Schools of Convergence Science
+Governance
+Campuses
+Our academics
+Jobs at Imperial
+Get involved
+Giving
+Schools outreach
+Imperial Global Summer School
+Societal engagement
+Volunteering and outreach
+Women at Imperial
+Giving
+Shop Imperial
+User links navigation
+For staff
+Current students
+Imperial for business
+For schools
+Alumni
+Home
+Study
+navigation
+Course search
+Subjects
+Apply
+Undergraduate
+Application process
+Choose a course
+Entry requirements
+Accepted qualifications
+Deadlines
+Personal statement
+Application reference
+Teacher reference guidance
+Contextual admissions
+Admissions tests
+Engineering and Science Admissions Test (ESAT)
+Test of Mathematics for University Admissions (TMUA)
+University Clinical Aptitude Test (UCAT)
+Graduate Medical School Admissions Test (GAMSAT)
+Interviews
+Our selection process
+Exam results: What next?
 - Offer holders
 Next steps
 Submit your offer conditions
@@ -497,6 +603,8 @@ Postgraduate taught
 Entry requirements
 Accepted qualifications
 Application process
+Entry requirements
+Accepted qualifications
 Choose a course
 Personal statement
 Deadlines
@@ -525,6 +633,8 @@ Professional Doctorate
 Integrated PhD
 PRI scheme
 Advanced standing
+Entry requirements
+Accepted qualifications
 Application reference
 Finding a supervisor
 Writing a research proposal
@@ -861,7 +971,26 @@ Download the prospectus
 
 #### Admissions Requirements
 
-- Entry requirements
+- Choosing a College
+College contacts
+Area links scheme
+Finance
+Finance overview
+Tuition fees
+Living costs
+Financial support
+Music awards
+Applying
+Applying overview
+Application timeline
+Before you apply
+How to apply
+After you apply
+AI and undergraduate applications
+International
+International overview
+Chat with our students
+Entry requirements
 Tuition fees and costs
 How to apply
 International visits and events
@@ -1162,8 +1291,7 @@ AI and undergraduate applications
 International
 International overview
 Chat with our students
-Why Cambridge?
-- Entry requirements
+Entry requirements
 Tuition fees and costs
 Tuition fees and costs overview
 International financial support
@@ -1589,7 +1717,6 @@ Oxford Access
 International Oxford
 Building Our Future
 Jobs
-牛津大学
 Search
 Undergraduate
 Student life
@@ -1611,11 +1738,6 @@ Department virtual tours
 Colleges
 A-Z of colleges
 What are Oxford colleges?
-- Make sure you submit any written work required for your course
-Check out our guidance on written work
-If required as part of your application you must submit this to your college by 10 November
-Sign up for our undergraduate newsletter to receive step by step support
-Thinking of Oxford?
 
 #### Application Deadlines
 
@@ -1698,6 +1820,7 @@ On-Campus Visits
 Meet Us Online
 Virtual Tour
 Connect With Students
+Recruitment Ambassadors
 Undergraduate Viewbook
 Apply
 Apply Submenu
@@ -1762,6 +1885,7 @@ On-Campus Visits
 Meet Us Online
 Virtual Tour
 Connect With Students
+Recruitment Ambassadors
 Undergraduate Viewbook
 Apply
 Apply Submenu
@@ -1785,11 +1909,17 @@ U.S.
 
 #### Admissions Requirements
 
-- Before you start, please review the eligibility requirements to choose the correct application:
-first year
-/
-transfer
-.
+- Completed Common Application or Coalition Application
+- Official high school transcripts
+- Letters of recommendation from teachers (typically 2-3)
+- Personal statement or essay
+- Application fee or fee waiver request
+- Strong academic record with challenging coursework (AP, IB, etc.)
+- Standardized test scores (SAT/ACT may be optional)
+- Demonstrated excellence in extracurricular activities
+- Evidence of leadership and community involvement
+- SAT Subject Tests (recommended but not required)
+- International applicants: TOEFL/IELTS scores if English is not your first language
 
 #### Application Deadlines
 

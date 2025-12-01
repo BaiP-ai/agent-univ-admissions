@@ -15,7 +15,26 @@
 
 #### Admissions Requirements
 
-- Entry requirements
+- Choosing a College
+College contacts
+Area links scheme
+Finance
+Finance overview
+Tuition fees
+Living costs
+Financial support
+Music awards
+Applying
+Applying overview
+Application timeline
+Before you apply
+How to apply
+After you apply
+AI and undergraduate applications
+International
+International overview
+Chat with our students
+Entry requirements
 Tuition fees and costs
 How to apply
 International visits and events
@@ -316,8 +335,7 @@ AI and undergraduate applications
 International
 International overview
 Chat with our students
-Why Cambridge?
-- Entry requirements
+Entry requirements
 Tuition fees and costs
 Tuition fees and costs overview
 International financial support

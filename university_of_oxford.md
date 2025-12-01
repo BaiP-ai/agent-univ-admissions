@@ -44,7 +44,6 @@ Oxford Access
 International Oxford
 Building Our Future
 Jobs
-牛津大学
 Search
 Undergraduate
 Student life
@@ -66,11 +65,6 @@ Department virtual tours
 Colleges
 A-Z of colleges
 What are Oxford colleges?
-- Make sure you submit any written work required for your course
-Check out our guidance on written work
-If required as part of your application you must submit this to your college by 10 November
-Sign up for our undergraduate newsletter to receive step by step support
-Thinking of Oxford?
 
 #### Application Deadlines
 

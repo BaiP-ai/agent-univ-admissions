@@ -11,29 +11,25 @@
 
 ### Universiti Malaya {#universiti-malaya}
 
-**Website:** [Universiti Malaya](https://study.um.edu.my/how-to-apply-bachelor-rsquo-s-degree)
+**Website:** [Universiti Malaya](https://study.um.edu.my/index)
 
 **Average GPA:** 3.00
 
 #### Admissions Requirements
 
-- APPLICATION PROCEDURES
+- ﻿
+Marketing and Recruitment Department (MRD)
 HOME
 PROGRAMMES
 ENTRY REQUIREMENTS
 TUITION FEE
-APPLY NOW
 OUR TEAM
 eVAL SERVICES
 FAQs & INFO
-APPLICATION PROCEDURES
-Home
-APPLICATION PROCEDURES
-Application Procedures
-Application Period
-FOUNDATION
-Noted:
-Application for our Foundation programme is now closed.
+APPLY NOW
+Welcome to
+Universiti Malaya
+No.
 
 #### Application Deadlines
 

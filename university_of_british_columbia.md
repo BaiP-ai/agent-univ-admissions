@@ -102,7 +102,6 @@ Campus community
 Orientations
 Students with disabilities
 Arts and culture
-Indigenous students
 Former youth in care
 UBC life blog
 Contact us
@@ -118,22 +117,32 @@ Your account
 Log in
 Create an account
 Get your Guide
+Canadian students
+Indigenous students
+International students
 Browse:
 Home
 /
 Applying to UBC
 Applying to UBC
 As one of the world’s top 40 universities, UBC has competitive admission requirements and attracts elite students from around the globe.
-- Take a tour
-Admissions Next Step
-Degrees and programs
-How to plan your high school courses to succeed at UBC
-Tips from UBC students
-Arts student Kelsey on how to choose a university
-What are the requirements for post-secondary transfer admission to UBC?
 - Learn more about the International Scholars Program
-Degrees and programs
-Degree Spotlight: Arts at UBC Okanagan
+English Language Pathways at UBC
+If you meet UBC’s general and degree-specific admission requirements, but not the English Language Admission Requirement, there are a number of programs available to help you.
+- Find out more about the award
+Admissions Next Step
+Beyond Tomorrow Scholars Program
+UBC’s Beyond Tomorrow Scholars Program supports Canadian students who self-identify as Black, meet UBC’s admission requirements, and show an interest in joining and contributing to the UBC community, but who would not be able to attend without significant financial assistance.
+- All prospective students are required to demonstrate a minimum level of English before they’re admitted.
+- Find out how to meet UBC’s English language admission requirement
+Admissions Next Step
+Info Day for US Students at UBC Okanagan
+Are you currently studying at a high school in the United States and interested in applying to UBC?
+- Join us for Info Day for US Students at UBC Vancouver
+Admissions Next Step
+What are the requirements for post-secondary transfer admission to UBC?
+- Find out what you need to be eligible to apply
+Admissions Next Step
 Your admission requirements
 Admission to UBC is competitive, and your requirements change depending on your degree and campus of choice.
 - All applicants must meet UBC’s general admission requirements and English Language Admission Standard.

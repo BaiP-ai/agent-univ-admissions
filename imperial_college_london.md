@@ -15,6 +15,107 @@
 
 #### Admissions Requirements
 
+- Undergraduate | Study | Imperial College London
+Skip to main content
+View accessibility support page
+Search
+Search
+Menu
+Study
+Research
+Faculties
+News
+Events
+About
+Get involved
+Giving
+Shop Imperial
+Search
+Search
+Website navigation
+Close
+Key links
+This section
+Skip to section navigation
+Global site navigation
+Study
+Course search
+Apply
+Fees and funding
+Student life
+Visit
+Help centre
+Request info
+International students
+Executive education
+Summer schools
+Research
+Faculties
+Faculty of Engineering
+Faculty of Medicine
+Faculty of Natural Sciences
+Imperial Business School
+Administrative and support services
+News
+News
+Imperial Stories
+Imperial Magazine
+Events
+What's on
+Great Exhibition Road Festival
+Imperial Lates
+Graduation
+About
+President
+Provost and Deputy President
+Council
+Imperial Strategy
+Imperial Global
+Sustainable Imperial
+Schools of Convergence Science
+Governance
+Campuses
+Our academics
+Jobs at Imperial
+Get involved
+Giving
+Schools outreach
+Imperial Global Summer School
+Societal engagement
+Volunteering and outreach
+Women at Imperial
+Giving
+Shop Imperial
+User links navigation
+For staff
+Current students
+Imperial for business
+For schools
+Alumni
+Home
+Study
+navigation
+Course search
+Subjects
+Apply
+Undergraduate
+Application process
+Choose a course
+Entry requirements
+Accepted qualifications
+Deadlines
+Personal statement
+Application reference
+Teacher reference guidance
+Contextual admissions
+Admissions tests
+Engineering and Science Admissions Test (ESAT)
+Test of Mathematics for University Admissions (TMUA)
+University Clinical Aptitude Test (UCAT)
+Graduate Medical School Admissions Test (GAMSAT)
+Interviews
+Our selection process
+Exam results: What next?
 - Offer holders
 Next steps
 Submit your offer conditions
@@ -38,6 +139,8 @@ Postgraduate taught
 Entry requirements
 Accepted qualifications
 Application process
+Entry requirements
+Accepted qualifications
 Choose a course
 Personal statement
 Deadlines
@@ -66,6 +169,8 @@ Professional Doctorate
 Integrated PhD
 PRI scheme
 Advanced standing
+Entry requirements
+Accepted qualifications
 Application reference
 Finding a supervisor
 Writing a research proposal

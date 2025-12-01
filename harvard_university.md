@@ -56,6 +56,7 @@ On-Campus Visits
 Meet Us Online
 Virtual Tour
 Connect With Students
+Recruitment Ambassadors
 Undergraduate Viewbook
 Apply
 Apply Submenu
@@ -120,6 +121,7 @@ On-Campus Visits
 Meet Us Online
 Virtual Tour
 Connect With Students
+Recruitment Ambassadors
 Undergraduate Viewbook
 Apply
 Apply Submenu
