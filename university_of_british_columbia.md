@@ -126,22 +126,9 @@ Home
 Applying to UBC
 Applying to UBC
 As one of the world’s top 40 universities, UBC has competitive admission requirements and attracts elite students from around the globe.
-- Learn more about the International Scholars Program
-English Language Pathways at UBC
-If you meet UBC’s general and degree-specific admission requirements, but not the English Language Admission Requirement, there are a number of programs available to help you.
-- Find out more about the award
-Admissions Next Step
-Beyond Tomorrow Scholars Program
-UBC’s Beyond Tomorrow Scholars Program supports Canadian students who self-identify as Black, meet UBC’s admission requirements, and show an interest in joining and contributing to the UBC community, but who would not be able to attend without significant financial assistance.
+- Look for an email from UBC that outlines which documents you are required to submit, how you can submit them, and when you’re required to submit them.
 - All prospective students are required to demonstrate a minimum level of English before they’re admitted.
 - Find out how to meet UBC’s English language admission requirement
-Admissions Next Step
-Info Day for US Students at UBC Okanagan
-Are you currently studying at a high school in the United States and interested in applying to UBC?
-- Join us for Info Day for US Students at UBC Vancouver
-Admissions Next Step
-What are the requirements for post-secondary transfer admission to UBC?
-- Find out what you need to be eligible to apply
 Admissions Next Step
 Your admission requirements
 Admission to UBC is competitive, and your requirements change depending on your degree and campus of choice.

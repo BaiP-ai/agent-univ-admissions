@@ -68,7 +68,7 @@ Descubre Berkeley
 Ayuda Financiera
 Secondary navigation
 MAP@Berkeley
-Sign up for our email list
+Sign Up for Our Email List
 Contact us
 Make sure to create your MAP@Berkeley portal to stay updated on your status.
 - View our requirements and admissions process for first-year or transfer admissions.

@@ -72,7 +72,7 @@ Council
 Imperial Strategy
 Imperial Global
 Sustainable Imperial
-Schools of Convergence Science
+School of Convergence Science
 Governance
 Campuses
 Our academics
