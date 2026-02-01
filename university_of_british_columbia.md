@@ -52,10 +52,12 @@ After you’ve applied
 Submit your documents
 First-year credit
 First-year study options
+How to change the degree you applied to
 Appeals
 After you’ve been admitted
 Accept your offer
 Apply for a study permit
+Study permit concierge
 Plan your finances
 Find a place to live
 Take care of your health and wellness
@@ -126,9 +128,9 @@ Home
 Applying to UBC
 Applying to UBC
 As one of the world’s top 40 universities, UBC has competitive admission requirements and attracts elite students from around the globe.
+- You must complete your offer of admission requirements and send your final grades by the given deadline.
 - Look for an email from UBC that outlines which documents you are required to submit, how you can submit them, and when you’re required to submit them.
-- All prospective students are required to demonstrate a minimum level of English before they’re admitted.
-- Find out how to meet UBC’s English language admission requirement
+- Find out more about submitting your documents
 Admissions Next Step
 Your admission requirements
 Admission to UBC is competitive, and your requirements change depending on your degree and campus of choice.

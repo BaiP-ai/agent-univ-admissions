@@ -108,6 +108,7 @@ SQA National 5 requirements
 International Baccalaureate
 Higher National Qualifications (HNC/HND)
 Foundation Apprenticeships
+National Progression Award for entry to degrees in Civil and Environmental Engineering
 Approved subjects
 English, Welsh and Northern Irish qualifications
 Expand/collapse submenu
@@ -154,6 +155,9 @@ After you apply
 Expand/collapse submenu
 Receiving our decision
 Applicant and offer holder events
+Expand/collapse submenu
+Campus offer holder events - 2026 entry
+Online applicant and offer holder events - 2026 entry
 Accepting your offer
 Expand/collapse submenu
 Accepting your offer: College of Arts, Humanities and Social Sciences
@@ -179,6 +183,7 @@ MBChB Medicine unsuccessful applicants
 Veterinary medicine unsuccessful applicants
 Science and engineering unsuccessful applicants
 What to do if your application was unsuccessful
+Key dates for 2026 applicants
 Fees and funding
 Expand/collapse submenu
 Fee status

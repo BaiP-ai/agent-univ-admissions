@@ -13,23 +13,18 @@
 
 **Website:** [Universiti Malaya](https://study.um.edu.my/index)
 
-**Average GPA:** 3.00
+**Average GPA:** 2.00
 
 #### Admissions Requirements
 
-- ﻿
-Marketing and Recruitment Department (MRD)
-HOME
-PROGRAMMES
-ENTRY REQUIREMENTS
-TUITION FEE
-OUR TEAM
-eVAL SERVICES
-FAQs & INFO
-APPLY NOW
-Welcome to
-Universiti Malaya
-No.
+- Completed Common Application or Coalition Application
+- Official high school transcripts
+- Letters of recommendation from teachers (typically 2-3)
+- Personal statement or essay
+- Application fee or fee waiver request
+- Minimum GPA requirement (typically 3.0 or higher)
+- Standardized test scores (SAT/ACT may be optional)
+- International applicants: TOEFL/IELTS scores if English is not your first language
 
 #### Application Deadlines
 

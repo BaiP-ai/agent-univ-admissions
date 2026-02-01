@@ -125,10 +125,12 @@ After you’ve applied
 Submit your documents
 First-year credit
 First-year study options
+How to change the degree you applied to
 Appeals
 After you’ve been admitted
 Accept your offer
 Apply for a study permit
+Study permit concierge
 Plan your finances
 Find a place to live
 Take care of your health and wellness
@@ -199,9 +201,9 @@ Home
 Applying to UBC
 Applying to UBC
 As one of the world’s top 40 universities, UBC has competitive admission requirements and attracts elite students from around the globe.
+- You must complete your offer of admission requirements and send your final grades by the given deadline.
 - Look for an email from UBC that outlines which documents you are required to submit, how you can submit them, and when you’re required to submit them.
-- All prospective students are required to demonstrate a minimum level of English before they’re admitted.
-- Find out how to meet UBC’s English language admission requirement
+- Find out more about submitting your documents
 Admissions Next Step
 Your admission requirements
 Admission to UBC is competitive, and your requirements change depending on your degree and campus of choice.
@@ -406,23 +408,18 @@ U.S.
 
 **Website:** [Universiti Malaya](https://study.um.edu.my/index)
 
-**Average GPA:** 3.00
+**Average GPA:** 2.00
 
 #### Admissions Requirements
 
-- ﻿
-Marketing and Recruitment Department (MRD)
-HOME
-PROGRAMMES
-ENTRY REQUIREMENTS
-TUITION FEE
-OUR TEAM
-eVAL SERVICES
-FAQs & INFO
-APPLY NOW
-Welcome to
-Universiti Malaya
-No.
+- Completed Common Application or Coalition Application
+- Official high school transcripts
+- Letters of recommendation from teachers (typically 2-3)
+- Personal statement or essay
+- Application fee or fee waiver request
+- Minimum GPA requirement (typically 3.0 or higher)
+- Standardized test scores (SAT/ACT may be optional)
+- International applicants: TOEFL/IELTS scores if English is not your first language
 
 #### Application Deadlines
 
@@ -564,6 +561,7 @@ Engineering and Science Admissions Test (ESAT)
 Test of Mathematics for University Admissions (TMUA)
 University Clinical Aptitude Test (UCAT)
 Graduate Medical School Admissions Test (GAMSAT)
+Understanding your ESAT and TMUA scores
 Interviews
 Our selection process
 Exam results: What next?
@@ -1216,6 +1214,7 @@ SQA National 5 requirements
 International Baccalaureate
 Higher National Qualifications (HNC/HND)
 Foundation Apprenticeships
+National Progression Award for entry to degrees in Civil and Environmental Engineering
 Approved subjects
 English, Welsh and Northern Irish qualifications
 Expand/collapse submenu
@@ -1262,6 +1261,9 @@ After you apply
 Expand/collapse submenu
 Receiving our decision
 Applicant and offer holder events
+Expand/collapse submenu
+Campus offer holder events - 2026 entry
+Online applicant and offer holder events - 2026 entry
 Accepting your offer
 Expand/collapse submenu
 Accepting your offer: College of Arts, Humanities and Social Sciences
@@ -1287,6 +1289,7 @@ MBChB Medicine unsuccessful applicants
 Veterinary medicine unsuccessful applicants
 Science and engineering unsuccessful applicants
 What to do if your application was unsuccessful
+Key dates for 2026 applicants
 Fees and funding
 Expand/collapse submenu
 Fee status
@@ -1424,17 +1427,57 @@ Key information on entry requirements.
 
 #### Admissions Requirements
 
-- Completed Common Application or Coalition Application
-- Official high school transcripts
-- Letters of recommendation from teachers (typically 2-3)
-- Personal statement or essay
-- Application fee or fee waiver request
-- Strong academic record with challenging coursework (AP, IB, etc.)
-- Standardized test scores (SAT/ACT may be optional)
-- Demonstrated excellence in extracurricular activities
-- Evidence of leadership and community involvement
-- SAT Subject Tests (recommended but not required)
-- International applicants: TOEFL/IELTS scores if English is not your first language
+- Undergraduate admissions and outreach | University of Oxford
+Skip to main content
+Home
+Home
+Admissions
+Undergraduate
+Graduate
+Lifelong learning
+Research
+Engage with us
+Support for researchers
+Using research to engage
+Recognition
+News & Events
+Events
+Pulse
+Features
+Oxford profiles
+Filming in Oxford
+Find An Expert
+About
+Organisation
+Vice-Chancellor
+Facts and figures
+Oxford people
+Oxford Access
+International Oxford
+Building Our Future
+Jobs
+Search
+Undergraduate
+Student life
+An exceptional education
+A welcoming and supportive community
+Help with the cost
+Do what you love
+Building your future
+Oxford is for you
+Courses
+A-Z of courses
+Choosing what to study
+Admission requirements
+UK qualifications
+International qualifications
+About your studies
+Your academic year
+Department virtual tours
+Colleges
+A-Z of colleges
+What are Oxford colleges?
+- In 2026, the ESAT, TARA and TMUA tests will be taken by Oxford applicants where required for admission to their chosen course.
 
 #### Application Deadlines
 
@@ -1706,29 +1749,17 @@ Videos do not contain audio.
 
 #### Admissions Requirements
 
-- Apply : Stanford University
-Skip to content
-Undergraduate Admission
-Menu
-Search form
-Search term
-Plan
-Afford
-Engage
-Apply
-Quick Links
-News & Announcements
-Application Requirements
-Tours and Programs
-Cost of Attendance
-Admission Volunteers
-Story 1
-Story 2
-Story 3
-Story 4
-Story 5
-NEXT STEPS
-Everything you need is right here.
+- Completed Common Application or Coalition Application
+- Official high school transcripts
+- Letters of recommendation from teachers (typically 2-3)
+- Personal statement or essay
+- Application fee or fee waiver request
+- Strong academic record with challenging coursework (AP, IB, etc.)
+- Standardized test scores (SAT/ACT may be optional)
+- Demonstrated excellence in extracurricular activities
+- Evidence of leadership and community involvement
+- SAT Subject Tests (recommended but not required)
+- International applicants: TOEFL/IELTS scores if English is not your first language
 
 #### Application Deadlines
 
@@ -1854,61 +1885,9 @@ Make sure to create your MAP@Berkeley portal to stay updated on your status.
 
 #### Application Deadlines
 
-**Regular Decision:** Home | Yale College Undergraduate Admissions
-Skip to main content
-Main Menu
-Yale
-WH
-Y
-Learning at Yale
-A Liberal Arts Education
-Majors & Academic Programs
-Teaching & Advising
-Undergraduate Research
-Science & Engineering Faculty Features
-Living at Yale
-Residential Colleges
-The Campus
-New Haven
-Being & Belonging
-Extracurriculars
-Identity, Culture, Faith
-Multicultural Open House
-Virtual Tour & Blogs
-Virtual Tour
-Bulldogs' Blogs
-APPL
-Y
-Application Process
-First-Year Applicants
-International First-Year Applicants
-QuestBridge First-Year Applicants
-Military Veteran Applicants
-Transfer Applicants
-Eli Whitney: Nontraditional Applicants
-Non-Degree & Alumni Auditing Applicants
-Advice to Candidates
-What Yale Looks For
-Putting Together Your Application
-Selecting High School Courses
-Application FAQs
-First-Generation College Students
-Rural and Small Town Students
-Choosing Where to Apply
-Inside the Yale Admissions Office Podcast
-Visit & Connect
-Visit Campus
-Virtual Events
-Virtual Tour
-Connect With Yale Admissions
-Affordability
-The Basics
-The Details
-Estimate Your Cost
-QuestBridge
-Search form
-Search this site
-The regular decision application deadline is January 2.
+**Early Action:** November 1, 2025. Notification by mid-December.
+
+**Regular Decision:** January 1, 2026. Notification by late March.
 
 ---
 

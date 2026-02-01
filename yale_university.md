@@ -29,61 +29,9 @@
 
 #### Application Deadlines
 
-**Regular Decision:** Home | Yale College Undergraduate Admissions
-Skip to main content
-Main Menu
-Yale
-WH
-Y
-Learning at Yale
-A Liberal Arts Education
-Majors & Academic Programs
-Teaching & Advising
-Undergraduate Research
-Science & Engineering Faculty Features
-Living at Yale
-Residential Colleges
-The Campus
-New Haven
-Being & Belonging
-Extracurriculars
-Identity, Culture, Faith
-Multicultural Open House
-Virtual Tour & Blogs
-Virtual Tour
-Bulldogs' Blogs
-APPL
-Y
-Application Process
-First-Year Applicants
-International First-Year Applicants
-QuestBridge First-Year Applicants
-Military Veteran Applicants
-Transfer Applicants
-Eli Whitney: Nontraditional Applicants
-Non-Degree & Alumni Auditing Applicants
-Advice to Candidates
-What Yale Looks For
-Putting Together Your Application
-Selecting High School Courses
-Application FAQs
-First-Generation College Students
-Rural and Small Town Students
-Choosing Where to Apply
-Inside the Yale Admissions Office Podcast
-Visit & Connect
-Visit Campus
-Virtual Events
-Virtual Tour
-Connect With Yale Admissions
-Affordability
-The Basics
-The Details
-Estimate Your Cost
-QuestBridge
-Search form
-Search this site
-The regular decision application deadline is January 2.
+**Early Action:** November 1, 2025. Notification by mid-December.
+
+**Regular Decision:** January 1, 2026. Notification by late March.
 
 ---
 
