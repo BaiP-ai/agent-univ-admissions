@@ -11,28 +11,28 @@ The reports are generated using the [University Admissions Data Generator](https
 
 ## Available Reports
 
-- [Princeton University](princeton_university.md)
+- [University Of Toronto](university_of_toronto.md)
+- [University Of Chicago](university_of_chicago.md)
 - [London School Of Economics](london_school_of_economics.md)
-- [Columbia University](columbia_university.md)
-- [Yale University](yale_university.md)
-- [University Of Manchester](university_of_manchester.md)
+- [Harvard University](harvard_university.md)
+- [University Of Oxford](university_of_oxford.md)
+- [University Of Melbourne](university_of_melbourne.md)
 - [National University Of Singapore](national_university_of_singapore.md)
 - [University Of Edinburgh](university_of_edinburgh.md)
+- [University Of Manchester](university_of_manchester.md)
+- [Columbia University](columbia_university.md)
 - [Stanford University](stanford_university.md)
-- [Uc Berkeley](uc_berkeley.md)
-- [Australian National University](australian_national_university.md)
-- [Imperial College London](imperial_college_london.md)
-- [University Of Oxford](university_of_oxford.md)
-- [University College London](university_college_london.md)
-- [University Of Toronto](university_of_toronto.md)
-- [University Of Cambridge](university_of_cambridge.md)
-- [University Of Melbourne](university_of_melbourne.md)
-- [Harvard University](harvard_university.md)
-- [Universiti Malaya](universiti_malaya.md)
-- [University Of Chicago](university_of_chicago.md)
+- [Yale University](yale_university.md)
 - [University Of British Columbia](university_of_british_columbia.md)
+- [University College London](university_college_london.md)
+- [University Of Cambridge](university_of_cambridge.md)
+- [Uc Berkeley](uc_berkeley.md)
+- [Imperial College London](imperial_college_london.md)
+- [Universiti Malaya](universiti_malaya.md)
+- [Princeton University](princeton_university.md)
 - [Massachusetts Institute Of Technology](massachusetts_institute_of_technology.md)
-- [University Data 20260201 011847.Markdown](university_data_20260201_011847.markdown)
+- [Australian National University](australian_national_university.md)
+- [University Data 20260301 011523.Markdown](university_data_20260301_011523.markdown)
 
 ## How Reports are Generated
 
@@ -55,6 +55,6 @@ If you'd like to generate a custom report for specific universities, you can:
 
 ---
 
-*Last updated: 2026-02-01 01:18:59*
+*Last updated: 2026-03-01 01:15:36*
 
 *Note: This information is auto-generated and may not be complete or up-to-date. Always verify information with the official university websites.*

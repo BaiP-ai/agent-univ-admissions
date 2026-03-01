@@ -263,6 +263,7 @@ Search our scholarships
 Living costs
 Contact
 Other funding sources
+Imperial Inspires scholarships
 Student life
 Reputation and rankings
 Careers and entrepreneurship
@@ -274,7 +275,7 @@ International Research Opportunities Programme
 Undergraduate Research Opportunities Programme
 Societies, clubs and culture
 Accommodation
-Central London location
+Studying in London
 Our student community
 My Imperial story
 Undergraduate

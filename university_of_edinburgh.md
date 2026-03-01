@@ -69,7 +69,7 @@ Careers and employability
 Student life
 Student life
 Accommodation
-Sport and exercise
+Sport and active wellbeing
 Clubs and societies
 Scotland and Edinburgh the city
 Chat to our students
@@ -209,7 +209,7 @@ Careers and employability
 Student life
 Expand/collapse submenu
 Accommodation
-Sport and exercise
+Sport and active wellbeing
 Clubs and societies
 Scotland and Edinburgh the city
 Chat to our students
