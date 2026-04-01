@@ -29,21 +29,19 @@ South West
 Wales
 West Midlands
 Yorkshire and Humber
-Finance
-Finance overview
+Fees and funding
+Fees and funding overview
 Tuition fees
 Living costs
 Study costs
-Financial support
-Cambridge financial support
-Government financial support
+UK student finance
 Family contribution
-Outreach Scholarships
+Sharia Law and student funding
+Scholarships and bursaries
 Stormzy Scholarship
 Formula 1 Scholarship
 Geography Scholarship
 Clare College Link Areas Scholarships
-Student Funding and Sharia Law
 Music awards
 Applying
 Applying overview
@@ -147,14 +145,14 @@ AI and undergraduate applications
 Student life
 Courses
 Colleges
-Finance
+Fees and funding
 International
 Open Days and Events
 Find out more
 Please accept marketing cookies to show embedded content
 (open cookie preferences)
 View content (opens www.youtube.com in a new tab)
-Applying as a mature student?
+We're excited you’re thinking of studying an undergraduate degree at Cambridge.
 - Find out more about our entry requirements
 .
 - After you apply

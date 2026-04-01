@@ -122,6 +122,7 @@ Complete the application
 Disability-related considerations
 Working with an education agent
 After you’ve applied
+Admissions decisions
 Submit your documents
 First-year credit
 First-year study options
@@ -202,8 +203,7 @@ Applying to UBC
 Applying to UBC
 As one of the world’s top 40 universities, UBC has competitive admission requirements and attracts elite students from around the globe.
 - You must complete your offer of admission requirements and send your final grades by the given deadline.
-- Look for an email from UBC that outlines which documents you are required to submit, how you can submit them, and when you’re required to submit them.
-- Find out more about submitting your documents
+- Find out more about maintaining your offer of admission
 Admissions Next Step
 Your admission requirements
 Admission to UBC is competitive, and your requirements change depending on your degree and campus of choice.
@@ -326,6 +326,8 @@ Search
 International Students
 International High School Students
 High School Requirements by Country
+Search
+Search
 U.S.
 - High School Students
 U.S Patterned High School Students
@@ -738,6 +740,7 @@ Campus Map
 Teachers and advisers' conference
 In-person information appointments
 Imperial on tour
+World Class Study in London (WCSiL) Conference for Teachers and Counsellors
 Postgraduate
 Postgraduate Open Days
 In-person information appointments
@@ -1027,21 +1030,19 @@ South West
 Wales
 West Midlands
 Yorkshire and Humber
-Finance
-Finance overview
+Fees and funding
+Fees and funding overview
 Tuition fees
 Living costs
 Study costs
-Financial support
-Cambridge financial support
-Government financial support
+UK student finance
 Family contribution
-Outreach Scholarships
+Sharia Law and student funding
+Scholarships and bursaries
 Stormzy Scholarship
 Formula 1 Scholarship
 Geography Scholarship
 Clare College Link Areas Scholarships
-Student Funding and Sharia Law
 Music awards
 Applying
 Applying overview
@@ -1145,14 +1146,14 @@ AI and undergraduate applications
 Student life
 Courses
 Colleges
-Finance
+Fees and funding
 International
 Open Days and Events
 Find out more
 Please accept marketing cookies to show embedded content
 (open cookie preferences)
 View content (opens www.youtube.com in a new tab)
-Applying as a mature student?
+We're excited you’re thinking of studying an undergraduate degree at Cambridge.
 - Find out more about our entry requirements
 .
 - After you apply
@@ -1740,57 +1741,91 @@ Visit Princeton.edu
 Search
 Main Navigation (First Col)
 Apply
-+
-+
 Cost & Aid
-+
-+
 Academics
-+
-+
 Community
-+
-+
 Diversity
-+
-+
 Main Navigation (Mid Col)
 Apply
+Overview
 Before you apply
-+
 Helpful Tips
 How to Apply
-+
 International Students
 Standardized Testing
 Application Dates & Deadlines
-+
 Transfer Application Dates & Deadlines
 Application Checklist
-+
 Transfer Application Checklist
 Princeton-specific Questions
-+
 Transfer Essay Questions
 Graded Written Paper
 Optional Arts Supplement
 QuestBridge
 Admission Statistics
 Cost & Aid
+Overview
 Net Price Calculator
 Fees & Payment Options
 Academics
+Overview
 Degrees & Departments
 Minors
 What Does Liberal Arts Mean?
-- Academic Preparation
-Standardized Testing Requirements
-Academic Preparation
-During the admission process, our goal is to find students who will thrive in Princeton’s rigorous academic environment.
-- Academic Preparation
-Standardized Testing Requirements
-Visit Us
-Videos do not contain audio.
+- The Senior Thesis
+Faculty Profiles
+Freshman Seminars & The Precept System
+Intern & Study Abroad
+Advising & Mentoring
+Community
+Overview
+Athletics
+Clubs & Organizations
+Residential Colleges & Housing
+Dining Options
+ROTC
+Fun Facts
+Diversity
+Overview
+STATEMENT OF VALUES
+CAMPUS RESOURCES & CENTERS
+COUNSELOR ACCESS & CBOS
+INSTITUTIONAL PARTNERS
+DE&I BLOG CONTENT
+New & Noteworthy
+Main Navigation (Mobile)
+Apply
+Overview
+Before you apply
+Helpful Tips
+How to Apply
+International Students
+Standardized Testing
+Application Dates & Deadlines
+Transfer Application Dates & Deadlines
+Application Checklist
+Transfer Application Checklist
+Princeton-specific Questions
+Transfer Essay Questions
+Graded Written Paper
+Optional Arts Supplement
+QuestBridge
+Admission Statistics
+Cost & Aid
+Overview
+Net Price Calculator
+Fees & Payment Options
+Academics
+Overview
+Degrees & Departments
+Minors
+What Does Liberal Arts Mean?
+- Application Dates & Deadlines
+Application Checklist
+Standardized Testing
+Application Tips
+QuestBridge Students
+Princeton is committed to providing a top-quality education to students from a wide range of socioeconomic backgrounds.
 
 #### Application Deadlines
 
@@ -1806,17 +1841,29 @@ Videos do not contain audio.
 
 #### Admissions Requirements
 
-- Completed Common Application or Coalition Application
-- Official high school transcripts
-- Letters of recommendation from teachers (typically 2-3)
-- Personal statement or essay
-- Application fee or fee waiver request
-- Strong academic record with challenging coursework (AP, IB, etc.)
-- Standardized test scores (SAT/ACT may be optional)
-- Demonstrated excellence in extracurricular activities
-- Evidence of leadership and community involvement
-- SAT Subject Tests (recommended but not required)
-- International applicants: TOEFL/IELTS scores if English is not your first language
+- Apply : Stanford University
+Skip to content
+Undergraduate Admission
+Menu
+Search form
+Search term
+Plan
+Afford
+Engage
+Apply
+Quick Links
+News & Announcements
+Application Requirements
+Tours and Programs
+Cost of Attendance
+Admission Volunteers
+Story 1
+Story 2
+Story 3
+Story 4
+Story 5
+NEXT STEPS
+Everything you need is right here.
 
 #### Application Deadlines
 
@@ -1830,7 +1877,7 @@ Videos do not contain audio.
 
 **Website:** [UC Berkeley](https://admissions.berkeley.edu)
 
-**Average GPA:** 3.4
+**Average GPA:** 3.4 | **Average ACT:** 00-20
 
 #### Admissions Requirements
 
@@ -1846,7 +1893,6 @@ First-Year Requirements
 Applicant Checklist
 First-Year Policies
 Transfer Students
-Transfer requirements
 Transfer applicant checklist
 Transfer resources
 International Students

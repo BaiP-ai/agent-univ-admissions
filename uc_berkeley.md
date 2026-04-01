@@ -13,7 +13,7 @@
 
 **Website:** [UC Berkeley](https://admissions.berkeley.edu)
 
-**Average GPA:** 3.4
+**Average GPA:** 3.4 | **Average ACT:** 00-20
 
 #### Admissions Requirements
 
@@ -29,7 +29,6 @@ First-Year Requirements
 Applicant Checklist
 First-Year Policies
 Transfer Students
-Transfer requirements
 Transfer applicant checklist
 Transfer resources
 International Students

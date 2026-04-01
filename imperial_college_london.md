@@ -290,6 +290,7 @@ Campus Map
 Teachers and advisers' conference
 In-person information appointments
 Imperial on tour
+World Class Study in London (WCSiL) Conference for Teachers and Counsellors
 Postgraduate
 Postgraduate Open Days
 In-person information appointments

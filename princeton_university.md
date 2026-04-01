@@ -23,57 +23,91 @@ Visit Princeton.edu
 Search
 Main Navigation (First Col)
 Apply
-+
-+
 Cost & Aid
-+
-+
 Academics
-+
-+
 Community
-+
-+
 Diversity
-+
-+
 Main Navigation (Mid Col)
 Apply
+Overview
 Before you apply
-+
 Helpful Tips
 How to Apply
-+
 International Students
 Standardized Testing
 Application Dates & Deadlines
-+
 Transfer Application Dates & Deadlines
 Application Checklist
-+
 Transfer Application Checklist
 Princeton-specific Questions
-+
 Transfer Essay Questions
 Graded Written Paper
 Optional Arts Supplement
 QuestBridge
 Admission Statistics
 Cost & Aid
+Overview
 Net Price Calculator
 Fees & Payment Options
 Academics
+Overview
 Degrees & Departments
 Minors
 What Does Liberal Arts Mean?
-- Academic Preparation
-Standardized Testing Requirements
-Academic Preparation
-During the admission process, our goal is to find students who will thrive in Princeton’s rigorous academic environment.
-- Academic Preparation
-Standardized Testing Requirements
-Visit Us
-Videos do not contain audio.
+- The Senior Thesis
+Faculty Profiles
+Freshman Seminars & The Precept System
+Intern & Study Abroad
+Advising & Mentoring
+Community
+Overview
+Athletics
+Clubs & Organizations
+Residential Colleges & Housing
+Dining Options
+ROTC
+Fun Facts
+Diversity
+Overview
+STATEMENT OF VALUES
+CAMPUS RESOURCES & CENTERS
+COUNSELOR ACCESS & CBOS
+INSTITUTIONAL PARTNERS
+DE&I BLOG CONTENT
+New & Noteworthy
+Main Navigation (Mobile)
+Apply
+Overview
+Before you apply
+Helpful Tips
+How to Apply
+International Students
+Standardized Testing
+Application Dates & Deadlines
+Transfer Application Dates & Deadlines
+Application Checklist
+Transfer Application Checklist
+Princeton-specific Questions
+Transfer Essay Questions
+Graded Written Paper
+Optional Arts Supplement
+QuestBridge
+Admission Statistics
+Cost & Aid
+Overview
+Net Price Calculator
+Fees & Payment Options
+Academics
+Overview
+Degrees & Departments
+Minors
+What Does Liberal Arts Mean?
+- Application Dates & Deadlines
+Application Checklist
+Standardized Testing
+Application Tips
+QuestBridge Students
+Princeton is committed to providing a top-quality education to students from a wide range of socioeconomic backgrounds.
 
 #### Application Deadlines
 

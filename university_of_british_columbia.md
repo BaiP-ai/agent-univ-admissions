@@ -49,6 +49,7 @@ Complete the application
 Disability-related considerations
 Working with an education agent
 After you’ve applied
+Admissions decisions
 Submit your documents
 First-year credit
 First-year study options
@@ -129,8 +130,7 @@ Applying to UBC
 Applying to UBC
 As one of the world’s top 40 universities, UBC has competitive admission requirements and attracts elite students from around the globe.
 - You must complete your offer of admission requirements and send your final grades by the given deadline.
-- Look for an email from UBC that outlines which documents you are required to submit, how you can submit them, and when you’re required to submit them.
-- Find out more about submitting your documents
+- Find out more about maintaining your offer of admission
 Admissions Next Step
 Your admission requirements
 Admission to UBC is competitive, and your requirements change depending on your degree and campus of choice.
