@@ -47,7 +47,7 @@ Visit
 Help centre
 Request info
 International students
-Executive education
+Lifelong Learning
 Summer schools
 Research
 Faculties
@@ -251,7 +251,6 @@ Sponsored students
 Visiting students
 Payment in instalments
 Tuition fee refunds
-Postgraduate early payment discount
 Postgraduate application deposits
 Refunds
 Staff tuition fee discount
@@ -302,6 +301,8 @@ Campus tours
 School groups
 Self-guided tour
 Events
+Imperial Breakthrough Science Challenge
+STEMathon India
 Contact
 Help centre
 Undergraduate admissions

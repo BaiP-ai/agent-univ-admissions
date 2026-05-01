@@ -41,7 +41,6 @@ Scholarships and bursaries
 Stormzy Scholarship
 Formula 1 Scholarship
 Geography Scholarship
-Clare College Link Areas Scholarships
 Music awards
 Applying
 Applying overview

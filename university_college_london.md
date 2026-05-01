@@ -55,7 +55,7 @@ Alumni
 Business partnerships and collaboration
 Global engagement
 News and Media relations
-Public Policy
+Policy and political engagement
 Schools and priority groups
 Give to UCL
 Close sub menu modal

@@ -52,7 +52,8 @@ After you apply
 Fees and funding
 Fees and funding
 Fee status
-Fees and costs
+Tuition fees
+Living costs
 Funding
 How our degrees work
 How our degrees work
@@ -187,7 +188,7 @@ Key dates for 2026 applicants
 Fees and funding
 Expand/collapse submenu
 Fee status
-Fees and costs
+Tuition fees
 Expand/collapse submenu
 Scotland tuition fees and other costs
 England, Wales, Northern Ireland and Republic of Ireland tuition fees and costs

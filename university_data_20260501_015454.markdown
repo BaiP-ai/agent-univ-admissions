@@ -203,8 +203,10 @@ Applying to UBC
 Applying to UBC
 As one of the world’s top 40 universities, UBC has competitive admission requirements and attracts elite students from around the globe.
 - You must complete your offer of admission requirements and send your final grades by the given deadline.
-- Find out more about maintaining your offer of admission
+- Find out what we look for
 Admissions Next Step
+Degrees and programs
+Science One: a first-year study option
 Your admission requirements
 Admission to UBC is competitive, and your requirements change depending on your degree and campus of choice.
 - All applicants must meet UBC’s general admission requirements and English Language Admission Standard.
@@ -497,7 +499,7 @@ Visit
 Help centre
 Request info
 International students
-Executive education
+Lifelong Learning
 Summer schools
 Research
 Faculties
@@ -701,7 +703,6 @@ Sponsored students
 Visiting students
 Payment in instalments
 Tuition fee refunds
-Postgraduate early payment discount
 Postgraduate application deposits
 Refunds
 Staff tuition fee discount
@@ -752,6 +753,8 @@ Campus tours
 School groups
 Self-guided tour
 Events
+Imperial Breakthrough Science Challenge
+STEMathon India
 Contact
 Help centre
 Undergraduate admissions
@@ -917,7 +920,7 @@ Alumni
 Business partnerships and collaboration
 Global engagement
 News and Media relations
-Public Policy
+Policy and political engagement
 Schools and priority groups
 Give to UCL
 Close sub menu modal
@@ -1042,7 +1045,6 @@ Scholarships and bursaries
 Stormzy Scholarship
 Formula 1 Scholarship
 Geography Scholarship
-Clare College Link Areas Scholarships
 Music awards
 Applying
 Applying overview
@@ -1216,7 +1218,8 @@ After you apply
 Fees and funding
 Fees and funding
 Fee status
-Fees and costs
+Tuition fees
+Living costs
 Funding
 How our degrees work
 How our degrees work
@@ -1351,7 +1354,7 @@ Key dates for 2026 applicants
 Fees and funding
 Expand/collapse submenu
 Fee status
-Fees and costs
+Tuition fees
 Expand/collapse submenu
 Scotland tuition fees and other costs
 England, Wales, Northern Ireland and Republic of Ireland tuition fees and costs
@@ -1485,57 +1488,17 @@ Key information on entry requirements.
 
 #### Admissions Requirements
 
-- Undergraduate admissions and outreach | University of Oxford
-Skip to main content
-Home
-Home
-Admissions
-Undergraduate
-Graduate
-Lifelong learning
-Research
-Engage with us
-Support for researchers
-Using research to engage
-Recognition
-News & Events
-Events
-Pulse
-Features
-Oxford profiles
-Filming in Oxford
-Find An Expert
-About
-Organisation
-Vice-Chancellor
-Facts and figures
-Oxford people
-Oxford Access
-International Oxford
-Building Our Future
-Jobs
-Search
-Undergraduate
-Student life
-An exceptional education
-A welcoming and supportive community
-Help with the cost
-Do what you love
-Building your future
-Oxford is for you
-Courses
-A-Z of courses
-Choosing what to study
-Admission requirements
-UK qualifications
-International qualifications
-About your studies
-Your academic year
-Department virtual tours
-Colleges
-A-Z of colleges
-What are Oxford colleges?
-- In 2026, the ESAT, TARA and TMUA tests will be taken by Oxford applicants where required for admission to their chosen course.
+- Completed Common Application or Coalition Application
+- Official high school transcripts
+- Letters of recommendation from teachers (typically 2-3)
+- Personal statement or essay
+- Application fee or fee waiver request
+- Strong academic record with challenging coursework (AP, IB, etc.)
+- Standardized test scores (SAT/ACT may be optional)
+- Demonstrated excellence in extracurricular activities
+- Evidence of leadership and community involvement
+- SAT Subject Tests (recommended but not required)
+- International applicants: TOEFL/IELTS scores if English is not your first language
 
 #### Application Deadlines
 
@@ -1574,6 +1537,8 @@ What are Oxford colleges?
 ### Harvard University {#harvard-university}
 
 **Website:** [Harvard University](https://college.harvard.edu/admissions)
+
+**Average ACT:** 95-92
 
 #### Admissions Requirements
 
@@ -1656,7 +1621,8 @@ Visiting Undergraduate Students
 U.S.
 - Application Requirements
 Here you'll find a detailed explanation of each requirement of the application, including teacher recommendations, test scores, and school reports.
-- Clery (Campus Security) Act
+- Policies and Reporting
+Annual Security and Fire Safety Report Availability
 The University is required by federal law (The Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act, 20 U.S.C.
 - Retention and Graduation Rates
 As required, we have reported our graduation rates of degree-seeking, first-time, full-time undergraduates to the department via the
@@ -1841,29 +1807,17 @@ Princeton is committed to providing a top-quality education to students from a w
 
 #### Admissions Requirements
 
-- Apply : Stanford University
-Skip to content
-Undergraduate Admission
-Menu
-Search form
-Search term
-Plan
-Afford
-Engage
-Apply
-Quick Links
-News & Announcements
-Application Requirements
-Tours and Programs
-Cost of Attendance
-Admission Volunteers
-Story 1
-Story 2
-Story 3
-Story 4
-Story 5
-NEXT STEPS
-Everything you need is right here.
+- Completed Common Application or Coalition Application
+- Official high school transcripts
+- Letters of recommendation from teachers (typically 2-3)
+- Personal statement or essay
+- Application fee or fee waiver request
+- Strong academic record with challenging coursework (AP, IB, etc.)
+- Standardized test scores (SAT/ACT may be optional)
+- Demonstrated excellence in extracurricular activities
+- Evidence of leadership and community involvement
+- SAT Subject Tests (recommended but not required)
+- International applicants: TOEFL/IELTS scores if English is not your first language
 
 #### Application Deadlines
 

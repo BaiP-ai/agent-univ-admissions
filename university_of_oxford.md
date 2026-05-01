@@ -15,57 +15,17 @@
 
 #### Admissions Requirements
 
-- Undergraduate admissions and outreach | University of Oxford
-Skip to main content
-Home
-Home
-Admissions
-Undergraduate
-Graduate
-Lifelong learning
-Research
-Engage with us
-Support for researchers
-Using research to engage
-Recognition
-News & Events
-Events
-Pulse
-Features
-Oxford profiles
-Filming in Oxford
-Find An Expert
-About
-Organisation
-Vice-Chancellor
-Facts and figures
-Oxford people
-Oxford Access
-International Oxford
-Building Our Future
-Jobs
-Search
-Undergraduate
-Student life
-An exceptional education
-A welcoming and supportive community
-Help with the cost
-Do what you love
-Building your future
-Oxford is for you
-Courses
-A-Z of courses
-Choosing what to study
-Admission requirements
-UK qualifications
-International qualifications
-About your studies
-Your academic year
-Department virtual tours
-Colleges
-A-Z of colleges
-What are Oxford colleges?
-- In 2026, the ESAT, TARA and TMUA tests will be taken by Oxford applicants where required for admission to their chosen course.
+- Completed Common Application or Coalition Application
+- Official high school transcripts
+- Letters of recommendation from teachers (typically 2-3)
+- Personal statement or essay
+- Application fee or fee waiver request
+- Strong academic record with challenging coursework (AP, IB, etc.)
+- Standardized test scores (SAT/ACT may be optional)
+- Demonstrated excellence in extracurricular activities
+- Evidence of leadership and community involvement
+- SAT Subject Tests (recommended but not required)
+- International applicants: TOEFL/IELTS scores if English is not your first language
 
 #### Application Deadlines
 

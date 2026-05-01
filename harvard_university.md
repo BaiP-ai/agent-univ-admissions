@@ -13,6 +13,8 @@
 
 **Website:** [Harvard University](https://college.harvard.edu/admissions)
 
+**Average ACT:** 95-92
+
 #### Admissions Requirements
 
 - Admissions | Harvard College
@@ -94,7 +96,8 @@ Visiting Undergraduate Students
 U.S.
 - Application Requirements
 Here you'll find a detailed explanation of each requirement of the application, including teacher recommendations, test scores, and school reports.
-- Clery (Campus Security) Act
+- Policies and Reporting
+Annual Security and Fire Safety Report Availability
 The University is required by federal law (The Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act, 20 U.S.C.
 - Retention and Graduation Rates
 As required, we have reported our graduation rates of degree-seeking, first-time, full-time undergraduates to the department via the
