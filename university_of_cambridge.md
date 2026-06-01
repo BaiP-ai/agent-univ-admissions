@@ -123,6 +123,7 @@ Sutton Trust Summer Schools
 Apply: Cambridge
 Realise
 STEM SMART
+Target Oxbridge
 Parents and supporters
 Parents' Newsletter
 Teachers and advisers
@@ -148,9 +149,7 @@ Fees and funding
 International
 Open Days and Events
 Find out more
-Please accept marketing cookies to show embedded content
-(open cookie preferences)
-View content (opens www.youtube.com in a new tab)
+The Undergraduate Application Process at Cambridge University | #GoingToCambridge
 We're excited you’re thinking of studying an undergraduate degree at Cambridge.
 - Find out more about our entry requirements
 .

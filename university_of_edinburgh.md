@@ -250,6 +250,22 @@ Open days, events and visits
 Expand/collapse submenu
 Events calendar
 Open Days
+Expand/collapse submenu
+Book your place
+Open Day programme
+Expand/collapse submenu
+Student experience and support
+Subjects and admissions
+Medicine visits
+Veterinary Medicine visits
+Travel and accommodation
+Expand/collapse submenu
+Train or bus travel
+Air travel
+Car, private coach or minibus travel
+Travel between campuses
+Accommodation
+Discounts
 Online information sessions
 Join our mailing list
 Contact us

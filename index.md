@@ -11,28 +11,28 @@ The reports are generated using the [University Admissions Data Generator](https
 
 ## Available Reports
 
-- [Stanford University](stanford_university.md)
-- [University Of Edinburgh](university_of_edinburgh.md)
 - [Imperial College London](imperial_college_london.md)
-- [University Of Chicago](university_of_chicago.md)
-- [Universiti Malaya](universiti_malaya.md)
-- [Uc Berkeley](uc_berkeley.md)
-- [Massachusetts Institute Of Technology](massachusetts_institute_of_technology.md)
-- [University Of Cambridge](university_of_cambridge.md)
-- [University Of British Columbia](university_of_british_columbia.md)
-- [University Of Toronto](university_of_toronto.md)
-- [Princeton University](princeton_university.md)
-- [Yale University](yale_university.md)
-- [National University Of Singapore](national_university_of_singapore.md)
-- [Harvard University](harvard_university.md)
-- [University Of Melbourne](university_of_melbourne.md)
-- [Australian National University](australian_national_university.md)
-- [University Of Manchester](university_of_manchester.md)
-- [Columbia University](columbia_university.md)
-- [University College London](university_college_london.md)
 - [London School Of Economics](london_school_of_economics.md)
+- [Stanford University](stanford_university.md)
+- [University College London](university_college_london.md)
+- [Australian National University](australian_national_university.md)
+- [National University Of Singapore](national_university_of_singapore.md)
+- [University Of Edinburgh](university_of_edinburgh.md)
+- [University Of Toronto](university_of_toronto.md)
+- [University Of Chicago](university_of_chicago.md)
+- [University Of Manchester](university_of_manchester.md)
+- [University Of Cambridge](university_of_cambridge.md)
+- [Massachusetts Institute Of Technology](massachusetts_institute_of_technology.md)
+- [Universiti Malaya](universiti_malaya.md)
+- [Harvard University](harvard_university.md)
+- [University Of British Columbia](university_of_british_columbia.md)
 - [University Of Oxford](university_of_oxford.md)
-- [University Data 20260501 015454.Markdown](university_data_20260501_015454.markdown)
+- [Uc Berkeley](uc_berkeley.md)
+- [University Of Melbourne](university_of_melbourne.md)
+- [Yale University](yale_university.md)
+- [Princeton University](princeton_university.md)
+- [Columbia University](columbia_university.md)
+- [University Data 20260601 022029.Markdown](university_data_20260601_022029.markdown)
 
 ## How Reports are Generated
 
@@ -55,6 +55,6 @@ If you'd like to generate a custom report for specific universities, you can:
 
 ---
 
-*Last updated: 2026-05-01 01:55:06*
+*Last updated: 2026-06-01 02:20:43*
 
 *Note: This information is auto-generated and may not be complete or up-to-date. Always verify information with the official university websites.*

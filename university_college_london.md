@@ -75,6 +75,7 @@ Study
 Active parent page:
 Prospective students
 Current students
+Languages and International Education
 Accommodation
 Careers
 Doctoral School

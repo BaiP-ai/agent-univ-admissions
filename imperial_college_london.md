@@ -190,6 +190,8 @@ English language exemption
 Visiting students
 Course changes
 Contact
+Support for displaced students
+School examinations cancelled or disrupted internationally
 Fees and funding
 Undergraduate
 Tuition fees
@@ -284,7 +286,13 @@ Support and wellbeing
 Visit
 Undergraduate
 Open Days
+Book your June Open Day place
 Make the most of your day
+Subject and student life fairs
+Subject sessions
+Talks
+Department drop-in sessions
+Tours and visits
 Campus Map
 Teachers and advisers' conference
 In-person information appointments
@@ -303,6 +311,8 @@ Self-guided tour
 Events
 Imperial Breakthrough Science Challenge
 STEMathon India
+Imperial STEMathon 2026 registration form
+STEMathon terms and conditions
 Contact
 Help centre
 Undergraduate admissions

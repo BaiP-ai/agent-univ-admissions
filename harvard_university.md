@@ -68,8 +68,7 @@ Application Requirements
 Transfer Applicants
 U.S.
 - Can I self-report my test scores?
-- If you do not meet one of the indicators of economic need, you may enter the Harvard-specific fee waiver code on the payment page: JH3S5Q2LX9
-Transfer Applicants
+- Transfer Applicants
 Please see the
 Transfer Application Requirements
 for information about requesting a transfer application fee waiver.
