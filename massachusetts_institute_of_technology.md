@@ -15,17 +15,10 @@
 
 #### Admissions Requirements
 
-- Completed Common Application or Coalition Application
-- Official high school transcripts
-- Letters of recommendation from teachers (typically 2-3)
-- Personal statement or essay
-- Application fee or fee waiver request
-- Strong academic record with challenging coursework (AP, IB, etc.)
-- Standardized test scores (SAT/ACT may be optional)
-- Demonstrated excellence in extracurricular activities
-- Evidence of leadership and community involvement
-- SAT Subject Tests (recommended but not required)
-- International applicants: TOEFL/IELTS scores if English is not your first language
+- Design thinking takes center stage
+Beyond STEM subjects, MIT requires undergraduates to complete
+General Institute Requirements
+in the humanities, arts, and social sciences.
 
 #### Application Deadlines
 

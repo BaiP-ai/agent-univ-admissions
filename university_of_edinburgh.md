@@ -49,6 +49,7 @@ Apply for part-time study
 Fee status and admissions
 Our selection process
 After you apply
+UCAS Clearing
 Fees and funding
 Fees and funding
 Fee status
@@ -185,6 +186,7 @@ Veterinary medicine unsuccessful applicants
 Science and engineering unsuccessful applicants
 What to do if your application was unsuccessful
 Key dates for 2026 applicants
+UCAS Clearing
 Fees and funding
 Expand/collapse submenu
 Fee status
@@ -251,19 +253,11 @@ Expand/collapse submenu
 Events calendar
 Open Days
 Expand/collapse submenu
-Book your place
-Open Day programme
-Expand/collapse submenu
-Student experience and support
-Subjects and admissions
-Medicine visits
-Veterinary Medicine visits
 Travel and accommodation
 Expand/collapse submenu
 Train or bus travel
 Air travel
 Car, private coach or minibus travel
-Travel between campuses
 Accommodation
 Discounts
 Online information sessions
@@ -278,6 +272,7 @@ Apply for part-time study
 Fee status and admissions
 Our selection process
 After you apply
+UCAS Clearing
 Breadcrumb
 Home
 Study

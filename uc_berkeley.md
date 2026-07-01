@@ -23,14 +23,14 @@ UC Berkeley
 Office of Undergraduate Admissions
 Toggle navigation
 Main navigation
-Apply to Berkeley
+Apply to UC Berkeley
 First-Year Applicants
 First-Year Requirements
 Applicant Checklist
 First-Year Policies
 Transfer Students
-Transfer applicant checklist
-Transfer resources
+Transfer Applicant Checklist
+Transfer Resources
 International Students
 Application Resources
 Application FAQs
@@ -51,24 +51,24 @@ Cost
 Apply for Financial Aid
 Types of Financial Aid
 Residency Requirements
-Discover Berkeley
+Discover UC Berkeley
 Culture and Community
 Diversity
 Housing
 Notable Alumni
 Student Activities
 Visit
-Contact us
+Contact Us
 Events
-Berkeley En Español
+UC Berkeley En Español
 Requisitos para primer año
 Requisitos de transferencia
-Descubre Berkeley
+Descubre UC Berkeley
 Ayuda Financiera
 Secondary navigation
 MAP@Berkeley
 Sign Up for Our Email List
-Contact us
+Contact Us
 Make sure to create your MAP@Berkeley portal to stay updated on your status.
 - View our requirements and admissions process for first-year or transfer admissions.
 

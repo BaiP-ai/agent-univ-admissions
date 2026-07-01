@@ -204,13 +204,13 @@ Applying to UBC
 As one of the world’s top 40 universities, UBC has competitive admission requirements and attracts elite students from around the globe.
 - Register for Jump Start Vancouver
 Tips from UBC students
-Tips from students: How to make sure your study permit application goes smoothly
+Student Tips: Choosing where to live in your first year
 Choosing your first-year courses
 After you’ve been admitted to UBC, it’s time to review the requirements for your specific degree and start course planning.
-- You should apply for a study permit as soon as you receive your letter of admission to UBC and Provincial Attestation Letter, if required.
-- You must complete your offer of admission requirements and send your final grades by the given deadline.
-- Admitted students: how to keep your offer
+- Find out what degrees are still open
 Admissions Next Step
+Tips from UBC students
+Tips from students: How to make sure your study permit application goes smoothly
 Your admission requirements
 Admission to UBC is competitive, and your requirements change depending on your degree and campus of choice.
 - All applicants must meet UBC’s general admission requirements and English Language Admission Standard.
@@ -646,7 +646,7 @@ English language exemption
 Visiting students
 Course changes
 Contact
-Support for displaced students
+Support for displaced applicants
 School examinations cancelled or disrupted internationally
 Fees and funding
 Undergraduate
@@ -721,6 +721,8 @@ Living costs
 Contact
 Other funding sources
 Imperial Inspires scholarships
+Imperial Inspires FAQs
+Terms and Conditions - 2027 Entry
 Student life
 Reputation and rankings
 Careers and entrepreneurship
@@ -742,18 +744,16 @@ Support and wellbeing
 Visit
 Undergraduate
 Open Days
-Book your June Open Day place
+June Open Days
+Virtual Open Day events
 Make the most of your day
-Subject and student life fairs
-Subject sessions
-Talks
-Department drop-in sessions
-Tours and visits
 Campus Map
+Open Days Postponed – Extreme heat
 Teachers and advisers' conference
 In-person information appointments
 Imperial on tour
 World Class Study in London (WCSiL) Conference for Teachers and Counsellors
+Conference Schedule
 Postgraduate
 Postgraduate Open Days
 In-person information appointments
@@ -1120,6 +1120,14 @@ Open Days and Events
 Open Days and Events overview
 Upcoming events
 Cambridge Open Days
+Open Days Programme
+General support and facilities tours
+College sessions
+Arts, Humanities and Social Sciences subjects
+STEM subjects
+Transport
+Information for the day
+Open Days FAQ
 Virtual Tour
 Subject Masterclasses
 Applicant Webinar Series
@@ -1229,6 +1237,7 @@ Apply for part-time study
 Fee status and admissions
 Our selection process
 After you apply
+UCAS Clearing
 Fees and funding
 Fees and funding
 Fee status
@@ -1365,6 +1374,7 @@ Veterinary medicine unsuccessful applicants
 Science and engineering unsuccessful applicants
 What to do if your application was unsuccessful
 Key dates for 2026 applicants
+UCAS Clearing
 Fees and funding
 Expand/collapse submenu
 Fee status
@@ -1431,19 +1441,11 @@ Expand/collapse submenu
 Events calendar
 Open Days
 Expand/collapse submenu
-Book your place
-Open Day programme
-Expand/collapse submenu
-Student experience and support
-Subjects and admissions
-Medicine visits
-Veterinary Medicine visits
 Travel and accommodation
 Expand/collapse submenu
 Train or bus travel
 Air travel
 Car, private coach or minibus travel
-Travel between campuses
 Accommodation
 Discounts
 Online information sessions
@@ -1458,6 +1460,7 @@ Apply for part-time study
 Fee status and admissions
 Our selection process
 After you apply
+UCAS Clearing
 Breadcrumb
 Home
 Study
@@ -1702,17 +1705,10 @@ U.S.
 
 #### Admissions Requirements
 
-- Completed Common Application or Coalition Application
-- Official high school transcripts
-- Letters of recommendation from teachers (typically 2-3)
-- Personal statement or essay
-- Application fee or fee waiver request
-- Strong academic record with challenging coursework (AP, IB, etc.)
-- Standardized test scores (SAT/ACT may be optional)
-- Demonstrated excellence in extracurricular activities
-- Evidence of leadership and community involvement
-- SAT Subject Tests (recommended but not required)
-- International applicants: TOEFL/IELTS scores if English is not your first language
+- Design thinking takes center stage
+Beyond STEM subjects, MIT requires undergraduates to complete
+General Institute Requirements
+in the humanities, arts, and social sciences.
 
 #### Application Deadlines
 
@@ -1758,6 +1754,11 @@ Graded Written Paper
 Optional Arts Supplement
 QuestBridge
 Admission Statistics
+For International Students
+For Home-schooled Students
+For Undocumented or DACA Students
+For Counselors
+Meet the Admission Team
 Cost & Aid
 Overview
 Net Price Calculator
@@ -1769,7 +1770,7 @@ Minors
 What Does Liberal Arts Mean?
 - The Senior Thesis
 Faculty Profiles
-Freshman Seminars & The Precept System
+First-Year Seminars & The Precept System
 Intern & Study Abroad
 Advising & Mentoring
 Community
@@ -1779,14 +1780,15 @@ Clubs & Organizations
 Residential Colleges & Housing
 Dining Options
 ROTC
+Campus Resources
 Fun Facts
 Diversity
 Overview
-STATEMENT OF VALUES
-CAMPUS RESOURCES & CENTERS
-COUNSELOR ACCESS & CBOS
-INSTITUTIONAL PARTNERS
-DE&I BLOG CONTENT
+Statement of Values
+Campus Resources & Centers
+Counselor Access & CBOs
+Institutional Partners
+DE&I Blog Content
 New & Noteworthy
 Main Navigation (Mobile)
 Apply
@@ -1806,6 +1808,11 @@ Graded Written Paper
 Optional Arts Supplement
 QuestBridge
 Admission Statistics
+For International Students
+For Home-schooled Students
+For Undocumented or DACA Students
+For Counselors
+Meet the Admission Team
 Cost & Aid
 Overview
 Net Price Calculator
@@ -1836,29 +1843,17 @@ Princeton is committed to providing a top-quality education to students from a w
 
 #### Admissions Requirements
 
-- Apply : Stanford University
-Skip to content
-Undergraduate Admission
-Menu
-Search form
-Search term
-Plan
-Afford
-Engage
-Apply
-Quick Links
-News & Announcements
-Application Requirements
-Tours and Programs
-Cost of Attendance
-Admission Volunteers
-Story 1
-Story 2
-Story 3
-Story 4
-Story 5
-NEXT STEPS
-Everything you need is right here.
+- Completed Common Application or Coalition Application
+- Official high school transcripts
+- Letters of recommendation from teachers (typically 2-3)
+- Personal statement or essay
+- Application fee or fee waiver request
+- Strong academic record with challenging coursework (AP, IB, etc.)
+- Standardized test scores (SAT/ACT may be optional)
+- Demonstrated excellence in extracurricular activities
+- Evidence of leadership and community involvement
+- SAT Subject Tests (recommended but not required)
+- International applicants: TOEFL/IELTS scores if English is not your first language
 
 #### Application Deadlines
 
@@ -1882,14 +1877,14 @@ UC Berkeley
 Office of Undergraduate Admissions
 Toggle navigation
 Main navigation
-Apply to Berkeley
+Apply to UC Berkeley
 First-Year Applicants
 First-Year Requirements
 Applicant Checklist
 First-Year Policies
 Transfer Students
-Transfer applicant checklist
-Transfer resources
+Transfer Applicant Checklist
+Transfer Resources
 International Students
 Application Resources
 Application FAQs
@@ -1910,24 +1905,24 @@ Cost
 Apply for Financial Aid
 Types of Financial Aid
 Residency Requirements
-Discover Berkeley
+Discover UC Berkeley
 Culture and Community
 Diversity
 Housing
 Notable Alumni
 Student Activities
 Visit
-Contact us
+Contact Us
 Events
-Berkeley En Español
+UC Berkeley En Español
 Requisitos para primer año
 Requisitos de transferencia
-Descubre Berkeley
+Descubre UC Berkeley
 Ayuda Financiera
 Secondary navigation
 MAP@Berkeley
 Sign Up for Our Email List
-Contact us
+Contact Us
 Make sure to create your MAP@Berkeley portal to stay updated on your status.
 - View our requirements and admissions process for first-year or transfer admissions.
 

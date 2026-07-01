@@ -45,6 +45,11 @@ Graded Written Paper
 Optional Arts Supplement
 QuestBridge
 Admission Statistics
+For International Students
+For Home-schooled Students
+For Undocumented or DACA Students
+For Counselors
+Meet the Admission Team
 Cost & Aid
 Overview
 Net Price Calculator
@@ -56,7 +61,7 @@ Minors
 What Does Liberal Arts Mean?
 - The Senior Thesis
 Faculty Profiles
-Freshman Seminars & The Precept System
+First-Year Seminars & The Precept System
 Intern & Study Abroad
 Advising & Mentoring
 Community
@@ -66,14 +71,15 @@ Clubs & Organizations
 Residential Colleges & Housing
 Dining Options
 ROTC
+Campus Resources
 Fun Facts
 Diversity
 Overview
-STATEMENT OF VALUES
-CAMPUS RESOURCES & CENTERS
-COUNSELOR ACCESS & CBOS
-INSTITUTIONAL PARTNERS
-DE&I BLOG CONTENT
+Statement of Values
+Campus Resources & Centers
+Counselor Access & CBOs
+Institutional Partners
+DE&I Blog Content
 New & Noteworthy
 Main Navigation (Mobile)
 Apply
@@ -93,6 +99,11 @@ Graded Written Paper
 Optional Arts Supplement
 QuestBridge
 Admission Statistics
+For International Students
+For Home-schooled Students
+For Undocumented or DACA Students
+For Counselors
+Meet the Admission Team
 Cost & Aid
 Overview
 Net Price Calculator

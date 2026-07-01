@@ -190,7 +190,7 @@ English language exemption
 Visiting students
 Course changes
 Contact
-Support for displaced students
+Support for displaced applicants
 School examinations cancelled or disrupted internationally
 Fees and funding
 Undergraduate
@@ -265,6 +265,8 @@ Living costs
 Contact
 Other funding sources
 Imperial Inspires scholarships
+Imperial Inspires FAQs
+Terms and Conditions - 2027 Entry
 Student life
 Reputation and rankings
 Careers and entrepreneurship
@@ -286,18 +288,16 @@ Support and wellbeing
 Visit
 Undergraduate
 Open Days
-Book your June Open Day place
+June Open Days
+Virtual Open Day events
 Make the most of your day
-Subject and student life fairs
-Subject sessions
-Talks
-Department drop-in sessions
-Tours and visits
 Campus Map
+Open Days Postponed – Extreme heat
 Teachers and advisers' conference
 In-person information appointments
 Imperial on tour
 World Class Study in London (WCSiL) Conference for Teachers and Counsellors
+Conference Schedule
 Postgraduate
 Postgraduate Open Days
 In-person information appointments
