@@ -40,6 +40,7 @@ Sharia Law and student funding
 Scholarships and bursaries
 Stormzy Scholarship
 Formula 1 Scholarship
+Gordon Edge Scholarship
 Geography Scholarship
 Music awards
 Applying
@@ -101,13 +102,6 @@ Open Days and Events
 Open Days and Events overview
 Upcoming events
 Cambridge Open Days
-Open Days Programme
-General support and facilities tours
-College sessions
-Arts, Humanities and Social Sciences subjects
-STEM subjects
-Transport
-Information for the day
 Open Days FAQ
 Virtual Tour
 Subject Masterclasses
@@ -124,7 +118,6 @@ Find out more overview
 Sign up to our Newsletter
 Widening participation
 Access and Participation Plans
-neaco
 Insight
 HE+
 Sutton Trust Summer Schools

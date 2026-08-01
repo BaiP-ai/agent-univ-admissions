@@ -129,15 +129,8 @@ Home
 Applying to UBC
 Applying to UBC
 As one of the world’s top 40 universities, UBC has competitive admission requirements and attracts elite students from around the globe.
-- Register for Jump Start Vancouver
-Tips from UBC students
-Student Tips: Choosing where to live in your first year
-Choosing your first-year courses
-After you’ve been admitted to UBC, it’s time to review the requirements for your specific degree and start course planning.
 - Find out what degrees are still open
 Admissions Next Step
-Tips from UBC students
-Tips from students: How to make sure your study permit application goes smoothly
 Your admission requirements
 Admission to UBC is competitive, and your requirements change depending on your degree and campus of choice.
 - All applicants must meet UBC’s general admission requirements and English Language Admission Standard.

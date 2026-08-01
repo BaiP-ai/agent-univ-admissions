@@ -23,6 +23,7 @@ Collaborate
 Business engagement and knowledge exchange
 Innovation Factory
 Policy
+Innovation Festival
 Make a donation
 Inspiring local communities
 Global influence

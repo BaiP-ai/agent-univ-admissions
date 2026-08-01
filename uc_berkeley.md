@@ -34,7 +34,6 @@ Transfer Resources
 International Students
 Application Resources
 Application FAQs
-Selection Process
 Personal Insight Questions
 Application Tips
 Veterans
@@ -71,6 +70,20 @@ Sign Up for Our Email List
 Contact Us
 Make sure to create your MAP@Berkeley portal to stay updated on your status.
 - View our requirements and admissions process for first-year or transfer admissions.
+- Changes to UC Testing Requirement
+UC Policy on Augmented Review
+Office of Undergraduate Admissions
+University of California, Berkeley
+110 Sproul Hall #5800,
+Berkeley, CA 94720-5800
+Events
+MAP@Berkeley
+Volunteer
+Contact Us
+Privacy Policy
+Accessibility
+Nondiscrimination
+Copyright ©  2026 UC Regents; all rights reserved
 
 #### Application Deadlines
 

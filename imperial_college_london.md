@@ -288,8 +288,8 @@ Support and wellbeing
 Visit
 Undergraduate
 Open Days
-June Open Days
 Virtual Open Day events
+September Open Days
 Make the most of your day
 Campus Map
 Open Days Postponed – Extreme heat
@@ -313,6 +313,16 @@ Imperial Breakthrough Science Challenge
 STEMathon India
 Imperial STEMathon 2026 registration form
 STEMathon terms and conditions
+STEMathon FAQs
+Imperial Hackathon
+The Hackathon Hong Kong challenge
+How to apply
+Forming your team
+Key dates and deadlines
+Prizes and awards
+Judging criteria and panel
+FAQs
+Imperial Hackathon 2025 winners
 Contact
 Help centre
 Undergraduate admissions

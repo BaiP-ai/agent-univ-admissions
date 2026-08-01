@@ -50,6 +50,7 @@ Fee status and admissions
 Our selection process
 After you apply
 UCAS Clearing
+Getting your results
 Fees and funding
 Fees and funding
 Fee status
@@ -187,6 +188,19 @@ Science and engineering unsuccessful applicants
 What to do if your application was unsuccessful
 Key dates for 2026 applicants
 UCAS Clearing
+Expand/collapse submenu
+Clearing for International and European Union applicants
+Expand/collapse submenu
+International fee status vacancies
+Clearing for applicants from England, Wales, Northern Ireland and Republic of Ireland
+Expand/collapse submenu
+Rest of UK and Republic of Ireland vacancies
+Clearing for applicants from Scotland
+Expand/collapse submenu
+Scottish fee status vacancies
+Getting your results
+Expand/collapse submenu
+IB results
 Fees and funding
 Expand/collapse submenu
 Fee status
@@ -273,6 +287,7 @@ Fee status and admissions
 Our selection process
 After you apply
 UCAS Clearing
+Getting your results
 Breadcrumb
 Home
 Study
