@@ -188,19 +188,11 @@ Science and engineering unsuccessful applicants
 What to do if your application was unsuccessful
 Key dates for 2026 applicants
 UCAS Clearing
-Expand/collapse submenu
-Clearing for International and European Union applicants
-Expand/collapse submenu
-International fee status vacancies
-Clearing for applicants from England, Wales, Northern Ireland and Republic of Ireland
-Expand/collapse submenu
-Rest of UK and Republic of Ireland vacancies
-Clearing for applicants from Scotland
-Expand/collapse submenu
-Scottish fee status vacancies
 Getting your results
 Expand/collapse submenu
 IB results
+Scottish results
+A level results
 Fees and funding
 Expand/collapse submenu
 Fee status
@@ -267,11 +259,19 @@ Expand/collapse submenu
 Events calendar
 Open Days
 Expand/collapse submenu
+Book your place
+Open Day programme
+Expand/collapse submenu
+Student experience and support
+Subjects and admissions
+September Medicine visits
+September Veterinary Medicine visits
 Travel and accommodation
 Expand/collapse submenu
 Train or bus travel
 Air travel
 Car, private coach or minibus travel
+Travel between campuses
 Accommodation
 Discounts
 Online information sessions

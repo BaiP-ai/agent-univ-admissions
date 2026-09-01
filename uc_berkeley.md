@@ -13,7 +13,7 @@
 
 **Website:** [UC Berkeley](https://admissions.berkeley.edu)
 
-**Average GPA:** 3.4 | **Average ACT:** 00-20
+**Average GPA:** 3.4
 
 #### Admissions Requirements
 
@@ -32,6 +32,7 @@ Transfer Students
 Transfer Applicant Checklist
 Transfer Resources
 International Students
+Requirements for International Students
 Application Resources
 Application FAQs
 Personal Insight Questions
@@ -54,8 +55,6 @@ Discover UC Berkeley
 Culture and Community
 Diversity
 Housing
-Notable Alumni
-Student Activities
 Visit
 Contact Us
 Events
@@ -69,7 +68,6 @@ MAP@Berkeley
 Sign Up for Our Email List
 Contact Us
 Make sure to create your MAP@Berkeley portal to stay updated on your status.
-- View our requirements and admissions process for first-year or transfer admissions.
 - Changes to UC Testing Requirement
 UC Policy on Augmented Review
 Office of Undergraduate Admissions

@@ -18,6 +18,7 @@
 - Undergraduate | Study | Imperial College London
 Skip to main content
 View accessibility support page
+Skip to filters
 Search
 Search
 Menu
@@ -40,6 +41,7 @@ Skip to section navigation
 Global site navigation
 Study
 Course search
+Subjects
 Apply
 Fees and funding
 Student life
@@ -70,6 +72,7 @@ President
 Provost and Deputy President
 Council
 Imperial Strategy
+League tables and rankings
 Imperial Global
 Sustainable Imperial
 School of Convergence Science
@@ -144,7 +147,7 @@ Entry requirements
 Accepted qualifications
 Choose a course
 Personal statement
-Deadlines
+Dates and deadlines
 Application fee
 Application fee waiver
 Application reference
@@ -288,9 +291,13 @@ Support and wellbeing
 Visit
 Undergraduate
 Open Days
-Virtual Open Day events
-September Open Days
+Book your September Open Days place
 Make the most of your day
+Subject and student life fairs
+Subject Sessions
+Talks
+Department drop-in sessions
+Tours and visits
 Campus Map
 Open Days Postponed – Extreme heat
 Teachers and advisers' conference

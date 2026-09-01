@@ -18,16 +18,26 @@
 - Applying to UBC
 Search this website
 Search
+Academic Calendar
+Campus Services
+Faculties & Schools
+Library
+Maps
+Quicklinks
+Workday
+UBC Directory
 The University of British Columbia
 UBC - A Place of Mind
 The University of British Columbia
 UBC Search
 UBC Search
 Undergraduate Programs and Admissions
-Apply to UBC
+Apply now
 Programs
 Applying to UBC
+Open submenu
 Admission requirements
+Open submenu
 Canadian high schools
 International high schools
 International Baccalaureate students
@@ -35,11 +45,14 @@ Advanced Placement students
 University or college transfer students
 Mature students
 English language competency
+Open submenu
 Academic English development programs for admission
 UBC Conditional Admission Program
 Indigenous admissions
+Open submenu
 UBC-Langara Indigenous Transfer Partnership
 How to apply
+Open submenu
 Plan for UBC
 Choosing a university
 Choose what to study
@@ -49,6 +62,7 @@ Complete the application
 Disability-related considerations
 Working with an education agent
 After you’ve applied
+Open submenu
 Admissions decisions
 Submit your documents
 First-year credit
@@ -56,8 +70,10 @@ First-year study options
 How to change the degree you applied to
 Appeals
 After you’ve been admitted
+Open submenu
 Accept your offer
 Apply for a study permit
+Open submenu
 Study permit concierge
 Plan your finances
 Find a place to live
@@ -69,9 +85,11 @@ Get ready for UBC life
 What we look for
 Dates and deadlines
 Financial planning
+Open submenu
 How UBC determines your tuition fees
 What will your first year cost?
 - Scholarships and awards for Canadian students
+Open submenu
 Beyond Tomorrow Scholars Program
 Indigenous student awards
 Loran Awards
@@ -79,8 +97,10 @@ Presidential Scholars Awards
 Schulich Leader Scholarships
 UBC Centennial Scholars Entrance Awards
 Scholarships and awards for international students
+Open submenu
 International Scholars
 Loans, bursaries, and funding support
+Open submenu
 Loans for Canadian and US students
 Bursaries
 Awards for students with disabilities
@@ -88,20 +108,26 @@ Funding for former youth in care
 Funding for veterans
 Financial schedule
 UBC Life
+Open submenu
 Vancouver
+Open submenu
 Living in residence
 Living off campus
 Okanagan
+Open submenu
 Living in residence
 Living off campus
 Academics and learning
+Open submenu
 Interdisciplinary studies and innovative programs
 Sports and recreation
 Getting involved
+Open submenu
 Work programs
 Leadership and volunteering
 Clubs and societies
 Campus community
+Open submenu
 Orientations
 Students with disabilities
 Arts and culture
@@ -109,6 +135,7 @@ Former youth in care
 UBC life blog
 Contact us
 Tours and events
+Open submenu
 Campus tours
 Fairs
 Information sessions
@@ -117,6 +144,7 @@ School visits
 Student meetings
 Self-guided virtual tours
 Your account
+Open submenu
 Log in
 Create an account
 Get your Guide
@@ -129,8 +157,20 @@ Home
 Applying to UBC
 Applying to UBC
 As one of the world’s top 40 universities, UBC has competitive admission requirements and attracts elite students from around the globe.
-- Find out what degrees are still open
+- Health Insurance at UBC
+As a UBC student, you must have both basic and extended health insurance.
+- Learn about health insurance at UBC
 Admissions Next Step
+Events and tours
+10 things you never knew about UBC
+Events and tours
+UBC Collegia on the Vancouver campus: A home away from home for commuters
+Events and tours
+Imagine UBC orientation on the Vancouver campus
+Events and tours
+Your UBC Okanagan orientations
+Events and tours
+Your UBC Vancouver orientations
 Your admission requirements
 Admission to UBC is competitive, and your requirements change depending on your degree and campus of choice.
 - All applicants must meet UBC’s general admission requirements and English Language Admission Standard.

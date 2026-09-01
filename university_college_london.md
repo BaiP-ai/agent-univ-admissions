@@ -39,13 +39,15 @@ Immigration and visas
 Student finances
 Support and wellbeing
 Close sub menu modal
-Research
-Research
-Research
-Research at UCL
-Engage with us
-Explore our Research
-Initiatives and networks
+Research and innovation
+Research and innovation
+Research and innovation
+Research and innovation
+Strategy and impact
+Our people
+Research environment
+Funding and support
+Collaborate and innovate
 Research news
 Close sub menu modal
 Engage
@@ -55,7 +57,7 @@ Engage with UCL
 Alumni
 Business partnerships and collaboration
 Global engagement
-News and Media relations
+News and media relations
 Policy and political engagement
 Schools and priority groups
 Give to UCL

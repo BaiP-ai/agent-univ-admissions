@@ -15,10 +15,20 @@
 
 #### Admissions Requirements
 
-- Design thinking takes center stage
-Beyond STEM subjects, MIT requires undergraduates to complete
-General Institute Requirements
-in the humanities, arts, and social sciences.
+- Before you start, please review the
+first-year
+and
+transfer
+eligibility requirements to choose the correct application.
+- After driving 20 minutes to the best brunch place around with my mom, sister, and girlfriend, none of us were surprised to learn we would have to wait at minimum another 20…
+Read More
+Tagged:
+#adults
+#lost weekend
+Airport Problems, Three Years Later
+we all have different coping mechanisms for coming back to school
+by
+Janet G.
 
 #### Application Deadlines
 

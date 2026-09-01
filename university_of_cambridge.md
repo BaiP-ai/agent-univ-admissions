@@ -53,6 +53,7 @@ Entry requirements
 Qualifications we accept
 Sixth Term Exam (STEP)
 International entry requirements
+Transferring from another university
 Application statistics
 Mature student applications
 Second undergraduate degrees
@@ -102,6 +103,11 @@ Open Days and Events
 Open Days and Events overview
 Upcoming events
 Cambridge Open Days
+Open Days Programme
+General support and facilities tours
+College sessions
+Transport
+Information for the day
 Open Days FAQ
 Virtual Tour
 Subject Masterclasses
