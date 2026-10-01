@@ -235,7 +235,6 @@ Tuition fees
 Grants and scholarships
 Search our scholarships
 President's PhD scholarships
-Research Council Studentships (PhD)
 International scholarship collaborations
 GREAT - Imperial College London Scholarship
 Women in STEM Scholarships
@@ -291,7 +290,7 @@ Support and wellbeing
 Visit
 Undergraduate
 Open Days
-Book your September Open Days place
+September Open Days
 Make the most of your day
 Subject and student life fairs
 Subject Sessions
@@ -299,7 +298,6 @@ Talks
 Department drop-in sessions
 Tours and visits
 Campus Map
-Open Days Postponed – Extreme heat
 Teachers and advisers' conference
 In-person information appointments
 Imperial on tour
@@ -316,20 +314,23 @@ Campus tours
 School groups
 Self-guided tour
 Events
-Imperial Breakthrough Science Challenge
+Imperial Global Hackathons
+Hackathon Hong Kong and Macau
+High school students
+Prizes and awards
+University students and young professionals
+Prizes and awards
+Judges and mentors
+Forming your team
+Register your interest
+Team submission form
+FAQs
+Imperial Hackathon 2025 winners
 STEMathon India
 Imperial STEMathon 2026 registration form
 STEMathon terms and conditions
 STEMathon FAQs
-Imperial Hackathon
-The Hackathon Hong Kong challenge
-How to apply
-Forming your team
-Key dates and deadlines
-Prizes and awards
-Judging criteria and panel
-FAQs
-Imperial Hackathon 2025 winners
+About Imperial Global Hackathons
 Contact
 Help centre
 Undergraduate admissions

@@ -74,6 +74,7 @@ Office of Undergraduate Admissions
 University of California, Berkeley
 110 Sproul Hall #5800,
 Berkeley, CA 94720-5800
+(510) 642-3175
 Events
 MAP@Berkeley
 Volunteer

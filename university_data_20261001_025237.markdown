@@ -176,6 +176,7 @@ Loans, bursaries, and funding support
 Open submenu
 Loans for Canadian and US students
 Bursaries
+Sponsorships
 Awards for students with disabilities
 Funding for former youth in care
 Funding for veterans
@@ -230,20 +231,23 @@ Home
 Applying to UBC
 Applying to UBC
 As one of the world’s top 40 universities, UBC has competitive admission requirements and attracts elite students from around the globe.
-- Health Insurance at UBC
-As a UBC student, you must have both basic and extended health insurance.
-- Learn about health insurance at UBC
+- Watch our application tips
 Admissions Next Step
-Events and tours
-10 things you never knew about UBC
-Events and tours
-UBC Collegia on the Vancouver campus: A home away from home for commuters
-Events and tours
-Imagine UBC orientation on the Vancouver campus
-Events and tours
-Your UBC Okanagan orientations
-Events and tours
-Your UBC Vancouver orientations
+Degrees and programs
+Degree Spotlight: Urban Forestry
+Degrees and programs
+Degree spotlight: Food, Nutrition, and Health
+What are the requirements for admission to UBC?
+- Requirements for admission vary depending on where you attended high school, which UBC campus you hope to attend, and which degree you’re applying to.
+- Find your admission requirements
+Admissions Next Step
+Connect with a UBC advisor
+UBC advisors are ready to help you on your journey to UBC.
+- Our advisors can answer all of your questions about the university, including admission requirements, the application process, and what life is like as a UBC student.
+- Find an event happening near you
+Admissions Next Step
+Degrees and programs
+Degree spotlight: Applied Biology
 Your admission requirements
 Admission to UBC is competitive, and your requirements change depending on your degree and campus of choice.
 - All applicants must meet UBC’s general admission requirements and English Language Admission Standard.
@@ -278,8 +282,10 @@ Online
 Sessions
 Upcoming
 Events
-Connect with us
-Sign-up to receive more information about U of T
+Connect With
+Us
+Fall Campus Days
+Experience U of T during our Fall Campus Day open houses
 Apply
 Requirements
 Canadian Students
@@ -333,6 +339,7 @@ For School
 Counsellors
 Equity &
 Outreach
+Viewbooks
 Contact
 Us
 Get to know U of T
@@ -352,6 +359,7 @@ Search
 Search
 Online Sessions
 Upcoming Events
+Connect With Us
 Search
 Search
 Apply
@@ -724,7 +732,6 @@ Tuition fees
 Grants and scholarships
 Search our scholarships
 President's PhD scholarships
-Research Council Studentships (PhD)
 International scholarship collaborations
 GREAT - Imperial College London Scholarship
 Women in STEM Scholarships
@@ -780,7 +787,7 @@ Support and wellbeing
 Visit
 Undergraduate
 Open Days
-Book your September Open Days place
+September Open Days
 Make the most of your day
 Subject and student life fairs
 Subject Sessions
@@ -788,7 +795,6 @@ Talks
 Department drop-in sessions
 Tours and visits
 Campus Map
-Open Days Postponed – Extreme heat
 Teachers and advisers' conference
 In-person information appointments
 Imperial on tour
@@ -805,20 +811,23 @@ Campus tours
 School groups
 Self-guided tour
 Events
-Imperial Breakthrough Science Challenge
+Imperial Global Hackathons
+Hackathon Hong Kong and Macau
+High school students
+Prizes and awards
+University students and young professionals
+Prizes and awards
+Judges and mentors
+Forming your team
+Register your interest
+Team submission form
+FAQs
+Imperial Hackathon 2025 winners
 STEMathon India
 Imperial STEMathon 2026 registration form
 STEMathon terms and conditions
 STEMathon FAQs
-Imperial Hackathon
-The Hackathon Hong Kong challenge
-How to apply
-Forming your team
-Key dates and deadlines
-Prizes and awards
-Judging criteria and panel
-FAQs
-Imperial Hackathon 2025 winners
+About Imperial Global Hackathons
 Contact
 Help centre
 Undergraduate admissions
@@ -984,11 +993,13 @@ Engage
 Engage
 Engage with UCL
 Alumni
-Business partnerships and collaboration
-Global engagement
-News and media relations
+Industry and business
 Policy and political engagement
-Schools and priority groups
+Global engagement
+Health at UCL
+Access and widening participation
+Public art and community engagement
+Employers and recruiters
 Give to UCL
 Close sub menu modal
 About
@@ -1175,12 +1186,6 @@ Open Days and Events
 Open Days and Events overview
 Upcoming events
 Cambridge Open Days
-Open Days Programme
-General support and facilities tours
-College sessions
-Transport
-Information for the day
-Open Days FAQ
 Virtual Tour
 Subject Masterclasses
 Applicant Webinar Series
@@ -1400,7 +1405,6 @@ Receiving our decision
 Applicant and offer holder events
 Expand/collapse submenu
 Campus offer holder events - 2026 entry
-Online applicant and offer holder events - 2026 entry
 Accepting your offer
 Expand/collapse submenu
 Accepting your offer: College of Arts, Humanities and Social Sciences
@@ -1504,8 +1508,6 @@ Open Day programme
 Expand/collapse submenu
 Student experience and support
 Subjects and admissions
-September Medicine visits
-September Veterinary Medicine visits
 Travel and accommodation
 Expand/collapse submenu
 Train or bus travel
@@ -1651,6 +1653,7 @@ About Overview
 Mission, Vision, & History
 Mission, Vision, & History Submenu
 History of Financial Aid
+Alumni Resources
 Dean Deming
 Dean Deming Submenu
 Messages to Students
@@ -1662,8 +1665,6 @@ Campus Spotlights
 Harvard Terms & Acronyms
 Información en Español
 College Offices
-College Offices Submenu
-Alumni Resources
 College News
 Admissions
 Admissions Overview
@@ -1778,15 +1779,6 @@ first-year
 and
 transfer
 eligibility requirements to choose the correct application.
-- After driving 20 minutes to the best brunch place around with my mom, sister, and girlfriend, none of us were surprised to learn we would have to wait at minimum another 20…
-Read More
-Tagged:
-#adults
-#lost weekend
-Airport Problems, Three Years Later
-we all have different coping mechanisms for coming back to school
-by
-Janet G.
 
 #### Application Deadlines
 
@@ -2017,6 +2009,7 @@ Office of Undergraduate Admissions
 University of California, Berkeley
 110 Sproul Hall #5800,
 Berkeley, CA 94720-5800
+(510) 642-3175
 Events
 MAP@Berkeley
 Volunteer

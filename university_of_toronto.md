@@ -21,8 +21,10 @@ Online
 Sessions
 Upcoming
 Events
-Connect with us
-Sign-up to receive more information about U of T
+Connect With
+Us
+Fall Campus Days
+Experience U of T during our Fall Campus Day open houses
 Apply
 Requirements
 Canadian Students
@@ -76,6 +78,7 @@ For School
 Counsellors
 Equity &
 Outreach
+Viewbooks
 Contact
 Us
 Get to know U of T
@@ -95,6 +98,7 @@ Search
 Search
 Online Sessions
 Upcoming Events
+Connect With Us
 Search
 Search
 Apply

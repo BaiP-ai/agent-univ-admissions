@@ -103,6 +103,7 @@ Loans, bursaries, and funding support
 Open submenu
 Loans for Canadian and US students
 Bursaries
+Sponsorships
 Awards for students with disabilities
 Funding for former youth in care
 Funding for veterans
@@ -157,20 +158,23 @@ Home
 Applying to UBC
 Applying to UBC
 As one of the world’s top 40 universities, UBC has competitive admission requirements and attracts elite students from around the globe.
-- Health Insurance at UBC
-As a UBC student, you must have both basic and extended health insurance.
-- Learn about health insurance at UBC
+- Watch our application tips
 Admissions Next Step
-Events and tours
-10 things you never knew about UBC
-Events and tours
-UBC Collegia on the Vancouver campus: A home away from home for commuters
-Events and tours
-Imagine UBC orientation on the Vancouver campus
-Events and tours
-Your UBC Okanagan orientations
-Events and tours
-Your UBC Vancouver orientations
+Degrees and programs
+Degree Spotlight: Urban Forestry
+Degrees and programs
+Degree spotlight: Food, Nutrition, and Health
+What are the requirements for admission to UBC?
+- Requirements for admission vary depending on where you attended high school, which UBC campus you hope to attend, and which degree you’re applying to.
+- Find your admission requirements
+Admissions Next Step
+Connect with a UBC advisor
+UBC advisors are ready to help you on your journey to UBC.
+- Our advisors can answer all of your questions about the university, including admission requirements, the application process, and what life is like as a UBC student.
+- Find an event happening near you
+Admissions Next Step
+Degrees and programs
+Degree spotlight: Applied Biology
 Your admission requirements
 Admission to UBC is competitive, and your requirements change depending on your degree and campus of choice.
 - All applicants must meet UBC’s general admission requirements and English Language Admission Standard.

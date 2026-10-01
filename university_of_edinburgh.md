@@ -160,7 +160,6 @@ Receiving our decision
 Applicant and offer holder events
 Expand/collapse submenu
 Campus offer holder events - 2026 entry
-Online applicant and offer holder events - 2026 entry
 Accepting your offer
 Expand/collapse submenu
 Accepting your offer: College of Arts, Humanities and Social Sciences
@@ -264,8 +263,6 @@ Open Day programme
 Expand/collapse submenu
 Student experience and support
 Subjects and admissions
-September Medicine visits
-September Veterinary Medicine visits
 Travel and accommodation
 Expand/collapse submenu
 Train or bus travel

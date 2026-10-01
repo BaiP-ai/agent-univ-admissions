@@ -25,6 +25,7 @@ About Overview
 Mission, Vision, & History
 Mission, Vision, & History Submenu
 History of Financial Aid
+Alumni Resources
 Dean Deming
 Dean Deming Submenu
 Messages to Students
@@ -36,8 +37,6 @@ Campus Spotlights
 Harvard Terms & Acronyms
 Información en Español
 College Offices
-College Offices Submenu
-Alumni Resources
 College News
 Admissions
 Admissions Overview

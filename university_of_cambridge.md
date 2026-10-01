@@ -103,12 +103,6 @@ Open Days and Events
 Open Days and Events overview
 Upcoming events
 Cambridge Open Days
-Open Days Programme
-General support and facilities tours
-College sessions
-Transport
-Information for the day
-Open Days FAQ
 Virtual Tour
 Subject Masterclasses
 Applicant Webinar Series
